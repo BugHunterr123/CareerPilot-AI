@@ -1,0 +1,410 @@
+[
+ {
+  "topic": "Data Structures",
+  "title": "DSA tutorials with examples",
+  "url": "https://www.programiz.com/dsa",
+  "provider": "Programiz",
+  "kind": "article",
+  "minutes": 45
+ },
+ {
+  "topic": "Data Structures",
+  "title": "NeetCode roadmap (pattern-wise problems)",
+  "url": "https://neetcode.io/roadmap",
+  "provider": "NeetCode",
+  "kind": "practice",
+  "minutes": 60
+ },
+ {
+  "topic": "Algorithms",
+  "title": "Top Interview 150 study plan",
+  "url": "https://leetcode.com/studyplan/top-interview-150/",
+  "provider": "LeetCode",
+  "kind": "practice",
+  "minutes": 60
+ },
+ {
+  "topic": "Algorithms",
+  "title": "VisuAlgo: see algorithms animate",
+  "url": "https://visualgo.net/en",
+  "provider": "VisuAlgo",
+  "kind": "article",
+  "minutes": 30
+ },
+ {
+  "topic": "SQL",
+  "title": "SQLBolt interactive lessons",
+  "url": "https://sqlbolt.com/",
+  "provider": "SQLBolt",
+  "kind": "practice",
+  "minutes": 45
+ },
+ {
+  "topic": "SQL",
+  "title": "SQL practice track",
+  "url": "https://www.hackerrank.com/domains/sql",
+  "provider": "HackerRank",
+  "kind": "practice",
+  "minutes": 45
+ },
+ {
+  "topic": "SQL",
+  "title": "Top SQL 50 study plan",
+  "url": "https://leetcode.com/studyplan/top-sql-50/",
+  "provider": "LeetCode",
+  "kind": "practice",
+  "minutes": 60
+ },
+ {
+  "topic": "DBMS",
+  "title": "Database design and normalisation (Microsoft)",
+  "url": "https://learn.microsoft.com/en-us/office/troubleshoot/access/database-normalization-description",
+  "provider": "Microsoft Learn",
+  "kind": "docs",
+  "minutes": 20
+ },
+ {
+  "topic": "DBMS",
+  "title": "PostgreSQL tutorial: transactions",
+  "url": "https://www.postgresql.org/docs/current/tutorial-transactions.html",
+  "provider": "PostgreSQL docs",
+  "kind": "docs",
+  "minutes": 20
+ },
+ {
+  "topic": "OOP",
+  "title": "Python classes tutorial",
+  "url": "https://docs.python.org/3/tutorial/classes.html",
+  "provider": "Python docs",
+  "kind": "docs",
+  "minutes": 40
+ },
+ {
+  "topic": "OOP",
+  "title": "Java: objects, classes, interfaces",
+  "url": "https://dev.java/learn/oop/",
+  "provider": "dev.java",
+  "kind": "docs",
+  "minutes": 40
+ },
+ {
+  "topic": "Operating Systems",
+  "title": "Operating Systems: Three Easy Pieces (free book)",
+  "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/",
+  "provider": "OSTEP",
+  "kind": "course",
+  "minutes": 60
+ },
+ {
+  "topic": "Computer Networks",
+  "title": "Cloudflare Learning Center: networking basics",
+  "url": "https://www.cloudflare.com/learning/",
+  "provider": "Cloudflare",
+  "kind": "article",
+  "minutes": 30
+ },
+ {
+  "topic": "Computer Networks",
+  "title": "How the web works (MDN)",
+  "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development/Getting_started/Web_standards/How_the_web_works",
+  "provider": "MDN",
+  "kind": "article",
+  "minutes": 20
+ },
+ {
+  "topic": "Python",
+  "title": "The official Python tutorial",
+  "url": "https://docs.python.org/3/tutorial/",
+  "provider": "Python docs",
+  "kind": "docs",
+  "minutes": 60
+ },
+ {
+  "topic": "Python",
+  "title": "Python for Everybody (free)",
+  "url": "https://www.py4e.com/",
+  "provider": "PY4E",
+  "kind": "course",
+  "minutes": 60
+ },
+ {
+  "topic": "Java",
+  "title": "Learn Java",
+  "url": "https://dev.java/learn/",
+  "provider": "dev.java",
+  "kind": "docs",
+  "minutes": 60
+ },
+ {
+  "topic": "JavaScript",
+  "title": "The Modern JavaScript Tutorial",
+  "url": "https://javascript.info/",
+  "provider": "javascript.info",
+  "kind": "article",
+  "minutes": 60
+ },
+ {
+  "topic": "HTML",
+  "title": "Learn web development (MDN)",
+  "url": "https://developer.mozilla.org/en-US/docs/Learn_web_development",
+  "provider": "MDN",
+  "kind": "course",
+  "minutes": 60
+ },
+ {
+  "topic": "CSS",
+  "title": "Learn CSS",
+  "url": "https://web.dev/learn/css",
+  "provider": "web.dev",
+  "kind": "course",
+  "minutes": 45
+ },
+ {
+  "topic": "React",
+  "title": "Learn React",
+  "url": "https://react.dev/learn",
+  "provider": "react.dev",
+  "kind": "docs",
+  "minutes": 60
+ },
+ {
+  "topic": "REST APIs",
+  "title": "FastAPI tutorial",
+  "url": "https://fastapi.tiangolo.com/tutorial/",
+  "provider": "FastAPI docs",
+  "kind": "docs",
+  "minutes": 60
+ },
+ {
+  "topic": "REST APIs",
+  "title": "HTTP request methods (MDN)",
+  "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods",
+  "provider": "MDN",
+  "kind": "docs",
+  "minutes": 20
+ },
+ {
+  "topic": "Authentication",
+  "title": "Introduction to JSON Web Tokens",
+  "url": "https://jwt.io/introduction",
+  "provider": "jwt.io",
+  "kind": "article",
+  "minutes": 15
+ },
+ {
+  "topic": "Git",
+  "title": "Pro Git book (free)",
+  "url": "https://git-scm.com/book/en/v2",
+  "provider": "git-scm.com",
+  "kind": "course",
+  "minutes": 45
+ },
+ {
+  "topic": "Git",
+  "title": "Learn Git Branching (interactive)",
+  "url": "https://learngitbranching.js.org/",
+  "provider": "learngitbranching",
+  "kind": "practice",
+  "minutes": 30
+ },
+ {
+  "topic": "Docker",
+  "title": "Docker: get started",
+  "url": "https://docs.docker.com/get-started/",
+  "provider": "Docker docs",
+  "kind": "docs",
+  "minutes": 45
+ },
+ {
+  "topic": "Linux",
+  "title": "The Linux command line for beginners",
+  "url": "https://ubuntu.com/tutorials/command-line-for-beginners",
+  "provider": "Ubuntu",
+  "kind": "course",
+  "minutes": 45
+ },
+ {
+  "topic": "Cloud Computing",
+  "title": "Describe cloud concepts (Azure fundamentals)",
+  "url": "https://learn.microsoft.com/en-us/training/paths/microsoft-azure-fundamentals-describe-cloud-concepts/",
+  "provider": "Microsoft Learn",
+  "kind": "course",
+  "minutes": 60
+ },
+ {
+  "topic": "AWS",
+  "title": "What is cloud computing? (AWS)",
+  "url": "https://aws.amazon.com/what-is-cloud-computing/",
+  "provider": "AWS",
+  "kind": "article",
+  "minutes": 15
+ },
+ {
+  "topic": "Cyber Security",
+  "title": "OWASP Top 10",
+  "url": "https://owasp.org/www-project-top-ten/",
+  "provider": "OWASP",
+  "kind": "article",
+  "minutes": 30
+ },
+ {
+  "topic": "Machine Learning",
+  "title": "Machine Learning Crash Course",
+  "url": "https://developers.google.com/machine-learning/crash-course",
+  "provider": "Google",
+  "kind": "course",
+  "minutes": 60
+ },
+ {
+  "topic": "scikit-learn",
+  "title": "scikit-learn: getting started",
+  "url": "https://scikit-learn.org/stable/getting_started.html",
+  "provider": "scikit-learn",
+  "kind": "docs",
+  "minutes": 45
+ },
+ {
+  "topic": "Model Evaluation",
+  "title": "Classification: accuracy, precision, recall",
+  "url": "https://developers.google.com/machine-learning/crash-course/classification/accuracy-precision-recall",
+  "provider": "Google",
+  "kind": "article",
+  "minutes": 20
+ },
+ {
+  "topic": "Statistics",
+  "title": "Statistics and probability",
+  "url": "https://www.khanacademy.org/math/statistics-probability",
+  "provider": "Khan Academy",
+  "kind": "course",
+  "minutes": 60
+ },
+ {
+  "topic": "Pandas",
+  "title": "10 minutes to pandas",
+  "url": "https://pandas.pydata.org/docs/user_guide/10min.html",
+  "provider": "pandas docs",
+  "kind": "docs",
+  "minutes": 30
+ },
+ {
+  "topic": "Data Visualization",
+  "title": "Matplotlib tutorials",
+  "url": "https://matplotlib.org/stable/tutorials/index.html",
+  "provider": "Matplotlib",
+  "kind": "docs",
+  "minutes": 30
+ },
+ {
+  "topic": "Power BI",
+  "title": "Power BI training",
+  "url": "https://learn.microsoft.com/en-us/training/powerplatform/power-bi",
+  "provider": "Microsoft Learn",
+  "kind": "course",
+  "minutes": 60
+ },
+ {
+  "topic": "Excel",
+  "title": "Excel help and learning",
+  "url": "https://support.microsoft.com/en-us/excel",
+  "provider": "Microsoft",
+  "kind": "docs",
+  "minutes": 30
+ },
+ {
+  "topic": "Deep Learning",
+  "title": "Practical Deep Learning for Coders",
+  "url": "https://course.fast.ai/",
+  "provider": "fast.ai",
+  "kind": "course",
+  "minutes": 60
+ },
+ {
+  "topic": "LLMs",
+  "title": "Hugging Face LLM course",
+  "url": "https://huggingface.co/learn/llm-course",
+  "provider": "Hugging Face",
+  "kind": "course",
+  "minutes": 60
+ },
+ {
+  "topic": "NLP",
+  "title": "Hugging Face LLM course (NLP chapters)",
+  "url": "https://huggingface.co/learn/llm-course",
+  "provider": "Hugging Face",
+  "kind": "course",
+  "minutes": 60
+ },
+ {
+  "topic": "Testing",
+  "title": "pytest: get started",
+  "url": "https://docs.pytest.org/en/stable/getting-started.html",
+  "provider": "pytest docs",
+  "kind": "docs",
+  "minutes": 30
+ },
+ {
+  "topic": "System Design",
+  "title": "System Design Primer",
+  "url": "https://github.com/donnemartin/system-design-primer",
+  "provider": "GitHub",
+  "kind": "article",
+  "minutes": 60
+ },
+ {
+  "topic": "Agile",
+  "title": "Agile guide",
+  "url": "https://www.atlassian.com/agile",
+  "provider": "Atlassian",
+  "kind": "article",
+  "minutes": 20
+ },
+ {
+  "topic": "TypeScript",
+  "title": "TypeScript handbook",
+  "url": "https://www.typescriptlang.org/docs/handbook/intro.html",
+  "provider": "typescriptlang.org",
+  "kind": "docs",
+  "minutes": 45
+ },
+ {
+  "topic": "Quantitative Aptitude",
+  "title": "Aptitude questions with solutions",
+  "url": "https://www.indiabix.com/aptitude/questions-and-answers/",
+  "provider": "IndiaBIX",
+  "kind": "practice",
+  "minutes": 45
+ },
+ {
+  "topic": "Logical Reasoning",
+  "title": "Logical reasoning practice",
+  "url": "https://www.indiabix.com/logical-reasoning/questions-and-answers/",
+  "provider": "IndiaBIX",
+  "kind": "practice",
+  "minutes": 45
+ },
+ {
+  "topic": "Verbal Ability",
+  "title": "Verbal ability practice",
+  "url": "https://www.indiabix.com/verbal-ability/questions-and-answers/",
+  "provider": "IndiaBIX",
+  "kind": "practice",
+  "minutes": 30
+ },
+ {
+  "topic": "Communication",
+  "title": "BBC Learning English",
+  "url": "https://www.bbc.co.uk/learningenglish/english/",
+  "provider": "BBC",
+  "kind": "course",
+  "minutes": 30
+ },
+ {
+  "topic": "Communication",
+  "title": "The STAR method for interview answers",
+  "url": "https://www.themuse.com/advice/star-interview-method",
+  "provider": "The Muse",
+  "kind": "article",
+  "minutes": 15
+ }
+]

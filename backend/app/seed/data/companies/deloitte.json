@@ -1,0 +1,567 @@
+{
+ "slug": "deloitte",
+ "name": "Deloitte (US-India offices, USI)",
+ "overview": "Deloitte US-India offices (USI) are Deloitte's offices in India that work for the US firm. They hire students through campus programs and through the National Level Assessment (NLA) for freshers. Deloitte says its assessment tests vary across business areas.",
+ "overview_source": "s2",
+ "careers_url": "https://www.deloitte.com/ui/en/careers/join-deloitte/students.html",
+ "variation_note": "Deloitte says assessment tests vary across business areas; NLA (Analyst Trainee) and campus Analyst drives use different patterns, and Deloitte India (not USI) practice areas have their own rounds.",
+ "roles": [
+  {
+   "title": "Analyst Trainee (National Level Assessment)",
+   "description": "Fresher role hired through Deloitte's National Level Assessment, open to engineering and other graduates. Joiners are registered as apprentices for the first year according to PrepInsta.",
+   "skills": [
+    "Coding in any one language",
+    "SQL",
+    "Computer fundamentals (OS, networks, cloud, testing)",
+    "MS Word, Excel, PowerPoint",
+    "English"
+   ],
+   "eligibility": [
+    {
+     "text": "2026 passouts",
+     "source": "s3"
+    },
+    {
+     "text": "BE/BTech, ME/MTech, Integrated MTech, MCA and others; 60%+; no active backlogs (NLA 2026 post)",
+     "source": "s11"
+    },
+    {
+     "text": "1-year probation from joining, open to rotational shifts, registered as an apprentice under the Apprenticeship Act",
+     "source": "s10"
+    }
+   ],
+   "compensation": [
+    {
+     "text": "4 LPA base + variable compensation (as reported)",
+     "source": "s10"
+    },
+    {
+     "text": "4 LPA + variable for NLA 2026 (as reported)",
+     "source": "s11"
+    }
+   ]
+  },
+  {
+   "title": "Analyst (USI campus drive, e.g. Technology / Business Technology Analyst)",
+   "description": "Campus role in USI technology teams; interviews focus on projects, SQL, basic DSA and scenario questions.",
+   "skills": [
+    "Python or Java or C++",
+    "SQL",
+    "DSA basics (searching, sorting)",
+    "OOP",
+    "HTML basics"
+   ],
+   "eligibility": [
+    {
+     "text": "No active backlogs and 60% or more aggregate (Aug 2024 campus drive)",
+     "source": "s7"
+    }
+   ],
+   "compensation": []
+  }
+ ],
+ "stages": [
+  {
+   "order": 1,
+   "name": "Application, screening and pre-placement talk",
+   "kind": "other",
+   "what": "You apply through your campus career centre or the USI jobs site, your profile is screened, and campus drives usually start with a pre-placement talk by the Deloitte team.",
+   "format": [
+    {
+     "text": "Steps: apply, assessment rounds, pre-placement talks, selection rounds, offer",
+     "source": "s1"
+    },
+    {
+     "text": "Online profile with resume, transcript details and location preference; reviewed after the deadline",
+     "source": "s2"
+    },
+    {
+     "text": "NLA: registration, resume-based screening, online assessment, online interview, final results",
+     "source": "s3"
+    }
+   ],
+   "evaluates": [
+    "Academic record",
+    "Resume"
+   ],
+   "study": [
+    "Resume in plain format",
+    "Note your grades in relevant courses"
+   ],
+   "tips": [
+    "Do not create more than one account",
+    "Take notes in the pre-placement talk; you can mention it in the interview"
+   ],
+   "before_next": "Start timed mixed MCQ practice (English, aptitude, CS fundamentals).",
+   "label": "Official"
+  },
+  {
+   "order": 2,
+   "name": "Online assessment: English + Aptitude + Computer fundamentals",
+   "kind": "aptitude",
+   "what": "One online test (often on HirePro) with English, reasoning, quant and technical MCQs. The coding section is in the same sitting.",
+   "format": [
+    {
+     "text": "NLA: 90 min total, 65 MCQs + 2 coding, no negative marking: English 10 MCQs + 3 fill in the blanks, 12 reasoning + 10 quant, 30 computer fundamentals (testing, CS, networking and cybersecurity, cloud, chosen language)",
+     "source": "s3"
+    },
+    {
+     "text": "NLA: 67 questions (65 MCQs + 2 coding) in 90 min shared",
+     "source": "s4"
+    },
+    {
+     "text": "NLA (Feb 2025): HirePro, 90 min, 5 sections, 67 questions, no negative marking, free navigation between sections",
+     "source": "s5"
+    },
+    {
+     "text": "NLA (2024): 20 aptitude, 10 English, 20 technical (debugging, programming concepts, testing, cloud, MS Office), 2 coding, 90 min",
+     "source": "s6"
+    },
+    {
+     "text": "USI campus (Aug 2024): HirePro, 90 min; analytical, quant, verbal, CS fundamentals (OS, DBMS, cloud, SQL, pseudocode); about 49 of 300 shortlisted",
+     "source": "s7"
+    },
+    {
+     "text": "Deloitte India campus (2025 batch): 50 questions in 60 min; quant and logical 20 in 25 min, verbal 10 in 10 min, computer fundamentals 20 in 25 min",
+     "source": "s9"
+    }
+   ],
+   "evaluates": [
+    "Reading and grammar",
+    "Reasoning",
+    "Quant",
+    "CS fundamentals",
+    "Speed and accuracy"
+   ],
+   "study": [
+    "Sentence arrangement, grammar, comprehension",
+    "Percentages, profit and loss, time and work",
+    "Seating and data arrangement",
+    "OS, DBMS, networks, cloud, software testing",
+    "Pseudocode output",
+    "MS Office basics"
+   ],
+   "tips": [
+    "About 1 minute per question, so do not get stuck",
+    "No negative marking in NLA reports, so attempt everything",
+    "Keep pen and paper for calculations"
+   ],
+   "before_next": "Do one full 90-minute mock with all sections.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 3,
+   "name": "Online assessment: Coding section",
+   "kind": "coding",
+   "what": "Two coding problems in the same test, usually one string and one array problem, in a language you choose.",
+   "format": [
+    {
+     "text": "1 live coding task + 1 live programming question; C, C++, C#, Java, Python and others; hidden test cases shown after Compile & Execute",
+     "source": "s3"
+    },
+    {
+     "text": "2 coding questions, one on strings and one on arrays, easy to moderate",
+     "source": "s6"
+    },
+    {
+     "text": "2 problems (1 easy, 1 medium), about 20 min kept for coding",
+     "source": "s7"
+    },
+    {
+     "text": "2 easy coding questions",
+     "source": "s5"
+    },
+    {
+     "text": "Online assessment had 1 SQL query and 1 easy coding question (Aug 2023 BTA drive)",
+     "source": "s8"
+    }
+   ],
+   "evaluates": [
+    "Correct syntax",
+    "Logic",
+    "Passing hidden test cases"
+   ],
+   "study": [
+    "Strings (reverse, count, ASCII)",
+    "Arrays (missing number, max/min, sorting)",
+    "Basic SQL SELECT with WHERE and JOIN"
+   ],
+   "tips": [
+    "Save 20 minutes for coding",
+    "Use Compile & Execute and fix failing cases before final submit"
+   ],
+   "before_next": "Practise 10 easy string and array problems in your language.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 4,
+   "name": "Versant (spoken English) test, some drives",
+   "kind": "communication",
+   "what": "An automated spoken English test reported in some campus drives as a separate elimination round.",
+   "format": [
+    {
+     "text": "Online assessment followed by a Versant test; both elimination rounds (Aug 2023 campus drive)",
+     "source": "s8"
+    }
+   ],
+   "evaluates": [
+    "Spoken English",
+    "Pronunciation",
+    "Listening"
+   ],
+   "study": [
+    "Reading aloud",
+    "Sentence repetition"
+   ],
+   "tips": [
+    "Use a quiet room and speak at a steady pace"
+   ],
+   "before_next": "Prepare your self-introduction and project pitch.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 5,
+   "name": "Technical + HR interview",
+   "kind": "technical_interview",
+   "what": "An interview on your projects, programming basics, SQL and scenario questions. Some interviewers focus on HR, others on technical topics.",
+   "format": [
+    {
+     "text": "NLA: single round of about 15 to 25 min with technical and HR questions",
+     "source": "s3"
+    },
+    {
+     "text": "NLA (Feb 2025): online video interview, about 30 to 40 min, with live coding",
+     "source": "s5"
+    },
+    {
+     "text": "USI campus: one-on-one, 30 to 50 min after the pre-placement talk",
+     "source": "s7"
+    },
+    {
+     "text": "NLA (2024): about 40 min",
+     "source": "s6"
+    },
+    {
+     "text": "BTA campus: technical round about 45 min",
+     "source": "s8"
+    }
+   ],
+   "evaluates": [
+    "Projects",
+    "Programming basics",
+    "SQL",
+    "OOP",
+    "Scenario handling",
+    "Communication"
+   ],
+   "study": [
+    "Your final-year project in depth",
+    "OOP pillars",
+    "Sorting algorithms and complexity",
+    "Basic SQL queries",
+    "STAR answers"
+   ],
+   "tips": [
+    "Explain why you chose your tech stack",
+    "Give brute force first, then the better solution",
+    "Be honest about what you know"
+   ],
+   "before_next": "Prepare stories for teamwork, deadlines and handling pressure.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 6,
+   "name": "Managerial / partner round, some roles",
+   "kind": "hr_interview",
+   "what": "Some drives add a second interview with a manager, director or partner that goes deeper into projects and workplace scenarios. Some Deloitte India practice areas also hold a group discussion before it.",
+   "format": [
+    {
+     "text": "BTA campus: managerial round about 45 min with deep project questions and scenario questions",
+     "source": "s8"
+    },
+    {
+     "text": "Deloitte India ADMM (2025 batch): group discussion, director interview, then partner round with HR and scenario questions",
+     "source": "s9"
+    }
+   ],
+   "evaluates": [
+    "Depth of project knowledge",
+    "Judgement in scenarios",
+    "Communication",
+    "Fit"
+   ],
+   "study": [
+    "Database migration and concurrency basics for your project",
+    "Deloitte's business areas",
+    "Current tech topics like Gen AI"
+   ],
+   "tips": [
+    "Stay calm if interrupted; it can be a composure test",
+    "Have a question ready for the interviewer"
+   ],
+   "before_next": "Keep documents ready; results are often shared through your college within a day or two.",
+   "label": "Candidate-reported"
+  }
+ ],
+ "questions": [
+  {
+   "stage_order": 5,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "easy",
+   "question": "Find the missing number in an array containing numbers from 1 to N with one number missing. Give time and space complexity.",
+   "options": null,
+   "answer": "Missing = N*(N+1)/2 minus sum of the array. [1,2,4,5,6] with N=6 gives 3. O(n) time, O(1) space.",
+   "label": "Candidate-reported",
+   "source": "s5"
+  },
+  {
+   "stage_order": 5,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "medium",
+   "question": "How would you handle a situation where a project is cancelled close to the deadline?",
+   "options": null,
+   "answer": "Stay calm, understand why, save and document the work done, move the team to the new priority, and note what can be reused.",
+   "label": "Candidate-reported",
+   "source": "s5"
+  },
+  {
+   "stage_order": 5,
+   "subject": "OOP",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "Explain inheritance, polymorphism, encapsulation and abstraction.",
+   "options": null,
+   "answer": "Inheritance: reuse a parent class. Polymorphism: one name, many forms (overloading/overriding). Encapsulation: hide data behind methods. Abstraction: show only what is needed.",
+   "label": "Candidate-reported",
+   "source": "s5"
+  },
+  {
+   "stage_order": 5,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "easy",
+   "question": "Write a program to print the characters of a string with their ASCII codes.",
+   "options": null,
+   "answer": "for ch in s: print(ch, ord(ch)). 'AB' prints A 65 and B 66.",
+   "label": "Candidate-reported",
+   "source": "s6"
+  },
+  {
+   "stage_order": 5,
+   "subject": "Other",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "What is Arduino and what is it used for?",
+   "options": null,
+   "answer": "A low-cost open-source microcontroller board you program to read sensors and control devices; used in IoT, robotics and prototypes.",
+   "label": "Candidate-reported",
+   "source": "s6"
+  },
+  {
+   "stage_order": 5,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "easy",
+   "question": "Print an inverted full pyramid star pattern in Python.",
+   "options": null,
+   "answer": "for i in range(n,0,-1): print(' '*(n-i) + '*'*(2*i-1)). For n=4 the rows have 7, 5, 3, 1 stars.",
+   "label": "Candidate-reported",
+   "source": "s8"
+  },
+  {
+   "stage_order": 5,
+   "subject": "Coding",
+   "type": "short",
+   "difficulty": "medium",
+   "question": "Sort a random array of integers. Explain bubble sort and merge sort with their time complexity.",
+   "options": null,
+   "answer": "Bubble sort swaps neighbours: O(n^2) worst/average. Merge sort splits, sorts and merges: O(n log n) always, O(n) extra space.",
+   "label": "Candidate-reported",
+   "source": "s8"
+  },
+  {
+   "stage_order": 5,
+   "subject": "Other",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "What is the marquee tag in HTML, and what are the advantages of Bootstrap?",
+   "options": null,
+   "answer": "<marquee> scrolls text but is obsolete (use CSS animation). Bootstrap gives a ready responsive grid and components, so pages build faster and look consistent.",
+   "label": "Candidate-reported",
+   "source": "s8"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "medium",
+   "question": "A colleague is stuck and their deadline is very close, but your team's deadline is also close. How will you help?",
+   "options": null,
+   "answer": "Check the size of their issue, give quick focused help or point to the right person, keep your own commitment, and tell your lead early if timelines are at risk.",
+   "label": "Candidate-reported",
+   "source": "s8"
+  },
+  {
+   "stage_order": 5,
+   "subject": "Project",
+   "type": "short",
+   "difficulty": "medium",
+   "question": "Suggest improvements for an autonomous parking system.",
+   "options": null,
+   "answer": "Example points: better sensors and camera fusion, live slot availability in an app, pre-booking and payments, safety fallbacks, and logging data to improve the model.",
+   "label": "Candidate-reported",
+   "source": "s7"
+  },
+  {
+   "stage_order": 6,
+   "subject": "Other",
+   "type": "short",
+   "difficulty": "medium",
+   "question": "Group discussion: an EV company has good sales but poor after-sales service and little digitalisation, so customers are unhappy. Propose a solution.",
+   "options": null,
+   "answer": "Possible points: service booking app with tracking, connected-car diagnostics, more trained service partners, feedback loops and clear service SLAs.",
+   "label": "Candidate-reported",
+   "source": "s9"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is printed? x=5, y=0; for i = 1 to x: if i mod 2 == 0 then y = y + i else y = y - 1; print y",
+   "options": [
+    "1",
+    "3",
+    "6",
+    "-3"
+   ],
+   "answer": "3. Odd i (1,3,5) subtract 1 each (-3), even i add 2 + 4 (+6), so y = 3.",
+   "label": "AI practice",
+   "source": null
+  },
+  {
+   "stage_order": 2,
+   "subject": "Quant",
+   "type": "mcq",
+   "difficulty": "easy",
+   "question": "A can finish a job in 12 days and B in 18 days. How many days do they take together?",
+   "options": [
+    "6",
+    "7.2",
+    "8",
+    "9"
+   ],
+   "answer": "7.2 days. 1/12 + 1/18 = 5/36 per day, so 36/5 = 7.2.",
+   "label": "AI practice",
+   "source": null
+  },
+  {
+   "stage_order": 2,
+   "subject": "Other",
+   "type": "mcq",
+   "difficulty": "easy",
+   "question": "Which type of testing checks that a new change has not broken existing features?",
+   "options": [
+    "Unit testing",
+    "Regression testing",
+    "Smoke testing",
+    "Acceptance testing"
+   ],
+   "answer": "Regression testing re-runs existing tests after a change.",
+   "label": "AI practice",
+   "source": null
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "url": "https://www.deloitte.com/ui/en/careers/join-deloitte/students.html",
+   "title": "Entry Level Careers | Deloitte US-India Offices",
+   "publisher": "Deloitte USI (official)",
+   "date": null,
+   "label": "Official"
+  },
+  {
+   "id": "s2",
+   "url": "https://www.deloitte.com/ui/en/careers/join-deloitte/recruiting-tips/recruitment-process.html",
+   "title": "Recruitment Process | Deloitte US-India offices",
+   "publisher": "Deloitte USI (official)",
+   "date": null,
+   "label": "Official"
+  },
+  {
+   "id": "s3",
+   "url": "https://prepinsta.com/deloitte-nla/recruitment-process/",
+   "title": "Deloitte NLA Recruitment Process for Fresher 2026",
+   "publisher": "PrepInsta",
+   "date": "2026-02-17",
+   "label": "Third-party"
+  },
+  {
+   "id": "s4",
+   "url": "https://www.placementpreparation.io/deloitte/syllabus-and-test-pattern/",
+   "title": "Deloitte Latest Syllabus & Test Pattern 2026",
+   "publisher": "PlacementPreparation.io",
+   "date": null,
+   "label": "Third-party"
+  },
+  {
+   "id": "s5",
+   "url": "https://www.geeksforgeeks.org/interview-experiences/deloitte-interview-experience-through-nla/",
+   "title": "Deloitte Interview Experience through NLA",
+   "publisher": "GeeksforGeeks",
+   "date": "2025-12-19",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s6",
+   "url": "https://www.geeksforgeeks.org/interview-experiences/deloitte-interview-experience-for-analyst-trainee-national-level-assesment/",
+   "title": "Deloitte Interview Experience for Analyst Trainee (National Level Assessment)",
+   "publisher": "GeeksforGeeks",
+   "date": "2024-05-15",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s7",
+   "url": "https://www.geeksforgeeks.org/interview-experiences/deloitte-usi-interview-experience-for-analyst-on-campus-2024/",
+   "title": "Deloitte USI Interview Experience for Analyst | On-Campus 2024",
+   "publisher": "GeeksforGeeks",
+   "date": "2025-01-14",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s8",
+   "url": "https://www.geeksforgeeks.org/interview-experiences/deloitte-usi-interview-experience-business-technology-analyst-on-campus/",
+   "title": "Deloitte USI Interview Experience | Business Technology Analyst | On-Campus",
+   "publisher": "GeeksforGeeks",
+   "date": "2025-07-23",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s9",
+   "url": "https://www.geeksforgeeks.org/interview-experiences/deloitte-india-interview-experience-admm-analyst-full-time-2025-batch-on-campus/",
+   "title": "Deloitte India | Interview Experience | ADMM Analyst | Full-Time | 2025 Batch On Campus",
+   "publisher": "GeeksforGeeks",
+   "date": "2024-09-30",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s10",
+   "url": "https://prepinsta.com/deloitte-nla/salary/",
+   "title": "Deloitte NLA Salary 2025",
+   "publisher": "PrepInsta",
+   "date": "2025-01-08",
+   "label": "Third-party"
+  },
+  {
+   "id": "s11",
+   "url": "https://www.linkedin.com/posts/vinodhkumar-r_deloitte-nla-2026-national-level-assessment-activity-7415268395631210496-5Fip",
+   "title": "Deloitte NLA 2026 National Level Assessment (LinkedIn post, read from search snippet)",
+   "publisher": "LinkedIn",
+   "date": null,
+   "label": "Third-party"
+  }
+ ]
+}

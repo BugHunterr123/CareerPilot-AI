@@ -1,0 +1,614 @@
+{
+ "slug": "capgemini",
+ "name": "Capgemini",
+ "overview": "Capgemini is an IT services and consulting group headquartered in Paris, France. Its investor page says it has over 420,000 team members in more than 50 countries. In India it hires freshers through on-campus and off-campus drives, which candidates and prep sites call the Exceller program.",
+ "overview_source": "s10",
+ "careers_url": "https://www.capgemini.com/in-en/careers/career-paths/students-and-graduates/",
+ "variation_note": "The order and number of rounds change by college, drive and batch year (for example, one 2026-batch report had the communication round first), so check your own drive mail.",
+ "roles": [
+  {
+   "title": "Analyst (A4)",
+   "description": "Entry-level software role for engineering freshers. Most freshers join at this grade; the grade you get depends on how you do in the coding round.",
+   "skills": [
+    "C / C++ / Java / Python basics",
+    "Pseudocode output",
+    "OOP",
+    "DBMS / SQL",
+    "Computer Networks",
+    "Operating Systems",
+    "English communication"
+   ],
+   "eligibility": [
+    {
+     "text": "60% throughout academics (10th, 12th, graduation), as listed for the 2026 batch",
+     "source": "s4"
+    },
+    {
+     "text": "Another source lists minimum 65% throughout academics (10th, 12th, UG/PG); check your drive mail as sources disagree",
+     "source": "s8"
+    },
+    {
+     "text": "B.E/B.Tech in any branch; M.Sc in Computer Science or IT can also apply",
+     "source": "s4"
+    },
+    {
+     "text": "No active backlog at the time of the selection process",
+     "source": "s4"
+    }
+   ],
+   "compensation": [
+    {
+     "text": "4.25 LPA base package, offered if you do not clear the coding round (as reported for Exceller 2026)",
+     "source": "s4"
+    },
+    {
+     "text": "4 to 4.25 LPA for A4 Analyst (as reported)",
+     "source": "s9"
+    },
+    {
+     "text": "A 2026-batch candidate reports A4 if coding questions are solved partially",
+     "source": "s6"
+    }
+   ]
+  },
+  {
+   "title": "Analyst Star / A4(P)",
+   "description": "Same entry role at a higher pay band, linked to solving one coding question fully.",
+   "skills": [
+    "Arrays",
+    "Strings",
+    "Basic DSA",
+    "One of C/C++/Java/Python"
+   ],
+   "eligibility": [
+    {
+     "text": "Same academic criteria as Analyst; band decided by coding round result",
+     "source": "s4"
+    },
+    {
+     "text": "A 2026-batch candidate reports A4(P) if one coding question is solved fully",
+     "source": "s6"
+    }
+   ],
+   "compensation": [
+    {
+     "text": "5.75 LPA if you clear 1 coding question (as reported)",
+     "source": "s4"
+    },
+    {
+     "text": "Star Analyst 5.75 LPA, not offered on every campus or batch (as reported)",
+     "source": "s9"
+    }
+   ]
+  },
+  {
+   "title": "Senior Analyst (A5)",
+   "description": "Higher entry band for freshers who solve both coding questions; one candidate reports the role as Senior Software Engineer.",
+   "skills": [
+    "DSA (arrays, strings, hashing)",
+    "Problem solving",
+    "OOP",
+    "SQL"
+   ],
+   "eligibility": [
+    {
+     "text": "Same academic criteria as Analyst; offered when both coding questions are solved",
+     "source": "s4"
+    },
+    {
+     "text": "A 2026-batch candidate reports A5 if both coding questions are solved",
+     "source": "s6"
+    }
+   ],
+   "compensation": [
+    {
+     "text": "7.5 LPA if you clear both coding questions (as reported)",
+     "source": "s4"
+    },
+    {
+     "text": "Senior Analyst 7.5 LPA, selective (as reported)",
+     "source": "s9"
+    }
+   ]
+  }
+ ],
+ "stages": [
+  {
+   "order": 1,
+   "name": "Online assessment: Technical MCQs + Pseudocode",
+   "kind": "technical_mcq",
+   "what": "An online MCQ test on CS basics where many questions ask you to find the output of a short pseudocode. It is an elimination round.",
+   "format": [
+    {
+     "text": "40 questions, 40 to 50 minutes; topics C, C++, OOP, data structures, pseudocode, SQL/DBMS, networks, OS; elimination round",
+     "source": "s3"
+    },
+    {
+     "text": "2026-batch on-campus report: 40 questions of pseudocode and scenario-based IT fundamentals (databases, computer networks, cloud), on the CoCubes platform; elimination round",
+     "source": "s6"
+    },
+    {
+     "text": "2025 on-campus report: 25 questions, 15 pseudocode (arrays, stack, queue, bitwise and arithmetic operators, pre/post increment, medium to hard) and 10 easy MCQs on languages and DSA theory",
+     "source": "s5"
+    }
+   ],
+   "evaluates": [
+    "Reading code and tracing output",
+    "CS fundamentals",
+    "Speed and accuracy"
+   ],
+   "study": [
+    "Pseudocode output tracing (loops, recursion, arrays)",
+    "Bitwise operators and shifts",
+    "Pre/post increment",
+    "Stack and queue operations",
+    "SQL and DBMS basics",
+    "Computer networks and OS basics",
+    "Cloud computing basics"
+   ],
+   "tips": [
+    "Trace each pseudocode line by line on paper with a small table of variable values",
+    "Practise bitwise AND, OR, XOR and shifts until they are quick",
+    "Skip a long trace and come back if time allows"
+   ],
+   "before_next": "Be able to solve 15 to 20 pseudocode output questions in under a minute each and revise DBMS, networks, OS and cloud basics.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 2,
+   "name": "English communication test (written + spoken)",
+   "kind": "communication",
+   "what": "A written English MCQ test and, in many drives, a spoken English test taken on a headset. Some drives hold it first, from home.",
+   "format": [
+    {
+     "text": "30 questions in 30 minutes; sentence correction, prepositions, grammar, reading comprehension, synonyms and antonyms, tenses, articles, error spotting, sentence arrangement",
+     "source": "s3"
+    },
+    {
+     "text": "2026-batch report: held first, online from home; grammar MCQs, business communication writing, fill in the blanks, then spoken part: read and repeat, hear and repeat, speak on a topic, conversation questions",
+     "source": "s6"
+    },
+    {
+     "text": "2025 report: spoken round had read and repeat, hear and repeat, listen to a conversation and answer, and a topic with 30 seconds to think and 45 seconds to speak; no repetition allowed",
+     "source": "s5"
+    },
+    {
+     "text": "PrepInsta says the older Essay Writing Test was removed for the 2025/2026 pattern",
+     "source": "s3"
+    },
+    {
+     "text": "An older summary still lists an essay in the online round; treat the essay as possible but not confirmed for your drive",
+     "source": "s8"
+    }
+   ],
+   "evaluates": [
+    "Grammar and vocabulary",
+    "Listening",
+    "Pronunciation and fluency",
+    "Short business writing"
+   ],
+   "study": [
+    "Tenses, articles, prepositions",
+    "Error spotting and sentence correction",
+    "Synonyms and antonyms",
+    "Speaking for 45 seconds on a simple topic",
+    "Formal email writing"
+   ],
+   "tips": [
+    "Sit in a quiet room with a good headset; the spoken part does not repeat audio",
+    "For the topic task, use the 30 seconds to pick 2 or 3 points and speak slowly"
+   ],
+   "before_next": "Do one timed grammar set and record yourself speaking on 3 random topics for 45 seconds each.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 3,
+   "name": "Game-based cognitive test + behavioural profile",
+   "kind": "game_based",
+   "what": "Short puzzle games picked from a pool, plus a behavioural questionnaire with no right or wrong answers.",
+   "format": [
+    {
+     "text": "4 games chosen from 24, 25 to 30 minutes; games include Geo-Sudo (deductive), inductive logic, Motion, Switch, Digit and Grid challenges",
+     "source": "s3"
+    },
+    {
+     "text": "Behavioural test of about 100 questions, mainly in off-campus drives",
+     "source": "s3"
+    },
+    {
+     "text": "2025 on-campus report: timed puzzle games and 75 psychometric questions",
+     "source": "s5"
+    }
+   ],
+   "evaluates": [
+    "Logical reasoning",
+    "Working memory",
+    "Focus under time pressure",
+    "Work behaviour"
+   ],
+   "study": [
+    "Practice versions of Switch, Digit, Grid, Motion and Geo-Sudo games",
+    "Basic deductive and inductive reasoning"
+   ],
+   "tips": [
+    "Read each game's rules carefully before the timer starts",
+    "Answer the behavioural questions honestly and consistently"
+   ],
+   "before_next": "Play each game type at least twice in a free practice tool so the rules feel familiar.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 4,
+   "name": "Coding round (decides your pay band)",
+   "kind": "coding",
+   "what": "Two programming problems. How many you solve decides the grade and package you are offered.",
+   "format": [
+    {
+     "text": "2 questions in 45 minutes",
+     "source": "s3"
+    },
+    {
+     "text": "2026-batch report: coding was compulsory; partial solve = A4, one full solve = A4(P), both = A5",
+     "source": "s6"
+    },
+    {
+     "text": "2025 on-campus report: only top performers in the online test got to attempt coding",
+     "source": "s5"
+    }
+   ],
+   "evaluates": [
+    "Problem solving",
+    "Writing working code",
+    "Handling edge cases"
+   ],
+   "study": [
+    "Arrays",
+    "Strings",
+    "Hashing with dict/set",
+    "Sorting",
+    "Basic math problems (digits, primes)"
+   ],
+   "tips": [
+    "Read input format carefully; most marks are lost on input/output",
+    "Get one problem fully correct before polishing the second"
+   ],
+   "before_next": "Solve 15 to 20 easy and medium array/string problems in your chosen language with stdin/stdout.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 5,
+   "name": "Technical interview",
+   "kind": "technical_interview",
+   "what": "A one-to-one interview on your resume, projects and CS basics, sometimes with a small program to write.",
+   "format": [
+    {
+     "text": "20 to 35 minutes, technical and resume discussion",
+     "source": "s3"
+    },
+    {
+     "text": "2025 report: about 25 to 30 minutes; SQL basics, keys, UNION vs UNION ALL, OOP with examples, break/continue/pass, a palindrome program in Python, SDLC and Agile",
+     "source": "s5"
+    },
+    {
+     "text": "Official India recruitment page: one or two technical interviews may be held, by video or in person",
+     "source": "s2"
+    }
+   ],
+   "evaluates": [
+    "Depth on your own projects",
+    "OOP, DBMS, SQL",
+    "Coding basics",
+    "Clarity of explanation"
+   ],
+   "study": [
+    "Every line of your resume and projects",
+    "OOP pillars with examples",
+    "SQL keys, joins, UNION",
+    "SDLC, Agile, Waterfall",
+    "Your main language's basics"
+   ],
+   "tips": [
+    "Revise every tool and certificate on your resume; interviewers pick from it",
+    "Explain your project as problem, approach, your part, result"
+   ],
+   "before_next": "Prepare a 1-minute intro and a 2-minute explanation of each project, and revise OOP, DBMS and SQL.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 6,
+   "name": "HR interview",
+   "kind": "hr_interview",
+   "what": "A short behavioural talk about you, your goals and fit, sometimes merged with the technical interview.",
+   "format": [
+    {
+     "text": "10 to 20 minutes",
+     "source": "s3"
+    },
+    {
+     "text": "Official India recruitment page: an HR behavioural interview follows a successful technical evaluation",
+     "source": "s2"
+    },
+    {
+     "text": "2026-batch report: interview was a mix of technical and behavioural, held offline",
+     "source": "s6"
+    }
+   ],
+   "evaluates": [
+    "Communication",
+    "Attitude and goals",
+    "Flexibility (location, shifts)"
+   ],
+   "study": [
+    "Self introduction",
+    "Why Capgemini",
+    "Strengths and weaknesses",
+    "5-year goal",
+    "A story about a tough time"
+   ],
+   "tips": [
+    "Keep answers short and honest",
+    "Be ready to say yes or no clearly on relocation"
+   ],
+   "before_next": "Keep documents ready for the candidate portal after selection.",
+   "label": "Candidate-reported"
+  }
+ ],
+ "questions": [
+  {
+   "stage_order": 5,
+   "subject": "DBMS",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "What is the difference between a primary key and a foreign key?",
+   "options": null,
+   "answer": "A primary key uniquely identifies each row in its own table and cannot be NULL; a foreign key is a column that refers to the primary key of another table to link the two tables, and it can repeat.",
+   "label": "Candidate-reported",
+   "source": "s5"
+  },
+  {
+   "stage_order": 5,
+   "subject": "SQL",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "What is the difference between UNION and UNION ALL?",
+   "options": null,
+   "answer": "UNION combines results and removes duplicate rows; UNION ALL keeps all rows including duplicates, so it is faster.",
+   "label": "Candidate-reported",
+   "source": "s5"
+  },
+  {
+   "stage_order": 5,
+   "subject": "Coding",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "What do break, continue and pass do in Python?",
+   "options": null,
+   "answer": "break exits the loop, continue skips to the next loop iteration, pass does nothing and is used as a placeholder where code is required.",
+   "label": "Candidate-reported",
+   "source": "s5"
+  },
+  {
+   "stage_order": 5,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "easy",
+   "question": "Write a Python program to print the palindrome numbers from 1 to N.",
+   "options": null,
+   "answer": "n = int(input()); print([x for x in range(1, n+1) if str(x) == str(x)[::-1]]). A number is a palindrome if it reads the same reversed; for N=50 this prints 1..9, 11, 22, 33, 44.",
+   "label": "Candidate-reported",
+   "source": "s5"
+  },
+  {
+   "stage_order": 5,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "easy",
+   "question": "Write code for bubble sort.",
+   "options": null,
+   "answer": "Repeatedly swap adjacent elements that are out of order: for i in range(n): for j in range(n-1-i): if a[j] > a[j+1]: swap. Stop early if no swap happens in a pass. [5,1,4,2,8] becomes [1,2,4,5,8]. O(n^2) time.",
+   "label": "Candidate-reported",
+   "source": "s7"
+  },
+  {
+   "stage_order": 5,
+   "subject": "Other",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "What is a garbage value in C?",
+   "options": null,
+   "answer": "The unpredictable leftover value in an uninitialised local variable; C does not clear memory for local variables, so always initialise before use.",
+   "label": "Candidate-reported",
+   "source": "s7"
+  },
+  {
+   "stage_order": 5,
+   "subject": "OOP",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "What is the difference between C and Java?",
+   "options": null,
+   "answer": "C is procedural, compiled to machine code and uses manual memory management with pointers; Java is object-oriented, compiled to bytecode that runs on the JVM, and uses garbage collection with no direct pointers.",
+   "label": "Candidate-reported",
+   "source": "s7"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "Why do you want to join Capgemini?",
+   "options": null,
+   "answer": "Link your goals to facts: large training program for freshers, work on many client domains, and the chance to grow in the technology you studied. Keep it to 3 or 4 lines and true to you.",
+   "label": "Candidate-reported",
+   "source": "s7"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "Where do you see yourself in 5 years?",
+   "options": null,
+   "answer": "Say a realistic path: strong in your tech stack, trusted on client work, maybe leading a small module. Avoid saying you plan to leave.",
+   "label": "Candidate-reported",
+   "source": "s7"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "medium",
+   "question": "Tell me about how you overcame a tough time in your life.",
+   "options": null,
+   "answer": "Use STAR: situation, what you had to do, the steps you took, and the result plus what you learned. Pick a real, low-drama example such as a failed exam or a project setback.",
+   "label": "Candidate-reported",
+   "source": "s6"
+  },
+  {
+   "stage_order": 1,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Integer a = 5, b = 3. Set a = a ^ b; b = a ^ b; a = a ^ b. Print a, b. (^ is bitwise XOR)",
+   "options": [
+    "5 3",
+    "3 5",
+    "6 6",
+    "0 0"
+   ],
+   "answer": "3 5. Three XORs swap the two values without a temp variable.",
+   "label": "AI practice",
+   "source": null
+  },
+  {
+   "stage_order": 1,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Integer x = 12. Print (x >> 2) + (x & 6).",
+   "options": [
+    "3",
+    "4",
+    "7",
+    "10"
+   ],
+   "answer": "7. 12 >> 2 = 3; 12 & 6 is 1100 & 0110 = 0100 = 4; 3 + 4 = 7.",
+   "label": "AI practice",
+   "source": null
+  },
+  {
+   "stage_order": 1,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "s = 0. For i = 1 to 10 step 3: if i mod 2 = 0 then s = s + i else s = s - 1. Print s.",
+   "options": [
+    "10",
+    "12",
+    "14",
+    "8"
+   ],
+   "answer": "12. i takes 1, 4, 7, 10: s = -1, 3, 2, 12.",
+   "label": "AI practice",
+   "source": null
+  },
+  {
+   "stage_order": 2,
+   "subject": "Verbal",
+   "type": "mcq",
+   "difficulty": "easy",
+   "question": "Choose the correct option: She has been working here ____ 2022.",
+   "options": [
+    "for",
+    "since",
+    "from",
+    "by"
+   ],
+   "answer": "since. Use 'since' with a starting point in time and 'for' with a length of time.",
+   "label": "AI practice",
+   "source": null
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "url": "https://www.capgemini.com/in-en/careers/career-paths/students-and-graduates/",
+   "title": "Capgemini Jobs for Freshers, Graduates | Capgemini India",
+   "publisher": "Capgemini (official)",
+   "date": "2025-10-10",
+   "label": "Official"
+  },
+  {
+   "id": "s2",
+   "url": "https://www.capgemini.com/in-en/careers/join-capgemini/recruitment-process/",
+   "title": "Recruitment process | Hiring steps - Capgemini India",
+   "publisher": "Capgemini (official)",
+   "date": "2026-05-15",
+   "label": "Official"
+  },
+  {
+   "id": "s3",
+   "url": "https://prepinsta.com/capgemini-syllabus/",
+   "title": "(Updated) Capgemini Exceller Syllabus 2026",
+   "publisher": "PrepInsta",
+   "date": "2026-02-25",
+   "label": "Third-party"
+  },
+  {
+   "id": "s4",
+   "url": "https://prepinsta.com/capgemini/eligibility-criteria/",
+   "title": "Capgemini Exceller Eligibility Criteria for Freshers 2026",
+   "publisher": "PrepInsta",
+   "date": "2025-11-20",
+   "label": "Third-party"
+  },
+  {
+   "id": "s5",
+   "url": "https://www.geeksforgeeks.org/interview-experiences/capgemini-interview-experience-2025-on-campus/",
+   "title": "Capgemini interview experience (2025 - On Campus)",
+   "publisher": "GeeksforGeeks",
+   "date": "2025-06-03",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s6",
+   "url": "https://www.geeksforgeeks.org/interview-experiences/capgemini-interview-experience-for-software-engineer-2026-on-campus/",
+   "title": "Capgemini Interview Experience for Software Engineer (2026 batch, on campus)",
+   "publisher": "GeeksforGeeks",
+   "date": "2025-10-10",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s7",
+   "url": "https://www.geeksforgeeks.org/interview-experiences/capgemini-interview-experience-for-analyst-trainee/",
+   "title": "Capgemini Interview Experience For Analyst Trainee",
+   "publisher": "GeeksforGeeks",
+   "date": "2024-05-03",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s8",
+   "url": "https://www.geeksforgeeks.org/interview-experiences/capgemini-recruitment-process/",
+   "title": "Capgemini Recruitment Process",
+   "publisher": "GeeksforGeeks",
+   "date": "2025-11-20",
+   "label": "Third-party"
+  },
+  {
+   "id": "s9",
+   "url": "https://www.intervue.io/blog/capgemini-salary-india",
+   "title": "Capgemini Salary in India: Analyst, Star, Senior Analyst and Beyond",
+   "publisher": "Intervue",
+   "date": "2026-09-25",
+   "label": "Third-party"
+  },
+  {
+   "id": "s10",
+   "url": "https://investors.capgemini.com/en/about-us/",
+   "title": "About us & Key figures",
+   "publisher": "Capgemini (official, investors)",
+   "date": null,
+   "label": "Official"
+  }
+ ]
+}

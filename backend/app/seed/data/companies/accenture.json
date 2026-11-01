@@ -1,0 +1,3917 @@
+{
+ "slug": "accenture",
+ "name": "Accenture",
+ "overview": "Accenture is a global professional services company working in technology consulting, operations and digital services. In India it hires freshers on campus in large numbers for software engineering roles.",
+ "overview_source": "s2",
+ "careers_url": "https://www.accenture.com/in-en/careers",
+ "variation_note": "Accenture does not publish its campus test pattern. Everything here is from candidate reports (Sep 2025 to Oct 2026) and varies by college, date and role.",
+ "roles": [
+  {
+   "title": "Associate Software Engineer (ASE)",
+   "description": "Entry-level software engineering role offered through campus drives.",
+   "skills": [
+    "Python",
+    "Java",
+    "SQL",
+    "OOP",
+    "HTML",
+    "JavaScript",
+    "Data Structures"
+   ],
+   "eligibility": [
+    {
+     "text": "Not found in the sources we checked. Confirm eligibility (CGPA, backlogs) with your placement cell.",
+     "source": "s1"
+    }
+   ],
+   "compensation": [
+    {
+     "text": "About 4.5 LPA (candidate-reported)",
+     "source": "s5"
+    }
+   ]
+  },
+  {
+   "title": "Advanced Associate Software Engineer (AASE)",
+   "description": "Higher band offered to candidates with stronger test and interview performance.",
+   "skills": [
+    "Data Structures",
+    "Algorithms",
+    "SQL",
+    "OOP",
+    "JavaScript"
+   ],
+   "eligibility": [
+    {
+     "text": "Not found in the sources we checked. Confirm with your placement cell.",
+     "source": "s1"
+    }
+   ],
+   "compensation": [
+    {
+     "text": "About 6.5 LPA (candidate-reported)",
+     "source": "s5"
+    }
+   ]
+  },
+  {
+   "title": "Advanced Application Engineering Analyst (AEH)",
+   "description": "Highest campus band; reported to need strong coding and a longer interview.",
+   "skills": [
+    "Data Structures",
+    "Algorithms",
+    "SQL",
+    "System Design",
+    "OOP"
+   ],
+   "eligibility": [
+    {
+     "text": "Not found in the sources we checked. Confirm with your placement cell.",
+     "source": "s1"
+    }
+   ],
+   "compensation": [
+    {
+     "text": "About 11.9 to 12 LPA (candidate-reported, GfG Jul 2026 says 11.89 LPA)",
+     "source": "s6"
+    }
+   ]
+  }
+ ],
+ "stages": [
+  {
+   "order": 1,
+   "name": "Behavioural (psychometric) assessment",
+   "kind": "other",
+   "what": "A personality-style questionnaire. You rate statements from strongly agree to strongly disagree. There are no right answers; be consistent and honest.",
+   "format": [
+    {
+     "text": "About 50 to 54 questions, about 20 min",
+     "source": "s3"
+    },
+    {
+     "text": "Elimination: Reported as not eliminating (Likert scale: strongly agree to disagree)",
+     "source": "s3"
+    },
+    {
+     "text": "Also described in: GeeksforGeeks",
+     "source": "s5"
+    },
+    {
+     "text": "Also described in: Reddit r/Btechtards, 2025-10-29",
+     "source": "s7"
+    },
+    {
+     "text": "Also described in: Reddit r/accenture_india, 2026-10-10",
+     "source": "s11"
+    },
+    {
+     "text": "Original source notes: PrepInsta syllabus page, 2026 (54 Qs, 20 min); GfG AASE report, test 13 Oct 2025 (50 Qs); Reddit r/Btechtards, Oct 2025 (no eliminations, as far as the writer knew); Reddit r/accenture_india, 10 Oct 2026 (Likert, non-elimination)",
+     "source": "s3"
+    }
+   ],
+   "evaluates": [
+    "Self-awareness",
+    "Consistent answers"
+   ],
+   "study": [
+    "Self-awareness",
+    "Consistent answers"
+   ],
+   "tips": [
+    "Answer quickly and honestly; overthinking slows you down.",
+    "Candidates report it is not eliminating, but keep answers consistent."
+   ],
+   "before_next": "Nothing to prepare in depth; read the instructions and attempt every statement.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 2,
+   "name": "Gamified cognitive assessment (games)",
+   "kind": "game_based",
+   "what": "Short timed mini-games that test arithmetic speed, logic and memory, for example picking number bubbles in ascending order.",
+   "format": [
+    {
+     "text": "3 games, about 20 min. One game: 25 arithmetic questions, 15 s each",
+     "source": "s3"
+    },
+    {
+     "text": "Elimination: Mixed: GfG Jan 2026 says not eliminating; Reddit Oct 2025 and 10 Oct 2026 say eliminating",
+     "source": "s3"
+    },
+    {
+     "text": "Also described in: Reddit r/PlacementsPrep, 2026-09-24",
+     "source": "s8"
+    },
+    {
+     "text": "Also described in: Reddit r/Btechtards, 2025-10-29",
+     "source": "s7"
+    },
+    {
+     "text": "Original source notes: PrepInsta 2026 (3 games, 20 min); Reddit r/PlacementsPrep 15 and 24 Sep 2026 (25 Qs x 15 s, 'bubble' game); Reddit Oct 2025 (rocket, key-to-door, arithmetic games); Reddit 10-11 Oct 2026 (games take about a minute each; some arithmetic items 10 s)",
+     "source": "s3"
+    }
+   ],
+   "evaluates": [
+    "Quantitative Aptitude",
+    "Logical Reasoning",
+    "Mental maths"
+   ],
+   "study": [
+    "Quantitative Aptitude",
+    "Logical Reasoning",
+    "Mental maths"
+   ],
+   "tips": [
+    "Practise mental arithmetic for 10 minutes a day; one game gives 15 seconds per question.",
+    "Reports disagree on whether games eliminate, so treat them seriously."
+   ],
+   "before_next": "Be ready to switch straight into the technical MCQ section.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 3,
+   "name": "Technical MCQ assessment",
+   "kind": "technical_mcq",
+   "what": "One timed MCQ section covering pseudocode output (bitwise, loops, recursion), cloud, security, DBMS, networks, OS, HTML and MS Office basics.",
+   "format": [
+    {
+     "text": "45 questions, 45 min",
+     "source": "s3"
+    },
+    {
+     "text": "Elimination: Yes. Half a class out in one Sep 2026 report",
+     "source": "s3"
+    },
+    {
+     "text": "Also described in: Reddit r/PlacementsPrep, 2026-09-24",
+     "source": "s8"
+    },
+    {
+     "text": "Also described in: Reddit r/accenture_india, 2026-10-10",
+     "source": "s11"
+    },
+    {
+     "text": "Original source notes: PrepInsta 2026 (45 Qs, 45 min); Reddit 24 Sep 2026 ('39/45'); Reddit 25 Sep 2026 (about 14 pseudocode, 6 to 7 cloud + security, DBMS, HTML, networks, OS, MS Word); Reddit 10 Oct 2026 (about 8 pseudocode, 6-7 cloud + security, 3-4 DBMS, 2-3 HTML, 4-5 networks, 3-4 OS)",
+     "source": "s3"
+    }
+   ],
+   "evaluates": [
+    "Pseudocode",
+    "Bitwise operators",
+    "OOP"
+   ],
+   "study": [
+    "Pseudocode",
+    "Bitwise operators",
+    "OOP",
+    "DBMS",
+    "Operating Systems",
+    "Computer Networks",
+    "Cloud Computing",
+    "Cyber Security",
+    "HTML"
+   ],
+   "tips": [
+    "Practise XOR, AND, OR and shift pseudocode in your head; pen and paper may not be allowed.",
+    "Learn cloud service models and common security attacks; they are frequent topics."
+   ],
+   "before_next": "Clear this section first: most candidates are reported to drop here.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 4,
+   "name": "Coding assessment (frontend + SQL + DSA)",
+   "kind": "coding",
+   "what": "Three coding problems in one hour: a web task (edit given HTML/CSS/JS), an SQL query over a multi-table schema, and a DSA function with hidden test cases.",
+   "format": [
+    {
+     "text": "3 questions in 60 min: 1 frontend (HTML/CSS/JS), 1 SQL, 1 DSA. Python, Java or C# only, no C/C++",
+     "source": "s3"
+    },
+    {
+     "text": "Elimination: Yes. Pass marks are not published",
+     "source": "s3"
+    },
+    {
+     "text": "Also described in: GeeksforGeeks",
+     "source": "s6"
+    },
+    {
+     "text": "Also described in: Reddit r/PlacementsPrep, 2026-09-24",
+     "source": "s8"
+    },
+    {
+     "text": "Also described in: GeeksforGeeks",
+     "source": "s16"
+    },
+    {
+     "text": "Original source notes: PrepInsta 2026 (3 Qs, 60 min); GfG AASE + AEH reports, Oct 2025; Reddit 24 Sep 2026 (no C++, 15-table SQL schema); GfG Jul 2026 (Java/Python only, only 3/3 solvers shortlisted at one NIT); Reddit 10 Oct 2026 (SQL: multiple joins + multiple WHERE; JS: format a phone number)",
+     "source": "s3"
+    }
+   ],
+   "evaluates": [
+    "Data Structures",
+    "Algorithms",
+    "SQL"
+   ],
+   "study": [
+    "Data Structures",
+    "Algorithms",
+    "SQL",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Python"
+   ],
+   "tips": [
+    "Do the frontend task first (most of the code is given), then DSA, then SQL.",
+    "Click 'View Schema' and pick only the 2-3 tables the SQL question needs.",
+    "C/C++ was not allowed in Sep 2026 reports; practise in Python or Java."
+   ],
+   "before_next": "Solve at least the frontend and DSA problems fully; some reports say all 3 were needed for a shortlist.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 5,
+   "name": "Communication assessment",
+   "kind": "communication",
+   "what": "A voice-scored test taken with headphones: read aloud, repeat sentences, answer short questions, retell a story; some candidates also got an email-writing task.",
+   "format": [
+    {
+     "text": "About 20 to 25 tasks, about 30 min, from home with wired headphones. New in Oct 2026 report: an email-writing task (15 min)",
+     "source": "s3"
+    },
+    {
+     "text": "Elimination: Reports differ: non-eliminating in GfG 2024-2026; 'also eliminatory' in GfG Jul 2026; score used for the role in GfG Jan 2026",
+     "source": "s3"
+    },
+    {
+     "text": "Also described in: GeeksforGeeks",
+     "source": "s6"
+    },
+    {
+     "text": "Also described in: Reddit r/PlacementsPrep, 2026-09-24",
+     "source": "s8"
+    },
+    {
+     "text": "Original source notes: PrepInsta 2026; GfG 2024, Dec 2025, Jan 2026, Jul 2026; Reddit 5 Oct 2026 (verbal + email round, 15 min for email)",
+     "source": "s3"
+    }
+   ],
+   "evaluates": [
+    "Communication",
+    "Verbal Ability",
+    "Email writing"
+   ],
+   "study": [
+    "Communication",
+    "Verbal Ability",
+    "Email writing"
+   ],
+   "tips": [
+    "Use wired headphones in a silent room.",
+    "If you miss a word while repeating, keep going instead of restarting."
+   ],
+   "before_next": "Keep your interview slot mail ready and revise your projects.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 6,
+   "name": "Interview (technical + HR)",
+   "kind": "technical_interview",
+   "what": "Usually one short interview mixing project questions and HR questions. Your test scores and this round decide which role (ASE, AASE, AEH) you are offered.",
+   "format": [
+    {
+     "text": "ASE 5 to 10 min, AASE 10 to 20, AEH 30+ (one report); up to 1 hour at one NIT",
+     "source": "s6"
+    },
+    {
+     "text": "Elimination: Yes, decides the role",
+     "source": "s6"
+    },
+    {
+     "text": "Also described in: GeeksforGeeks",
+     "source": "s16"
+    },
+    {
+     "text": "Also described in: LeetCode Discuss",
+     "source": "s15"
+    },
+    {
+     "text": "Also described in: Reddit r/accenture_india, 2026-10-10",
+     "source": "s11"
+    },
+    {
+     "text": "Original source notes: GfG AEH report, Jan 2026 (durations); GfG Jul 2026 (1 hour); LeetCode 2026 fresher post (about 30 min, mostly HR); Reddit 10 Oct 2026 (10 to 15 min, projects + favourite subject + a real-life problem)",
+     "source": "s6"
+    }
+   ],
+   "evaluates": [
+    "Your projects",
+    "OOP",
+    "DBMS"
+   ],
+   "study": [
+    "Your projects",
+    "OOP",
+    "DBMS",
+    "SQL",
+    "Communication"
+   ],
+   "tips": [
+    "Prepare a 2-minute explanation of your final-year project.",
+    "Know why you chose your tech stack and how your database is designed.",
+    "Have answers ready for: why Accenture, relocation, strengths and a team conflict."
+   ],
+   "before_next": "Read your resume line by line; anything on it can be asked.",
+   "label": "Candidate-reported"
+  }
+ ],
+ "questions": [
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Rat Count House: r rats each eat 'unit' food. arr[i] is the food in house i+1. Return the minimum number of houses (from house 1 onward) whose food feeds all rats. Return -1 if arr is None, 0 if all houses together are not enough.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s4",
+   "source_note": "Asked: PrepInsta, Accenture on-campus 10 Aug 2022, slot 1",
+   "sample_io": "Sample input: r = 7, unit = 2, arr = 2 8 3 5 7 4 1 2     Output: 4  (need 14; 2+8+3+5 = 18)",
+   "solution": "def rat_count_house(r, unit, arr):\n    if arr is None: return -1\n    need, food = r * unit, 0\n    for i, x in enumerate(arr):\n        food += x\n        if food >= need: return i + 1\n    return 0",
+   "explanation": "Tested: sample, None input, not enough food, first house enough (all pass)",
+   "title": "Rat Count House"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Binary string operations (\"1C0C1C1A0B1\"): A string of bits joined by letters: A = AND, B = OR, C = XOR. Evaluate left to right with no priority. Return -1 for None.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s4",
+   "source_note": "Asked: PrepInsta, on-campus 10 Aug 2022, slot 2",
+   "sample_io": "Sample input: 1C0C1C1A0B1     Output: 1",
+   "solution": "def operations_binary_string(s):\n    if s is None: return -1\n    res = int(s[0])\n    for i in range(1, len(s), 2):\n        op, b = s[i], int(s[i + 1])\n        if op == 'A': res &= b\n        elif op == 'B': res |= b\n        elif op == 'C': res ^= b\n    return res",
+   "explanation": "Tested: both PrepInsta samples (1 and 0), single digit, None (all pass)",
+   "title": "Binary string operations (\"1C0C1C1A0B1\")"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Password checker: Return 1 if the password has at least 4 characters, at least one digit, at least one capital letter, no space or '/', and does not start with a digit. Else 0.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s4",
+   "source_note": "Asked: PrepInsta, on-campus 10 Aug 2022, slot 3",
+   "sample_io": "Sample input: aA1_67  /  a987 abC012     Output: 1  /  0",
+   "solution": "def check_password(s):\n    if len(s) < 4 or s[0].isdigit(): return 0\n    if ' ' in s or '/' in s: return 0\n    if not any(c.isdigit() for c in s): return 0\n    if not any(c.isupper() for c in s): return 0\n    return 1",
+   "explanation": "Tested: both samples, starts with digit, too short, has slash (all pass)",
+   "title": "Password checker"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Count elements close to num: Count elements with |arr[i] - num| <= diff. If none, return -1.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s4",
+   "source_note": "Asked: PrepInsta, on-campus 11 Aug 2022, slot 1",
+   "sample_io": "Sample input: arr = 12 3 14 56 77 13, num = 13, diff = 2     Output: 3",
+   "solution": "def find_count(arr, num, diff):\n    c = sum(1 for x in arr if abs(x - num) <= diff)\n    return c if c > 0 else -1",
+   "explanation": "Tested: sample, no element close (all pass)",
+   "title": "Count elements close to num"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Difference of sums (divisible by n or not): From 1 to m: (sum of numbers not divisible by n) minus (sum of numbers divisible by n).",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s4",
+   "source_note": "Asked: PrepInsta, on-campus 11 Aug 2022, slot 2",
+   "sample_io": "Sample input: n = 4, m = 20     Output: 90",
+   "solution": "def difference_of_sum(n, m):\n    div = sum(i for i in range(1, m + 1) if i % n == 0)\n    total = m * (m + 1) // 2\n    return (total - div) - div",
+   "explanation": "Tested: both samples, n = 1 (all pass)",
+   "title": "Difference of sums (divisible by n or not)"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Second largest at even positions + second smallest at odd positions: Index 0 counts as even. Return 0 if the array has 3 or fewer elements.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s4",
+   "source_note": "Asked: PrepInsta, on-campus 11 Aug 2022, slot 3",
+   "sample_io": "Sample input: 3 2 1 7 5 4     Output: 7  (3 + 4)",
+   "solution": "def large_small_sum(arr):\n    if len(arr) <= 3: return 0\n    even = sorted(arr[0::2]); odd = sorted(arr[1::2])\n    return even[-2] + odd[1]",
+   "explanation": "Tested: both samples, short array (all pass)",
+   "title": "Second largest at even positions + second smallest at odd positions"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Product of the smallest pair: Take the two smallest elements. If their sum <= given sum, return their product, else 0. Return -1 if fewer than 2 elements.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s4",
+   "source_note": "Asked: PrepInsta, on-campus 12 Aug 2022, slot 1",
+   "sample_io": "Sample input: sum = 9, arr = 5 2 4 3 9 7 1     Output: 2",
+   "solution": "def product_smallest_pair(total, arr):\n    if len(arr) < 2: return -1\n    a = sorted(arr)\n    if a[0] + a[1] <= total: return a[0] * a[1]\n    return 0",
+   "explanation": "Tested: both samples (2 and -21 with a negative number), no pair, 1 element (all pass)",
+   "title": "Product of the smallest pair"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Decimal to N-base: Convert num to base n (2 to 36) using 0-9 then A-Z.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s4",
+   "source_note": "Asked: PrepInsta, on-campus 12 Aug 2022, slot 2",
+   "sample_io": "Sample input: n = 12, num = 718     Output: 4BA",
+   "solution": "def dec_to_nbase(n, num):\n    digits = \"0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ\"\n    if num == 0: return \"0\"\n    out = \"\"\n    while num > 0:\n        out = digits[num % n] + out\n        num //= n\n    return out",
+   "explanation": "Tested: both samples (4BA, CI8), binary, zero (all pass)",
+   "title": "Decimal to N-base"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Move hyphens to the front: Move every '-' to the front, keep other characters in order.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s4",
+   "source_note": "Asked: PrepInsta, off-campus 1 Aug 2021, slot 1",
+   "sample_io": "Sample input: Move-Hyphens-to-Front     Output: ---MoveHyphenstoFront",
+   "solution": "def move_hyphen(s):\n    if s is None: return None\n    return \"-\" * s.count(\"-\") + s.replace(\"-\", \"\")",
+   "explanation": "Tested: both samples, no hyphen (all pass)",
+   "title": "Move hyphens to the front"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Number of carries: Count the carries when adding two numbers digit by digit from the right.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s4",
+   "source_note": "Asked: PrepInsta, off-campus 1 Aug 2021, slot 2",
+   "sample_io": "Sample input: 451, 349     Output: 2",
+   "solution": "def number_of_carries(a, b):\n    carry = count = 0\n    while a > 0 or b > 0:\n        s = a % 10 + b % 10 + carry\n        carry = 1 if s > 9 else 0\n        count += carry\n        a //= 10; b //= 10\n    return count",
+   "explanation": "Tested: both samples, 999 + 1 (3 carries) (all pass)",
+   "title": "Number of carries"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Swap two characters in a string: Replace every ch1 with ch2 and every ch2 with ch1.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s4",
+   "source_note": "Asked: PrepInsta, off-campus 1 Aug 2021, slot 3",
+   "sample_io": "Sample input: apples, a, p     Output: paales",
+   "solution": "def replace_character(s, c1, c2):\n    if s is None: return None\n    return \"\".join(c2 if ch == c1 else c1 if ch == c2 else ch for ch in s)",
+   "explanation": "Tested: sample, characters not present (all pass)",
+   "title": "Swap two characters in a string"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Operation choices: c = 1: a+b, 2: a-b, 3: a*b, 4: a/b (integer).",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s4",
+   "source_note": "Asked: PrepInsta, off-campus 2 Aug 2021, slot 1",
+   "sample_io": "Sample input: c = 2, a = 16, b = 20     Output: -4",
+   "solution": "def operation_choices(c, a, b):\n    if c == 1: return a + b\n    if c == 2: return a - b\n    if c == 3: return a * b\n    return a // b",
+   "explanation": "Tested: all samples, division (all pass)",
+   "title": "Operation choices"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Maximum exponent of 2 in a range: From a to b, return the number with the most factors of 2 (smaller one on a tie).",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s4",
+   "source_note": "Asked: PrepInsta, off-campus 2 Aug 2021, slot 2",
+   "sample_io": "Sample input: 7, 12     Output: 8",
+   "solution": "def max_exponents(a, b):\n    def exp2(x):\n        e = 0\n        while x > 0 and x % 2 == 0:\n            x //= 2; e += 1\n        return e\n    best = a\n    for i in range(a, b + 1):\n        if exp2(i) > exp2(best): best = i\n    return best",
+   "explanation": "Tested: sample, tie (all pass)",
+   "title": "Maximum exponent of 2 in a range"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Sum of numbers divisible by both 3 and 5: Sum all numbers from m to n (inclusive) divisible by 3 and 5 (that is, by 15).",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s4",
+   "source_note": "Asked: PrepInsta, off-campus 2 Aug 2021, slot 3",
+   "sample_io": "Sample input: m = 12, n = 50     Output: 90  (15 + 30 + 45)",
+   "solution": "def calculate(m, n):\n    return sum(i for i in range(m, n + 1) if i % 15 == 0)",
+   "explanation": "Tested: both samples (90, 510), none in range (all pass)",
+   "title": "Sum of numbers divisible by both 3 and 5"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Second largest of even-index + odd-index lists: Split into even-index and odd-index lists, sort, add the second largest of each.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s4",
+   "source_note": "Asked: PrepInsta Accenture coding page (no date given)",
+   "sample_io": "Sample input: 3 4 1 7 9     Output: 7  (3 + 4)",
+   "solution": "def even_odd_second_largest(arr):\n    even = sorted(arr[0::2]); odd = sorted(arr[1::2])\n    return even[-2] + odd[-2]",
+   "explanation": "Tested: sample (all pass)",
+   "title": "Second largest of even-index + odd-index lists"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Multiplication table and its sum: Print the first 10 multiples of n and their sum.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s4",
+   "source_note": "Asked: PrepInsta Accenture coding page (no date given)",
+   "sample_io": "Sample input: 5     Output: 5, 10, ..., 50 and 275",
+   "solution": "def table_and_sum(n):\n    t = [n * i for i in range(1, 11)]\n    return \", \".join(map(str, t)), sum(t)",
+   "explanation": "Tested: both samples (275, 660) (all pass)",
+   "title": "Multiplication table and its sum"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Palindrome numbers in a range: Print all palindrome numbers between two limits (2 digits or more, as in the sample).",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s4",
+   "source_note": "Asked: PrepInsta Accenture coding page (no date given)",
+   "sample_io": "Sample input: 10, 80     Output: 11 22 33 44 55 66 77",
+   "solution": "def palindromes_between(lo, hi):\n    return [x for x in range(lo, hi + 1) if str(x) == str(x)[::-1] and x > 9]",
+   "explanation": "Tested: both samples (all pass)",
+   "title": "Palindrome numbers in a range"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Sum of distances between three points: Sum of the three distances between (x1,y1), (x2,y2), (x3,y3).",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s4",
+   "source_note": "Asked: PrepInsta Accenture coding page (no date given)",
+   "sample_io": "Sample input: (1,1) (2,4) (3,6)     Output: 10.78",
+   "solution": "def sum_of_distances(p1, p2, p3):\n    import math\n    d = lambda p, q: math.hypot(q[0] - p[0], q[1] - p[1])\n    return round(d(p1, p2) + d(p2, p3) + d(p1, p3), 2)",
+   "explanation": "Tested: sample (checked by hand: 3.16 + 2.24 + 5.39) (all pass)",
+   "title": "Sum of distances between three points"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Maximum value and its index: Print the maximum and its index on separate lines.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s4",
+   "source_note": "Asked: PrepInsta Accenture coding page (no date given)",
+   "sample_io": "Sample input: 23 45 82 27 66 12 78 13 71 86     Output: 86 then 9",
+   "solution": "def max_and_index(arr):\n    m = max(arr)\n    return m, arr.index(m)",
+   "explanation": "Tested: sample (all pass)",
+   "title": "Maximum value and its index"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Autobiographical number: Digit i must equal how many times i appears. If yes, return the count of distinct digits, else 0.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s4",
+   "source_note": "Asked: PrepInsta Accenture coding page (no date given)",
+   "sample_io": "Sample input: 1210     Output: 3",
+   "solution": "def find_auto_count(n):\n    if n is None: return 0\n    for i, ch in enumerate(n):\n        if n.count(str(i)) != int(ch): return 0\n    return len(set(n))",
+   "explanation": "Tested: sample, 2020, not autobiographical, None (all pass)",
+   "title": "Autobiographical number"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Prime check: Print whether n is prime.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s16",
+   "source_note": "Asked: GfG on-campus report (2025 batch), published 3 Oct 2024",
+   "sample_io": "Sample input: 17     Output: True",
+   "solution": "def is_prime(n):\n    if n < 2: return False\n    i = 2\n    while i * i <= n:\n        if n % i == 0: return False\n        i += 1\n    return True",
+   "explanation": "Tested: 0, 1, 2, 17, 21, 97 (all pass)",
+   "title": "Prime check"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "First char + length + last char: Return first character + length + last character.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s16",
+   "source_note": "Asked: GfG on-campus report (2025 batch), published 3 Oct 2024",
+   "sample_io": "Sample input: Accenture     Output: A9e",
+   "solution": "def first_len_last(s):\n    if not s: return \"\"\n    return s[0] + str(len(s)) + s[-1]",
+   "explanation": "Tested: sample, single character (all pass)",
+   "title": "First char + length + last char"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Rebound height: A ball dropped from height h rises to r times the previous height after each bounce. Find the total distance travelled when it touches the ground the n-th time.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s16",
+   "source_note": "Asked (name only): GfG report, 2025 batch, test 26 Aug 2024. Exact statement was not shared; this is the common version",
+   "sample_io": "Sample input: h = 10, r = 0.5, n = 3     Output: 25.0  (10 + 5 + 5 + 2.5 + 2.5)",
+   "solution": "def rebound_total_distance(h, r, n):\n    # each bounce rises to r x the last height\n    dist, cur = h, h\n    for _ in range(n - 1):\n        cur *= r\n        dist += 2 * cur\n    return round(dist, 2)",
+   "explanation": "Tested: n = 3, n = 1 (all pass)",
+   "title": "Rebound height"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Highest temperature drop: Given daily temperatures, find the biggest drop from an earlier day to a later day (0 if it only rises).",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s16",
+   "source_note": "Asked (name only): GfG report, 2025 batch, test 26 Aug 2024. Our reading of the title",
+   "sample_io": "Sample input: 30 35 28 40 22 25     Output: 18  (40 to 22)",
+   "solution": "def largest_temperature_drop(t):\n    # biggest t[i] - t[j] with i < j\n    best, high = 0, t[0]\n    for x in t[1:]:\n        best = max(best, high - x)\n        high = max(high, x)\n    return best",
+   "explanation": "Tested: sample, only rising (all pass)",
+   "title": "Highest temperature drop"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Distinct elements after removing duplicate pairs: Remove equal pairs as many times as possible. How many distinct values are left? (A value stays only if it appears an odd number of times.)",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s7",
+   "source_note": "Asked: Reddit r/Btechtards, Accenture OA Oct 2025 (2026 batch)",
+   "sample_io": "Sample input: 1 1 1 1 2 3  /  1 1 1 2 3     Output: 2  /  3",
+   "solution": "def distinct_after_pair_removal(arr):\n    from collections import Counter\n    return sum(1 for v in Counter(arr).values() if v % 2 == 1)",
+   "explanation": "Tested: both Reddit samples, all paired, empty (all pass)",
+   "title": "Distinct elements after removing duplicate pairs"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Multiplicative persistence: Multiply the digits of n again and again until one digit is left. Return how many steps it took.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s8",
+   "source_note": "Asked: Reddit r/PlacementsPrep, Accenture OA 25 Sep 2026 (2027 batch)",
+   "sample_io": "Sample input: 39     Output: 3  (39 to 27 to 14 to 4)",
+   "solution": "def multiplicative_persistence(n):\n    steps = 0\n    while n >= 10:\n        p = 1\n        for d in str(n): p *= int(d)\n        n = p; steps += 1\n    return steps",
+   "explanation": "Tested: 39, 999, 25, single digit (all pass)",
+   "title": "Multiplicative persistence"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Sequential digit chain: Digits should go up by 1 each step (9 is followed by 0). When the chain breaks, return how many characters are left from that point.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s8",
+   "source_note": "Asked: Reddit r/PlacementsPrep, Accenture OA Sep 2026. Exact output rule not fully shared; we return how many digits are left from the first break",
+   "sample_io": "Sample input: 7890123556     Output: 3  (breaks at 5; '556' left)",
+   "solution": "def chain_break_rest(s):\n    # next digit must be (prev + 1) % 10\n    for i in range(1, len(s)):\n        if int(s[i]) != (int(s[i - 1]) + 1) % 10:\n            return len(s) - i\n    return 0",
+   "explanation": "Tested: sample, no break, 9 to 0 wrap (all pass)",
+   "title": "Sequential digit chain"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Sliding window: longest subarray with sum <= K: Non-negative array. Find the length of the longest contiguous part whose sum is at most K.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Reported type: GfG AASE report, 2026 batch (Oct 2025) said the DSA question used a dynamic sliding window. Exact problem not shared",
+   "sample_io": "Sample input: 2 1 3 4 1 1, K = 6     Output: 3",
+   "solution": "def longest_subarray_sum_at_most_k(arr, k):\n    # sliding window (numbers >= 0)\n    left = cur = best = 0\n    for right, x in enumerate(arr):\n        cur += x\n        while cur > k and left <= right:\n            cur -= arr[left]; left += 1\n        best = max(best, right - left + 1)\n    return best",
+   "explanation": "Tested: sample, every element bigger than K (all pass)",
+   "title": "Sliding window: longest subarray with sum <= K"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Count 3-digit windows divisible by 3: Given a number like n = 11021, count the parts of length 3 (consecutive digits) that are divisible by 3.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s12",
+   "source_note": "Asked: Reddit r/accenture_india, Accenture on-campus OA, posted 17 Oct 2026 (2027 batch)",
+   "sample_io": "Sample input: 11021     Output: 2  (110 no, 102 yes, 021 yes)",
+   "solution": "def count_len3_divisible_by_3(n):\n    s = str(n)\n    return sum(1 for i in range(len(s) - 2) if int(s[i:i + 3]) % 3 == 0)",
+   "explanation": "Tested: sample, fewer than 3 digits, 3333 (all pass)",
+   "title": "Count 3-digit windows divisible by 3"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Climbing stairs (basic DP): Count the ways to climb n steps if you can take 1 or 2 steps at a time.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Reported type: one candidate got a DP problem (Reddit 17 Oct 2026); exact problem not shared",
+   "sample_io": "Sample input: 5     Output: 8",
+   "solution": "def climb_stairs(n):\n    # ways using 1 or 2 steps (DP)\n    a, b = 1, 1\n    for _ in range(n):\n        a, b = b, a + b\n    return a",
+   "explanation": "Tested: n = 0 to 5 (all pass)",
+   "title": "Climbing stairs (basic DP)"
+  },
+  {
+   "stage_order": 4,
+   "subject": "SQL",
+   "type": "sql",
+   "difficulty": "medium",
+   "question": "Show each employee's name with their department name (INNER JOIN).",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Reported type: JOIN / GROUP BY based SQL question (GfG Dec 2025, Reddit Sep 2026)",
+   "sample_io": "Schema used:\ndepartments(dept_id, dept_name, location)\nemployees(emp_id, name, dept_id, salary, manager_id, join_date)\nprojects(proj_id, proj_name, dept_id)\nemp_project(emp_id, proj_id, hours)\ncustomers(cust_id, cname, city)\norders(order_id, cust_id, order_date, amount)\n\nSample data: 7 employees (Asha 90000 IT, Ravi 70000 IT, Meena 70000 IT, Kiran 50000 HR, Arjun 45000 HR, Divya 80000 Finance, Sam 40000 with no department), 4 departments (Legal has nobody), 4 customers (Deepa has no orders), 5 orders.",
+   "solution": "SELECT e.name, d.dept_name\nFROM employees e\nJOIN departments d ON e.dept_id = d.dept_id\nORDER BY e.emp_id;",
+   "explanation": "Result (name, dept_name): Asha, IT; Ravi, IT; Meena, IT; Kiran, HR; Arjun, HR; Divya, Finance",
+   "title": "Show each employee's name with their department name (INNER JOIN)."
+  },
+  {
+   "stage_order": 4,
+   "subject": "SQL",
+   "type": "sql",
+   "difficulty": "medium",
+   "question": "List ALL employees, with department name if they have one (LEFT JOIN).",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Reported type: JOIN / GROUP BY based SQL question (GfG Dec 2025, Reddit Sep 2026)",
+   "sample_io": "Schema used:\ndepartments(dept_id, dept_name, location)\nemployees(emp_id, name, dept_id, salary, manager_id, join_date)\nprojects(proj_id, proj_name, dept_id)\nemp_project(emp_id, proj_id, hours)\ncustomers(cust_id, cname, city)\norders(order_id, cust_id, order_date, amount)\n\nSample data: 7 employees (Asha 90000 IT, Ravi 70000 IT, Meena 70000 IT, Kiran 50000 HR, Arjun 45000 HR, Divya 80000 Finance, Sam 40000 with no department), 4 departments (Legal has nobody), 4 customers (Deepa has no orders), 5 orders.",
+   "solution": "SELECT e.name, d.dept_name\nFROM employees e\nLEFT JOIN departments d ON e.dept_id = d.dept_id\nORDER BY e.emp_id;",
+   "explanation": "Result (name, dept_name): Asha, IT; Ravi, IT; Meena, IT; Kiran, HR; Arjun, HR; Divya, Finance; Sam, NULL",
+   "title": "List ALL employees, with department name if they have one (LEFT JOIN)."
+  },
+  {
+   "stage_order": 4,
+   "subject": "SQL",
+   "type": "sql",
+   "difficulty": "medium",
+   "question": "Find departments that have no employees.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Reported type: JOIN / GROUP BY based SQL question (GfG Dec 2025, Reddit Sep 2026)",
+   "sample_io": "Schema used:\ndepartments(dept_id, dept_name, location)\nemployees(emp_id, name, dept_id, salary, manager_id, join_date)\nprojects(proj_id, proj_name, dept_id)\nemp_project(emp_id, proj_id, hours)\ncustomers(cust_id, cname, city)\norders(order_id, cust_id, order_date, amount)\n\nSample data: 7 employees (Asha 90000 IT, Ravi 70000 IT, Meena 70000 IT, Kiran 50000 HR, Arjun 45000 HR, Divya 80000 Finance, Sam 40000 with no department), 4 departments (Legal has nobody), 4 customers (Deepa has no orders), 5 orders.",
+   "solution": "SELECT d.dept_name\nFROM departments d\nLEFT JOIN employees e ON e.dept_id = d.dept_id\nWHERE e.emp_id IS NULL;",
+   "explanation": "Result (dept_name): Legal",
+   "title": "Find departments that have no employees."
+  },
+  {
+   "stage_order": 4,
+   "subject": "SQL",
+   "type": "sql",
+   "difficulty": "medium",
+   "question": "Second highest salary (distinct values).",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice: classic second / Nth highest salary question (very common in fresher SQL lists; not tied to a dated Accenture report)",
+   "sample_io": "Schema used:\ndepartments(dept_id, dept_name, location)\nemployees(emp_id, name, dept_id, salary, manager_id, join_date)\nprojects(proj_id, proj_name, dept_id)\nemp_project(emp_id, proj_id, hours)\ncustomers(cust_id, cname, city)\norders(order_id, cust_id, order_date, amount)\n\nSample data: 7 employees (Asha 90000 IT, Ravi 70000 IT, Meena 70000 IT, Kiran 50000 HR, Arjun 45000 HR, Divya 80000 Finance, Sam 40000 with no department), 4 departments (Legal has nobody), 4 customers (Deepa has no orders), 5 orders.",
+   "solution": "SELECT MAX(salary) AS second_highest\nFROM employees\nWHERE salary < (SELECT MAX(salary) FROM employees);",
+   "explanation": "Result (second_highest): 80000",
+   "title": "Second highest salary (distinct values)."
+  },
+  {
+   "stage_order": 4,
+   "subject": "SQL",
+   "type": "sql",
+   "difficulty": "medium",
+   "question": "Nth highest salary (here N = 3) with LIMIT/OFFSET.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice: classic second / Nth highest salary question (very common in fresher SQL lists; not tied to a dated Accenture report)",
+   "sample_io": "Schema used:\ndepartments(dept_id, dept_name, location)\nemployees(emp_id, name, dept_id, salary, manager_id, join_date)\nprojects(proj_id, proj_name, dept_id)\nemp_project(emp_id, proj_id, hours)\ncustomers(cust_id, cname, city)\norders(order_id, cust_id, order_date, amount)\n\nSample data: 7 employees (Asha 90000 IT, Ravi 70000 IT, Meena 70000 IT, Kiran 50000 HR, Arjun 45000 HR, Divya 80000 Finance, Sam 40000 with no department), 4 departments (Legal has nobody), 4 customers (Deepa has no orders), 5 orders.",
+   "solution": "SELECT DISTINCT salary FROM employees\nORDER BY salary DESC\nLIMIT 1 OFFSET 2;",
+   "explanation": "Result (salary): 70000",
+   "title": "Nth highest salary (here N = 3) with LIMIT/OFFSET."
+  },
+  {
+   "stage_order": 4,
+   "subject": "SQL",
+   "type": "sql",
+   "difficulty": "medium",
+   "question": "Number of employees and average salary in each department, only departments with 2 or more people (GROUP BY + HAVING).",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Reported type: JOIN / GROUP BY based SQL question (GfG Dec 2025, Reddit Sep 2026)",
+   "sample_io": "Schema used:\ndepartments(dept_id, dept_name, location)\nemployees(emp_id, name, dept_id, salary, manager_id, join_date)\nprojects(proj_id, proj_name, dept_id)\nemp_project(emp_id, proj_id, hours)\ncustomers(cust_id, cname, city)\norders(order_id, cust_id, order_date, amount)\n\nSample data: 7 employees (Asha 90000 IT, Ravi 70000 IT, Meena 70000 IT, Kiran 50000 HR, Arjun 45000 HR, Divya 80000 Finance, Sam 40000 with no department), 4 departments (Legal has nobody), 4 customers (Deepa has no orders), 5 orders.",
+   "solution": "SELECT d.dept_name, COUNT(*) AS cnt, AVG(e.salary) AS avg_sal\nFROM employees e\nJOIN departments d ON e.dept_id = d.dept_id\nGROUP BY d.dept_name\nHAVING COUNT(*) >= 2\nORDER BY cnt DESC, d.dept_name;",
+   "explanation": "Result (dept_name, cnt, avg_sal): IT, 3, 76666.67; HR, 2, 47500",
+   "title": "Number of employees and average salary in each department, only departments with 2 or more people (GROUP BY + HAVING)."
+  },
+  {
+   "stage_order": 4,
+   "subject": "SQL",
+   "type": "sql",
+   "difficulty": "medium",
+   "question": "Employees who earn more than their department's average.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Reported type: JOIN / GROUP BY based SQL question (GfG Dec 2025, Reddit Sep 2026)",
+   "sample_io": "Schema used:\ndepartments(dept_id, dept_name, location)\nemployees(emp_id, name, dept_id, salary, manager_id, join_date)\nprojects(proj_id, proj_name, dept_id)\nemp_project(emp_id, proj_id, hours)\ncustomers(cust_id, cname, city)\norders(order_id, cust_id, order_date, amount)\n\nSample data: 7 employees (Asha 90000 IT, Ravi 70000 IT, Meena 70000 IT, Kiran 50000 HR, Arjun 45000 HR, Divya 80000 Finance, Sam 40000 with no department), 4 departments (Legal has nobody), 4 customers (Deepa has no orders), 5 orders.",
+   "solution": "SELECT e.name, e.salary\nFROM employees e\nWHERE e.salary > (SELECT AVG(salary) FROM employees x\n                  WHERE x.dept_id = e.dept_id)\nORDER BY e.emp_id;",
+   "explanation": "Result (name, salary): Asha, 90000; Kiran, 50000",
+   "title": "Employees who earn more than their department's average."
+  },
+  {
+   "stage_order": 4,
+   "subject": "SQL",
+   "type": "sql",
+   "difficulty": "medium",
+   "question": "Each employee with their manager's name (SELF JOIN).",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Reported type: JOIN / GROUP BY based SQL question (GfG Dec 2025, Reddit Sep 2026)",
+   "sample_io": "Schema used:\ndepartments(dept_id, dept_name, location)\nemployees(emp_id, name, dept_id, salary, manager_id, join_date)\nprojects(proj_id, proj_name, dept_id)\nemp_project(emp_id, proj_id, hours)\ncustomers(cust_id, cname, city)\norders(order_id, cust_id, order_date, amount)\n\nSample data: 7 employees (Asha 90000 IT, Ravi 70000 IT, Meena 70000 IT, Kiran 50000 HR, Arjun 45000 HR, Divya 80000 Finance, Sam 40000 with no department), 4 departments (Legal has nobody), 4 customers (Deepa has no orders), 5 orders.",
+   "solution": "SELECT e.name AS employee, m.name AS manager\nFROM employees e\nLEFT JOIN employees m ON e.manager_id = m.emp_id\nORDER BY e.emp_id;",
+   "explanation": "Result (employee, manager): Asha, NULL; Ravi, Asha; Meena, Asha; Kiran, NULL; Arjun, Kiran; Divya, NULL; Sam, NULL",
+   "title": "Each employee with their manager's name (SELF JOIN)."
+  },
+  {
+   "stage_order": 4,
+   "subject": "SQL",
+   "type": "sql",
+   "difficulty": "medium",
+   "question": "Three-table join: total hours per project with the project's department name.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Reported type: JOIN / GROUP BY based SQL question (GfG Dec 2025, Reddit Sep 2026)",
+   "sample_io": "Schema used:\ndepartments(dept_id, dept_name, location)\nemployees(emp_id, name, dept_id, salary, manager_id, join_date)\nprojects(proj_id, proj_name, dept_id)\nemp_project(emp_id, proj_id, hours)\ncustomers(cust_id, cname, city)\norders(order_id, cust_id, order_date, amount)\n\nSample data: 7 employees (Asha 90000 IT, Ravi 70000 IT, Meena 70000 IT, Kiran 50000 HR, Arjun 45000 HR, Divya 80000 Finance, Sam 40000 with no department), 4 departments (Legal has nobody), 4 customers (Deepa has no orders), 5 orders.",
+   "solution": "SELECT p.proj_name, d.dept_name, SUM(ep.hours) AS total_hours\nFROM projects p\nJOIN departments d ON p.dept_id = d.dept_id\nJOIN emp_project ep ON ep.proj_id = p.proj_id\nGROUP BY p.proj_name, d.dept_name\nORDER BY total_hours DESC, p.proj_name;",
+   "explanation": "Result (proj_name, dept_name, total_hours): Cloud Move, IT, 50; Payroll, IT, 50; Audit, Finance, 35; Hiring Portal, HR, 25",
+   "title": "Three-table join: total hours per project with the project's department name."
+  },
+  {
+   "stage_order": 4,
+   "subject": "SQL",
+   "type": "sql",
+   "difficulty": "medium",
+   "question": "Employees working on more than one project.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Reported type: JOIN / GROUP BY based SQL question (GfG Dec 2025, Reddit Sep 2026)",
+   "sample_io": "Schema used:\ndepartments(dept_id, dept_name, location)\nemployees(emp_id, name, dept_id, salary, manager_id, join_date)\nprojects(proj_id, proj_name, dept_id)\nemp_project(emp_id, proj_id, hours)\ncustomers(cust_id, cname, city)\norders(order_id, cust_id, order_date, amount)\n\nSample data: 7 employees (Asha 90000 IT, Ravi 70000 IT, Meena 70000 IT, Kiran 50000 HR, Arjun 45000 HR, Divya 80000 Finance, Sam 40000 with no department), 4 departments (Legal has nobody), 4 customers (Deepa has no orders), 5 orders.",
+   "solution": "SELECT e.name, COUNT(*) AS projects\nFROM employees e\nJOIN emp_project ep ON ep.emp_id = e.emp_id\nGROUP BY e.emp_id, e.name\nHAVING COUNT(*) > 1;",
+   "explanation": "Result (name, projects): Ravi, 2",
+   "title": "Employees working on more than one project."
+  },
+  {
+   "stage_order": 4,
+   "subject": "SQL",
+   "type": "sql",
+   "difficulty": "medium",
+   "question": "Customers who never placed an order.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Reported type: JOIN / GROUP BY based SQL question (GfG Dec 2025, Reddit Sep 2026)",
+   "sample_io": "Schema used:\ndepartments(dept_id, dept_name, location)\nemployees(emp_id, name, dept_id, salary, manager_id, join_date)\nprojects(proj_id, proj_name, dept_id)\nemp_project(emp_id, proj_id, hours)\ncustomers(cust_id, cname, city)\norders(order_id, cust_id, order_date, amount)\n\nSample data: 7 employees (Asha 90000 IT, Ravi 70000 IT, Meena 70000 IT, Kiran 50000 HR, Arjun 45000 HR, Divya 80000 Finance, Sam 40000 with no department), 4 departments (Legal has nobody), 4 customers (Deepa has no orders), 5 orders.",
+   "solution": "SELECT c.cname\nFROM customers c\nLEFT JOIN orders o ON o.cust_id = c.cust_id\nWHERE o.order_id IS NULL;",
+   "explanation": "Result (cname): Deepa",
+   "title": "Customers who never placed an order."
+  },
+  {
+   "stage_order": 4,
+   "subject": "SQL",
+   "type": "sql",
+   "difficulty": "medium",
+   "question": "Total spend per city, highest first.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Reported type: JOIN / GROUP BY based SQL question (GfG Dec 2025, Reddit Sep 2026)",
+   "sample_io": "Schema used:\ndepartments(dept_id, dept_name, location)\nemployees(emp_id, name, dept_id, salary, manager_id, join_date)\nprojects(proj_id, proj_name, dept_id)\nemp_project(emp_id, proj_id, hours)\ncustomers(cust_id, cname, city)\norders(order_id, cust_id, order_date, amount)\n\nSample data: 7 employees (Asha 90000 IT, Ravi 70000 IT, Meena 70000 IT, Kiran 50000 HR, Arjun 45000 HR, Divya 80000 Finance, Sam 40000 with no department), 4 departments (Legal has nobody), 4 customers (Deepa has no orders), 5 orders.",
+   "solution": "SELECT c.city, SUM(o.amount) AS total\nFROM customers c\nJOIN orders o ON o.cust_id = c.cust_id\nGROUP BY c.city\nORDER BY total DESC;",
+   "explanation": "Result (city, total): Bengaluru, 2600; Chennai, 300",
+   "title": "Total spend per city, highest first."
+  },
+  {
+   "stage_order": 4,
+   "subject": "SQL",
+   "type": "sql",
+   "difficulty": "medium",
+   "question": "Find duplicate salaries (salary values shared by more than one employee).",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Reported type: JOIN / GROUP BY based SQL question (GfG Dec 2025, Reddit Sep 2026)",
+   "sample_io": "Schema used:\ndepartments(dept_id, dept_name, location)\nemployees(emp_id, name, dept_id, salary, manager_id, join_date)\nprojects(proj_id, proj_name, dept_id)\nemp_project(emp_id, proj_id, hours)\ncustomers(cust_id, cname, city)\norders(order_id, cust_id, order_date, amount)\n\nSample data: 7 employees (Asha 90000 IT, Ravi 70000 IT, Meena 70000 IT, Kiran 50000 HR, Arjun 45000 HR, Divya 80000 Finance, Sam 40000 with no department), 4 departments (Legal has nobody), 4 customers (Deepa has no orders), 5 orders.",
+   "solution": "SELECT salary, COUNT(*) AS cnt\nFROM employees\nGROUP BY salary\nHAVING COUNT(*) > 1;",
+   "explanation": "Result (salary, cnt): 70000, 2",
+   "title": "Find duplicate salaries (salary values shared by more than one employee)."
+  },
+  {
+   "stage_order": 4,
+   "subject": "SQL",
+   "type": "sql",
+   "difficulty": "medium",
+   "question": "Highest-paid employee in each department.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Reported type: JOIN / GROUP BY based SQL question (GfG Dec 2025, Reddit Sep 2026)",
+   "sample_io": "Schema used:\ndepartments(dept_id, dept_name, location)\nemployees(emp_id, name, dept_id, salary, manager_id, join_date)\nprojects(proj_id, proj_name, dept_id)\nemp_project(emp_id, proj_id, hours)\ncustomers(cust_id, cname, city)\norders(order_id, cust_id, order_date, amount)\n\nSample data: 7 employees (Asha 90000 IT, Ravi 70000 IT, Meena 70000 IT, Kiran 50000 HR, Arjun 45000 HR, Divya 80000 Finance, Sam 40000 with no department), 4 departments (Legal has nobody), 4 customers (Deepa has no orders), 5 orders.",
+   "solution": "SELECT d.dept_name, e.name, e.salary\nFROM employees e\nJOIN departments d ON e.dept_id = d.dept_id\nWHERE e.salary = (SELECT MAX(salary) FROM employees x WHERE x.dept_id = e.dept_id)\nORDER BY d.dept_name;",
+   "explanation": "Result (dept_name, name, salary): Finance, Divya, 80000; HR, Kiran, 50000; IT, Asha, 90000",
+   "title": "Highest-paid employee in each department."
+  },
+  {
+   "stage_order": 4,
+   "subject": "SQL",
+   "type": "sql",
+   "difficulty": "medium",
+   "question": "Monthly order totals (Sep and Oct 2026).",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Reported type: JOIN / GROUP BY based SQL question (GfG Dec 2025, Reddit Sep 2026)",
+   "sample_io": "Schema used:\ndepartments(dept_id, dept_name, location)\nemployees(emp_id, name, dept_id, salary, manager_id, join_date)\nprojects(proj_id, proj_name, dept_id)\nemp_project(emp_id, proj_id, hours)\ncustomers(cust_id, cname, city)\norders(order_id, cust_id, order_date, amount)\n\nSample data: 7 employees (Asha 90000 IT, Ravi 70000 IT, Meena 70000 IT, Kiran 50000 HR, Arjun 45000 HR, Divya 80000 Finance, Sam 40000 with no department), 4 departments (Legal has nobody), 4 customers (Deepa has no orders), 5 orders.",
+   "solution": "SELECT substr(order_date, 1, 7) AS month, COUNT(*) AS orders, SUM(amount) AS total\nFROM orders\nGROUP BY month\nORDER BY month;",
+   "explanation": "Result (month, orders, total): 2026-09, 3, 1500; 2026-10, 2, 1400",
+   "title": "Monthly order totals (Sep and Oct 2026)."
+  },
+  {
+   "stage_order": 4,
+   "subject": "SQL",
+   "type": "sql",
+   "difficulty": "medium",
+   "question": "Rank employees by salary inside each department (window function).",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Reported type: JOIN / GROUP BY based SQL question (GfG Dec 2025, Reddit Sep 2026)",
+   "sample_io": "Schema used:\ndepartments(dept_id, dept_name, location)\nemployees(emp_id, name, dept_id, salary, manager_id, join_date)\nprojects(proj_id, proj_name, dept_id)\nemp_project(emp_id, proj_id, hours)\ncustomers(cust_id, cname, city)\norders(order_id, cust_id, order_date, amount)\n\nSample data: 7 employees (Asha 90000 IT, Ravi 70000 IT, Meena 70000 IT, Kiran 50000 HR, Arjun 45000 HR, Divya 80000 Finance, Sam 40000 with no department), 4 departments (Legal has nobody), 4 customers (Deepa has no orders), 5 orders.",
+   "solution": "SELECT name, dept_id, salary,\n  DENSE_RANK() OVER (PARTITION BY dept_id ORDER BY salary DESC) AS rnk\nFROM employees\nWHERE dept_id IS NOT NULL\nORDER BY dept_id, rnk, name;",
+   "explanation": "Result (name, dept_id, salary, rnk): Asha, 1, 90000, 1; Meena, 1, 70000, 2; Ravi, 1, 70000, 2; Kiran, 2, 50000, 1; Arjun, 2, 45000, 2; Divya, 3, 80000, 1",
+   "title": "Rank employees by salary inside each department (window function)."
+  },
+  {
+   "stage_order": 4,
+   "subject": "Web",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Legend + border + Restore Default button: Task: add a legend in HTML, give the box a border and change its colour, type and width in CSS, and in JS reset the values to preset defaults when 'Restore Default' is clicked.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s8",
+   "source_note": "Asked: Reddit r/PlacementsPrep, Accenture OA 24 Sep 2026 (2027 batch)",
+   "sample_io": "",
+   "solution": "<fieldset id=\"box\">\n  <legend>Profile Settings</legend>\n  <label>Border width <input id=\"w\" value=\"2\"></label>\n  <label>Border colour <input id=\"c\" value=\"blue\"></label>\n  <button id=\"apply\">Apply</button>\n  <button id=\"reset\">Restore Default</button>\n</fieldset>\n\n#box {\n  border-width: 2px;\n  border-style: solid;   /* type: solid, dashed, dotted */\n  border-color: blue;\n}\n\nconst DEFAULTS = { width: \"2\", color: \"blue\", style: \"solid\" };\nconst box = document.getElementById(\"box\");\ndocument.getElementById(\"apply\").onclick = () => {\n  box.style.borderWidth = document.getElementById(\"w\").value + \"px\";\n  box.style.borderColor = document.getElementById(\"c\").value;\n};\ndocument.getElementById(\"reset\").onclick = () => {\n  document.getElementById(\"w\").value = DEFAULTS.width;\n  document.getElementById(\"c\").value = DEFAULTS.color;\n  box.style.borderWidth = DEFAULTS.width + \"px\";\n  box.style.borderColor = DEFAULTS.color;\n  box.style.borderStyle = DEFAULTS.style;\n};",
+   "explanation": "",
+   "title": "Legend + border + Restore Default button"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Web",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Hex colour to RGB, validate, change background: Task: on button click, check the hex code only has characters from 0-9, A-F, a-f. If valid, show the RGB value and set the page background to it, else show 'Invalid'.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s8",
+   "source_note": "Asked: Reddit r/PlacementsPrep, Accenture OA 25 Sep 2026 (also a CSS border change in the same task)",
+   "sample_io": "",
+   "solution": "<input id=\"hex\" placeholder=\"#1A2B3C\">\n<button id=\"go\">Convert</button>\n<p id=\"out\"></p>\n\nfunction hexToRgb(hex) {\n  const h = hex.trim().replace(/^#/, \"\");\n  const ok = \"0123456789ABCDEFabcdef\";\n  if (h.length !== 6 || [...h].some(c => !ok.includes(c))) {\n    return \"Invalid\";\n  }\n  const r = parseInt(h.slice(0, 2), 16);\n  const g = parseInt(h.slice(2, 4), 16);\n  const b = parseInt(h.slice(4, 6), 16);\n  return `rgb(${r}, ${g}, ${b})`;\n}\ndocument.getElementById(\"go\").onclick = () => {\n  const res = hexToRgb(document.getElementById(\"hex\").value);\n  document.getElementById(\"out\").textContent = res;\n  if (res !== \"Invalid\") document.body.style.backgroundColor = res;\n};",
+   "explanation": "",
+   "title": "Hex colour to RGB, validate, change background"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Web",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Open and close a modal",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s7",
+   "source_note": "Asked: Reddit r/Btechtards, Accenture OA Oct 2025 (2026 batch). Exact starter code not shared",
+   "sample_io": "",
+   "solution": "<button id=\"open\">Open</button>\n<div id=\"modal\" class=\"modal hidden\">\n  <div class=\"content\">\n    <span id=\"close\">&times;</span>\n    <p>Hello from the modal</p>\n  </div>\n</div>\n\n.hidden { display: none; }\n.modal { position: fixed; inset: 0; background: rgba(0,0,0,0.5); }\n.content { background: #fff; width: 300px; margin: 100px auto; padding: 16px; }\n\nconst modal = document.getElementById(\"modal\");\ndocument.getElementById(\"open\").onclick = () => modal.classList.remove(\"hidden\");\ndocument.getElementById(\"close\").onclick = () => modal.classList.add(\"hidden\");\nwindow.onclick = (e) => { if (e.target === modal) modal.classList.add(\"hidden\"); };",
+   "explanation": "",
+   "title": "Open and close a modal"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Web",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Calendar: day, month, year boxes that go up when clicked: Task as described: add a class name to the year button (HTML), make the calendar background black (CSS), and write the missing month function in JS (day and year were already done, e.g. getYear + 1; the candidate wrote getMonth + 1 and it worked). Tested in Chrome: 7 checks passed, including month rolling Dec to Jan of the next year.",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s12",
+   "source_note": "Asked: Reddit r/accenture_india, Accenture on-campus OA, posted 17 Oct 2026 (2027 batch)",
+   "sample_io": "",
+   "solution": "<div id=\"cal\">\n  <button id=\"dayBtn\" class=\"box\">1</button>\n  <button id=\"monthBtn\" class=\"box\">Jan</button>\n  <button id=\"yearBtn\" class=\"box year\">2026</button>  <!-- task: add class name -->\n</div>\n\n#cal { background: black; padding: 12px; }   /* task: background black */\n.box { color: white; background: #333; }\n\nlet d = new Date(2026, 0, 1);\nconst MONTHS = [\"Jan\",\"Feb\",\"Mar\",\"Apr\",\"May\",\"Jun\",\"Jul\",\"Aug\",\"Sep\",\"Oct\",\"Nov\",\"Dec\"];\nfunction show() {\n  dayBtn.textContent = d.getDate();\n  monthBtn.textContent = MONTHS[d.getMonth()];\n  yearBtn.textContent = d.getFullYear();\n}\ndayBtn.onclick = () => { d.setDate(d.getDate() + 1); show(); };\nmonthBtn.onclick = () => { d.setMonth(d.getMonth() + 1); show(); };  // the missing one\nyearBtn.onclick = () => { d.setFullYear(d.getFullYear() + 1); show(); };\nshow();",
+   "explanation": "",
+   "title": "Calendar: day, month, year boxes that go up when clicked"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Web",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Phone number: remove spaces and add brackets (JS): Task as described: the JS part had to remove spaces from an entered phone number and add brackets following given rules. HTML and CSS parts were 'very easy'. Tested in Node: 4 checks passed (spaces removed, leading/trailing spaces, too short, letters).",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "Candidate-reported",
+   "source": "s8",
+   "source_note": "Asked: Reddit r/accenture_india, Accenture on-campus OA 24 Sep 2026 (posted 10 Oct 2026). Exact output format not shared; this practice version uses (XXX) XXX-XXXX",
+   "sample_io": "",
+   "solution": "function formatPhone(raw) {\n  const digits = raw.replace(/\\s+/g, \"\");          // remove all spaces\n  if (!/^\\d{10}$/.test(digits)) return \"Invalid number\";\n  return \"(\" + digits.slice(0, 3) + \") \" + digits.slice(3, 6) + \"-\" + digits.slice(6);\n}",
+   "explanation": "",
+   "title": "Phone number: remove spaces and add brackets (JS)"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Web",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Quick frontend facts to know (practice)",
+   "options": null,
+   "answer": "See the solution.",
+   "label": "AI practice",
+   "source": null,
+   "sample_io": "",
+   "solution": "",
+   "explanation": "",
+   "title": "Quick frontend facts to know (practice)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is printed?",
+   "code": "Integer a, b\nSet a = 12, b = 10\na = a ^ b\nb = a ^ b\na = a ^ b\nPrint a, b",
+   "options": [
+    "10 12",
+    "12 10",
+    "6 6",
+    "2 12"
+   ],
+   "answer": "A) 10 12",
+   "explanation": "Three XORs swap the two values.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported type: pseudocode (bitwise/XOR, loops, recursion), Reddit 24-25 Sep 2026; answers checked by running them"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is printed?",
+   "code": "Integer a, b, c\nSet a = 7, b = 9\nc = (a & b) + (a | b)\nPrint c",
+   "options": [
+    "15",
+    "16",
+    "1",
+    "63"
+   ],
+   "answer": "B) 16",
+   "explanation": "7 & 9 = 1, 7 | 9 = 15, sum 16 (always equals a + b).",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported type: pseudocode (bitwise/XOR, loops, recursion), Reddit 24-25 Sep 2026; answers checked by running them"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is printed?",
+   "code": "Integer x\nSet x = 5\nx = (x << 2) ^ 3\nPrint x",
+   "options": [
+    "20",
+    "17",
+    "23",
+    "40"
+   ],
+   "answer": "C) 23",
+   "explanation": "5 << 2 = 20 (10100), 20 ^ 3 (00011) = 10111 = 23.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported type: pseudocode (bitwise/XOR, loops, recursion), Reddit 24-25 Sep 2026; answers checked by running them"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is printed?",
+   "code": "Integer n, c\nSet n = 29, c = 0\nwhile (n > 0)\n   c = c + (n & 1)\n   n = n >> 1\nend while\nPrint c",
+   "options": [
+    "3",
+    "5",
+    "29",
+    "4"
+   ],
+   "answer": "D) 4",
+   "explanation": "Counts 1-bits. 29 = 11101 has four 1s.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported type: pseudocode (bitwise/XOR, loops, recursion), Reddit 24-25 Sep 2026; answers checked by running them"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is printed?",
+   "code": "Integer a, b\nSet a = 15, b = 6\nPrint (a ^ b) & (a | b)",
+   "options": [
+    "9",
+    "15",
+    "6",
+    "0"
+   ],
+   "answer": "A) 9",
+   "explanation": "15 ^ 6 = 9 (1001), 15 | 6 = 15, 9 & 15 = 9.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported type: pseudocode (bitwise/XOR, loops, recursion), Reddit 24-25 Sep 2026; answers checked by running them"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is printed?",
+   "code": "Integer i, s\nSet s = 0\nfor (i = 1 to 10)\n   if (i % 3 == 0) continue\n   s = s + i\nend for\nPrint s",
+   "options": [
+    "55",
+    "37",
+    "18",
+    "40"
+   ],
+   "answer": "B) 37",
+   "explanation": "Skips 3, 6, 9: 55 - 18 = 37.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported type: pseudocode (bitwise/XOR, loops, recursion), Reddit 24-25 Sep 2026; answers checked by running them"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is printed?",
+   "code": "Integer f(Integer n)\n   if (n <= 1) return 1\n   return n * f(n - 2)\nPrint f(7)",
+   "options": [
+    "5040",
+    "15",
+    "105",
+    "48"
+   ],
+   "answer": "C) 105",
+   "explanation": "7 x 5 x 3 x f(1) = 105.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported type: pseudocode (bitwise/XOR, loops, recursion), Reddit 24-25 Sep 2026; answers checked by running them"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is printed?",
+   "code": "Integer g(Integer a, Integer b)\n   if (b == 0) return a\n   return g(b, a % b)\nPrint g(84, 36)",
+   "options": [
+    "6",
+    "4",
+    "36",
+    "12"
+   ],
+   "answer": "D) 12",
+   "explanation": "Euclid's GCD: (84,36) -> (36,12) -> (12,0) = 12.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported type: pseudocode (bitwise/XOR, loops, recursion), Reddit 24-25 Sep 2026; answers checked by running them"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is printed?",
+   "code": "Integer p, q\nSet p = 3, q = 4\np = p + q\nq = p - q\np = p - q\nPrint p * 10 + q",
+   "options": [
+    "43",
+    "34",
+    "70",
+    "7"
+   ],
+   "answer": "A) 43",
+   "explanation": "Swap using + and -: p = 4, q = 3, prints 43.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported type: pseudocode (bitwise/XOR, loops, recursion), Reddit 24-25 Sep 2026; answers checked by running them"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is printed?",
+   "code": "Integer i, j, c\nSet c = 0\nfor (i = 1 to 4)\n   for (j = i to 4)\n      c = c + 1\nPrint c",
+   "options": [
+    "16",
+    "10",
+    "4",
+    "8"
+   ],
+   "answer": "B) 10",
+   "explanation": "4 + 3 + 2 + 1 = 10.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported type: pseudocode (bitwise/XOR, loops, recursion), Reddit 24-25 Sep 2026; answers checked by running them"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is printed?",
+   "code": "Integer n, r\nSet n = 1234, r = 0\nwhile (n != 0)\n   r = r * 10 + n % 10\n   n = n / 10   (integer division)\nPrint r + 1",
+   "options": [
+    "1235",
+    "4321",
+    "4322",
+    "10"
+   ],
+   "answer": "C) 4322",
+   "explanation": "Reverses the digits (4321) and adds 1.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported type: pseudocode (bitwise/XOR, loops, recursion), Reddit 24-25 Sep 2026; answers checked by running them"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is printed?",
+   "code": "Integer a, b\nSet a = 1, b = 1\nwhile (b < 50)\n   b = a + b\n   a = b - a\nPrint b",
+   "options": [
+    "50",
+    "34",
+    "21",
+    "55"
+   ],
+   "answer": "D) 55",
+   "explanation": "Fibonacci steps: b goes 2, 3, 5, 8, 13, 21, 34, 55; stops at 55.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported type: pseudocode (bitwise/XOR, loops, recursion), Reddit 24-25 Sep 2026; answers checked by running them"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is printed?",
+   "code": "Integer x, y\nSet x = 6, y = 4\nif (x & y) Print \"Yes\" else Print \"No\"\nPrint x >> 1",
+   "options": [
+    "Yes 3",
+    "No 3",
+    "Yes 12",
+    "No 12"
+   ],
+   "answer": "A) Yes 3",
+   "explanation": "6 & 4 = 4 (non zero, so Yes); 6 >> 1 = 3.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported type: pseudocode (bitwise/XOR, loops, recursion), Reddit 24-25 Sep 2026; answers checked by running them"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is printed?",
+   "code": "Integer s, i\nSet s = 0\nfor (i = 1; i <= 20; i = i * 2)\n   s = s + i\nPrint s",
+   "options": [
+    "20",
+    "31",
+    "32",
+    "15"
+   ],
+   "answer": "B) 31",
+   "explanation": "1 + 2 + 4 + 8 + 16 = 31.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported type: pseudocode (bitwise/XOR, loops, recursion), Reddit 24-25 Sep 2026; answers checked by running them"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is printed?",
+   "code": "Integer a, b\nSet a = 25, b = 7\nPrint a / b, a % b, -a % b   (C rules)",
+   "options": [
+    "3 4 4",
+    "3.57 4 -4",
+    "3 4 -4",
+    "4 3 -3"
+   ],
+   "answer": "C) 3 4 -4",
+   "explanation": "Integer division 3, remainder 4; in C the sign of % follows the left side, so -25 % 7 = -4.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported type: pseudocode (bitwise/XOR, loops, recursion), Reddit 24-25 Sep 2026; answers checked by running them"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is printed?",
+   "code": "Integer m\nSet m = 0\nfor (i = 0 to 5)\n   m = m ^ i\nPrint m",
+   "options": [
+    "15",
+    "0",
+    "5",
+    "1"
+   ],
+   "answer": "D) 1",
+   "explanation": "0^1^2^3 = 0, then ^4 = 4, ^5 = 1.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported type: pseudocode (bitwise/XOR, loops, recursion), Reddit 24-25 Sep 2026; answers checked by running them"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is printed?",
+   "code": "Integer f(Integer n)\n   if (n == 0) return 0\n   return (n % 10) + f(n / 10)\nPrint f(9045)",
+   "options": [
+    "18",
+    "9045",
+    "20",
+    "45"
+   ],
+   "answer": "A) 18",
+   "explanation": "Digit sum: 9 + 0 + 4 + 5 = 18.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported type: pseudocode (bitwise/XOR, loops, recursion), Reddit 24-25 Sep 2026; answers checked by running them"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is printed?",
+   "code": "Integer a, b, c\nSet a = 4, b = 3, c = 0\nc = a > b ? a ^ b : a & b\nc = c << b\nPrint c",
+   "options": [
+    "7",
+    "56",
+    "0",
+    "24"
+   ],
+   "answer": "B) 56",
+   "explanation": "4 > 3 so c = 4 ^ 3 = 7; 7 << 3 = 56.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported type: pseudocode (bitwise/XOR, loops, recursion), Reddit 24-25 Sep 2026; answers checked by running them"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is printed?",
+   "code": "Integer i\nSet i = 0\ndo\n   i = i + 3\nwhile (i < 10)\nPrint i",
+   "options": [
+    "9",
+    "10",
+    "12",
+    "3"
+   ],
+   "answer": "C) 12",
+   "explanation": "3, 6, 9, 12: stops at 12.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported type: pseudocode (bitwise/XOR, loops, recursion), Reddit 24-25 Sep 2026; answers checked by running them"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is printed?",
+   "code": "Integer arr[5] = {2, 4, 6, 8, 10}, s = 0\nfor (i = 0 to 4)\n   if (i % 2 == 1) s = s + arr[i]\n   else s = s - arr[i]\nPrint s",
+   "options": [
+    "30",
+    "6",
+    "-30",
+    "-6"
+   ],
+   "answer": "D) -6",
+   "explanation": "-2 + 4 - 6 + 8 - 10 = -6.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported type: pseudocode (bitwise/XOR, loops, recursion), Reddit 24-25 Sep 2026; answers checked by running them"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is printed?",
+   "code": "char c = 'f', a = 's', b = 'x';\nint sum = c + a + b;\nprintf(\"%d\", sum);",
+   "options": [
+    "324",
+    "315",
+    "320",
+    "337"
+   ],
+   "answer": "D) 337",
+   "explanation": "ASCII: f = 102, s = 115, x = 120, total 337.",
+   "label": "Candidate-reported",
+   "source": "s3",
+   "source_note": "PrepInsta Accenture pseudocode page (2026), practice set; checked with gcc"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is printed?",
+   "code": "int fun(int x, int y) {\n   if (x <= 0) return y;\n   else return fun(x - 1, y - 1);\n}\nprintf(\"%d\", fun(5, 7));",
+   "options": [
+    "0",
+    "1",
+    "2",
+    "3"
+   ],
+   "answer": "C) 2",
+   "explanation": "Both drop by 1 five times: y = 7 - 5 = 2.",
+   "label": "Candidate-reported",
+   "source": "s3",
+   "source_note": "PrepInsta Accenture pseudocode page (2026), practice set; checked with gcc"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is printed?",
+   "code": "int n = 5, k, f1, f2, f;\nf1 = f2 = 1;\nfor (k = 2; k < n; k++) {\n   f = f1 + f2; f2 = f1; f1 = f;\n}\nprintf(\"%d\", f);",
+   "options": [
+    "8",
+    "5",
+    "13",
+    "7"
+   ],
+   "answer": "B) 5",
+   "explanation": "f goes 2, 3, 5.",
+   "label": "Candidate-reported",
+   "source": "s3",
+   "source_note": "PrepInsta Accenture pseudocode page (2026), practice set; checked with gcc"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is printed?",
+   "code": "int func(int a) { return a--; }\nint a = func(5);\nprintf(\"%d\", a++);",
+   "options": [
+    "4",
+    "5",
+    "7",
+    "6"
+   ],
+   "answer": "B) 5",
+   "explanation": "a-- returns 5 before decrementing; a++ prints 5 before incrementing.",
+   "label": "Candidate-reported",
+   "source": "s3",
+   "source_note": "PrepInsta Accenture pseudocode page (2026), practice set; checked with gcc"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is printed?",
+   "code": "int val = 5;\ndo { val++; ++val; } while (val++ > 7);\nprintf(\"%d\", val);",
+   "options": [
+    "11",
+    "10",
+    "8",
+    "7"
+   ],
+   "answer": "C) 8",
+   "explanation": "val becomes 7, test 7 > 7 is false, but val++ still makes it 8.",
+   "label": "Candidate-reported",
+   "source": "s3",
+   "source_note": "PrepInsta Accenture pseudocode page (2026), practice set; checked with gcc"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is printed?",
+   "code": "char c = 'Z';\nprintf(\"%d\", c);",
+   "options": [
+    "Z",
+    "'Z'",
+    "90",
+    "122"
+   ],
+   "answer": "C) 90",
+   "explanation": "%d prints the ASCII code of 'Z', which is 90.",
+   "label": "Candidate-reported",
+   "source": "s3",
+   "source_note": "PrepInsta Accenture pseudocode page (2026), practice set; checked with gcc"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Cloud",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "A company runs its own data centre but sends extra traffic to a public cloud during festival sales. This is:",
+   "code": "",
+   "options": [
+    "Private cloud",
+    "Community cloud",
+    "Hybrid cloud",
+    "Public cloud"
+   ],
+   "answer": "C) Hybrid cloud",
+   "explanation": "Own + public together = hybrid. Using public cloud only for peaks is called cloud bursting.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: cloud (Reddit 25 Sep 2026; GfG Dec 2025)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Cloud",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Heroku / Google App Engine, where you upload code and the platform runs it, is:",
+   "code": "",
+   "options": [
+    "IaaS",
+    "PaaS",
+    "SaaS",
+    "On-premise"
+   ],
+   "answer": "B) PaaS",
+   "explanation": "You manage code only; the provider manages OS and runtime.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: cloud (Reddit 25 Sep 2026; GfG Dec 2025)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Cloud",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Which is the customer's job in IaaS?",
+   "code": "",
+   "options": [
+    "Operating system patching",
+    "Physical servers",
+    "Data centre power",
+    "Network cables"
+   ],
+   "answer": "A) Operating system patching",
+   "explanation": "In IaaS you get virtual machines; the OS and above are yours.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: cloud (Reddit 25 Sep 2026; GfG Dec 2025)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Cloud",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Adding more servers to handle load is:",
+   "code": "",
+   "options": [
+    "Vertical scaling",
+    "Load testing",
+    "Caching",
+    "Horizontal scaling"
+   ],
+   "answer": "D) Horizontal scaling",
+   "explanation": "Horizontal = scale out (more machines); vertical = bigger machine.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: cloud (Reddit 25 Sep 2026; GfG Dec 2025)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Cloud",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "The software that creates and runs virtual machines is the:",
+   "code": "",
+   "options": [
+    "Compiler",
+    "Kernel module",
+    "Hypervisor",
+    "Container"
+   ],
+   "answer": "C) Hypervisor",
+   "explanation": "Hypervisor, for example VMware ESXi, Hyper-V, KVM.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: cloud (Reddit 25 Sep 2026; GfG Dec 2025)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Cloud",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "AWS S3 is mainly a:",
+   "code": "",
+   "options": [
+    "Database service",
+    "Object storage service",
+    "Compute service",
+    "DNS service"
+   ],
+   "answer": "B) Object storage service",
+   "explanation": "S3 = Simple Storage Service (objects/files).",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: cloud (Reddit 25 Sep 2026; GfG Dec 2025)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Cloud",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Paying only for what you use in the cloud is called:",
+   "code": "",
+   "options": [
+    "Pay-as-you-go",
+    "Capex model",
+    "Licensing",
+    "Leasing"
+   ],
+   "answer": "A) Pay-as-you-go",
+   "explanation": "Operating expense, billed by usage.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: cloud (Reddit 25 Sep 2026; GfG Dec 2025)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Cloud",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Serverless functions like AWS Lambda are best described as:",
+   "code": "",
+   "options": [
+    "You manage servers",
+    "Only for storage",
+    "Only for databases",
+    "Code runs on demand, no server management"
+   ],
+   "answer": "D) Code runs on demand, no server management",
+   "explanation": "Function as a Service: runs on events, billed per call/time.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: cloud (Reddit 25 Sep 2026; GfG Dec 2025)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Security",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "The 'A' in the CIA triad stands for:",
+   "code": "",
+   "options": [
+    "Authentication",
+    "Authorization",
+    "Availability",
+    "Accounting"
+   ],
+   "answer": "C) Availability",
+   "explanation": "Confidentiality, Integrity, Availability.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: cybersecurity (Reddit 24-25 Sep 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Security",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Flooding a server from thousands of infected machines is:",
+   "code": "",
+   "options": [
+    "Phishing",
+    "DDoS",
+    "SQL injection",
+    "Spoofing"
+   ],
+   "answer": "B) DDoS",
+   "explanation": "Distributed Denial of Service hits Availability.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: cybersecurity (Reddit 24-25 Sep 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Security",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Which Wi-Fi security standard is the newest and strongest?",
+   "code": "",
+   "options": [
+    "WPA3",
+    "WEP",
+    "WPA",
+    "WPA2"
+   ],
+   "answer": "A) WPA3",
+   "explanation": "WPA3 (2018) replaced WPA2; WEP is broken.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: cybersecurity (Reddit 24-25 Sep 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Security",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "HTTPS uses which protocol to encrypt traffic?",
+   "code": "",
+   "options": [
+    "FTP",
+    "SMTP",
+    "ARP",
+    "TLS/SSL"
+   ],
+   "answer": "D) TLS/SSL",
+   "explanation": "TLS (older name SSL) runs under HTTP.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: cybersecurity (Reddit 24-25 Sep 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Security",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Typing ' OR '1'='1 into a login box is an example of:",
+   "code": "",
+   "options": [
+    "XSS",
+    "Brute force",
+    "SQL injection",
+    "Man-in-the-middle"
+   ],
+   "answer": "C) SQL injection",
+   "explanation": "It changes the SQL query; prevent with parameterised queries.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: cybersecurity (Reddit 24-25 Sep 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Security",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "A firewall mainly:",
+   "code": "",
+   "options": [
+    "Speeds up the network",
+    "Filters traffic based on rules",
+    "Stores passwords",
+    "Encrypts files"
+   ],
+   "answer": "B) Filters traffic based on rules",
+   "explanation": "Allows or blocks traffic by IP, port, protocol.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: cybersecurity (Reddit 24-25 Sep 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Security",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Malware that encrypts your files and asks for payment is:",
+   "code": "",
+   "options": [
+    "Ransomware",
+    "Worm",
+    "Spyware",
+    "Adware"
+   ],
+   "answer": "A) Ransomware",
+   "explanation": "Ransomware, e.g. WannaCry.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: cybersecurity (Reddit 24-25 Sep 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Security",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Trying thousands of passwords on one account is:",
+   "code": "",
+   "options": [
+    "Phishing",
+    "Sniffing",
+    "Spoofing",
+    "Brute force attack"
+   ],
+   "answer": "D) Brute force attack",
+   "explanation": "Stopped by lockout, MFA, rate limiting (your HoneyTrap project detects this).",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: cybersecurity (Reddit 24-25 Sep 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Security",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Hashing differs from encryption because hashing is:",
+   "code": "",
+   "options": [
+    "Reversible",
+    "Faster to decrypt",
+    "One-way",
+    "Only for images"
+   ],
+   "answer": "C) One-way",
+   "explanation": "You cannot get the input back from a hash (SHA-256).",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: cybersecurity (Reddit 24-25 Sep 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Networks",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Which OSI layer handles end-to-end delivery and ports (TCP/UDP)?",
+   "code": "",
+   "options": [
+    "Network",
+    "Transport",
+    "Session",
+    "Data link"
+   ],
+   "answer": "B) Transport",
+   "explanation": "Layer 4 = Transport.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: networks / OSI (Reddit 25 Sep 2026; GfG Dec 2025)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Networks",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "MAC addresses are used at which layer?",
+   "code": "",
+   "options": [
+    "Data link",
+    "Physical",
+    "Network",
+    "Application"
+   ],
+   "answer": "A) Data link",
+   "explanation": "Layer 2; switches use MAC addresses.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: networks / OSI (Reddit 25 Sep 2026; GfG Dec 2025)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Networks",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Which protocol gives your laptop an IP address automatically?",
+   "code": "",
+   "options": [
+    "DNS",
+    "ARP",
+    "FTP",
+    "DHCP"
+   ],
+   "answer": "D) DHCP",
+   "explanation": "DHCP assigns IP, gateway and DNS.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: networks / OSI (Reddit 25 Sep 2026; GfG Dec 2025)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Networks",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Which is connectionless?",
+   "code": "",
+   "options": [
+    "TCP",
+    "HTTP",
+    "UDP",
+    "FTP"
+   ],
+   "answer": "C) UDP",
+   "explanation": "UDP has no handshake; used for video, DNS, games.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: networks / OSI (Reddit 25 Sep 2026; GfG Dec 2025)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Networks",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "ARP converts:",
+   "code": "",
+   "options": [
+    "MAC to IP",
+    "IP to MAC",
+    "Domain to IP",
+    "Port to IP"
+   ],
+   "answer": "B) IP to MAC",
+   "explanation": "Address Resolution Protocol finds the MAC for an IP on the LAN.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: networks / OSI (Reddit 25 Sep 2026; GfG Dec 2025)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Networks",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "How many usable hosts in a /24 network?",
+   "code": "",
+   "options": [
+    "254",
+    "256",
+    "255",
+    "252"
+   ],
+   "answer": "A) 254",
+   "explanation": "2^8 - 2 = 254 (network and broadcast removed).",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: networks / OSI (Reddit 25 Sep 2026; GfG Dec 2025)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Networks",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Default port of SSH?",
+   "code": "",
+   "options": [
+    "21",
+    "23",
+    "25",
+    "22"
+   ],
+   "answer": "D) 22",
+   "explanation": "FTP 21, SSH 22, Telnet 23, SMTP 25.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: networks / OSI (Reddit 25 Sep 2026; GfG Dec 2025)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "OS",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Running a whole OS inside another OS (for example Ubuntu in VirtualBox) is:",
+   "code": "",
+   "options": [
+    "Paging",
+    "Multithreading",
+    "Virtualization",
+    "Spooling"
+   ],
+   "answer": "C) Virtualization",
+   "explanation": "A hypervisor provides virtual hardware.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: OS, virtualization (Reddit 25 Sep 2026; GfG Jul 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "OS",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Which scheduling can cause starvation of long jobs?",
+   "code": "",
+   "options": [
+    "Round robin",
+    "FCFS",
+    "Shortest Job First",
+    "None"
+   ],
+   "answer": "C) Shortest Job First",
+   "explanation": "Short jobs keep jumping ahead in SJF.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: OS, virtualization (Reddit 25 Sep 2026; GfG Jul 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "OS",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "A page fault happens when:",
+   "code": "",
+   "options": [
+    "The page is not in RAM",
+    "CPU overheats",
+    "Disk is full",
+    "A process ends"
+   ],
+   "answer": "A) The page is not in RAM",
+   "explanation": "OS loads the page from disk.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: OS, virtualization (Reddit 25 Sep 2026; GfG Jul 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "OS",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Containers (Docker) differ from VMs because containers:",
+   "code": "",
+   "options": [
+    "Have their own kernel",
+    "Need a hypervisor",
+    "Are slower",
+    "Share the host kernel"
+   ],
+   "answer": "D) Share the host kernel",
+   "explanation": "Lighter and faster to start.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: OS, virtualization (Reddit 25 Sep 2026; GfG Jul 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "OS",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "A semaphore is used for:",
+   "code": "",
+   "options": [
+    "Memory allocation",
+    "File compression",
+    "Process synchronization",
+    "Networking"
+   ],
+   "answer": "C) Process synchronization",
+   "explanation": "Controls access to shared resources.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: OS, virtualization (Reddit 25 Sep 2026; GfG Jul 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "DBMS",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Which query returns the number of employees in each department?",
+   "code": "",
+   "options": [
+    "SELECT dept, COUNT(*) FROM emp;",
+    "SELECT dept, COUNT(*) FROM emp GROUP BY dept;",
+    "SELECT COUNT(dept) FROM emp ORDER BY dept;",
+    "SELECT dept FROM emp HAVING COUNT(*);"
+   ],
+   "answer": "B) SELECT dept, COUNT(*) FROM emp GROUP BY dept;",
+   "explanation": "Aggregates per group need GROUP BY.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: DBMS, options are queries (Reddit 25 Sep 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "DBMS",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Filter groups whose average salary is above 50000:",
+   "code": "",
+   "options": [
+    "HAVING AVG(salary) > 50000",
+    "WHERE AVG(salary) > 50000",
+    "GROUP BY AVG(salary) > 50000",
+    "ORDER BY AVG(salary) > 50000"
+   ],
+   "answer": "A) HAVING AVG(salary) > 50000",
+   "explanation": "WHERE filters rows before grouping; HAVING filters groups.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: DBMS, options are queries (Reddit 25 Sep 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "DBMS",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Which returns rows from both tables only where the keys match?",
+   "code": "",
+   "options": [
+    "LEFT JOIN",
+    "FULL OUTER JOIN",
+    "CROSS JOIN",
+    "INNER JOIN"
+   ],
+   "answer": "D) INNER JOIN",
+   "explanation": "INNER JOIN keeps matches only.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: DBMS, options are queries (Reddit 25 Sep 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "DBMS",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "A CROSS JOIN of a 4-row table and a 5-row table returns:",
+   "code": "",
+   "options": [
+    "9 rows",
+    "5 rows",
+    "20 rows",
+    "4 rows"
+   ],
+   "answer": "C) 20 rows",
+   "explanation": "Every pair: 4 x 5 = 20.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: DBMS, options are queries (Reddit 25 Sep 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "DBMS",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Which statement can be rolled back in most databases?",
+   "code": "",
+   "options": [
+    "TRUNCATE (in MySQL)",
+    "DELETE",
+    "DROP",
+    "CREATE"
+   ],
+   "answer": "B) DELETE",
+   "explanation": "DELETE is DML and logged; TRUNCATE/DROP are DDL.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: DBMS, options are queries (Reddit 25 Sep 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "OOP",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Two methods with the same name but different parameters in the same class is:",
+   "code": "",
+   "options": [
+    "Overloading",
+    "Overriding",
+    "Inheritance",
+    "Abstraction"
+   ],
+   "answer": "A) Overloading",
+   "explanation": "Compile-time polymorphism.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: OOP (PrepInsta 2026 pseudocode topics)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "OOP",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Which cannot be created as an object directly in Java?",
+   "code": "",
+   "options": [
+    "Final class",
+    "Static class member",
+    "Subclass",
+    "Abstract class"
+   ],
+   "answer": "D) Abstract class",
+   "explanation": "Abstract classes are only extended.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: OOP (PrepInsta 2026 pseudocode topics)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "OOP",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "A class having an object of another class as a field (Car has an Engine) is:",
+   "code": "",
+   "options": [
+    "Inheritance",
+    "Overloading",
+    "Composition",
+    "Interface"
+   ],
+   "answer": "C) Composition",
+   "explanation": "'Has-a' relation.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: OOP (PrepInsta 2026 pseudocode topics)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "OOP",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Keyword to call the parent class constructor in Java:",
+   "code": "",
+   "options": [
+    "this()",
+    "super()",
+    "parent()",
+    "base()"
+   ],
+   "answer": "B) super()",
+   "explanation": "super() must be the first line.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: OOP (PrepInsta 2026 pseudocode topics)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Other",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Which tool is used to manage and scale containers across many machines?",
+   "code": "",
+   "options": [
+    "Kubernetes",
+    "Git",
+    "Jenkins",
+    "Maven"
+   ],
+   "answer": "A) Kubernetes",
+   "explanation": "Kubernetes orchestrates containers.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: DevOps (Reddit Oct 2025; GfG Jul 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Other",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "CI/CD mainly means:",
+   "code": "",
+   "options": [
+    "Manual testing",
+    "Writing documentation",
+    "Code review only",
+    "Automatically building, testing and deploying code"
+   ],
+   "answer": "D) Automatically building, testing and deploying code",
+   "explanation": "Continuous Integration / Continuous Delivery.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: DevOps (Reddit Oct 2025; GfG Jul 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Other",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "A Dockerfile is used to:",
+   "code": "",
+   "options": [
+    "Run SQL",
+    "Store passwords",
+    "Build a container image",
+    "Monitor servers"
+   ],
+   "answer": "C) Build a container image",
+   "explanation": "It lists the steps to build an image.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: DevOps (Reddit Oct 2025; GfG Jul 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Other",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Which Git command copies a remote repository to your laptop?",
+   "code": "",
+   "options": [
+    "git push",
+    "git clone",
+    "git commit",
+    "git merge"
+   ],
+   "answer": "B) git clone",
+   "explanation": "clone downloads the whole repo.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: DevOps (Reddit Oct 2025; GfG Jul 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Web",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Which HTML tag makes a dropdown list?",
+   "code": "",
+   "options": [
+    "<select>",
+    "<input type=list>",
+    "<dropdown>",
+    "<option list>"
+   ],
+   "answer": "A) <select>",
+   "explanation": "<select> with <option> items.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: HTML in MCQ (Reddit 25 Sep 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Web",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Which attribute makes an input mandatory?",
+   "code": "",
+   "options": [
+    "important",
+    "validate",
+    "must",
+    "required"
+   ],
+   "answer": "D) required",
+   "explanation": "<input required>.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: HTML in MCQ (Reddit 25 Sep 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Web",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Which tag is semantic (describes meaning)?",
+   "code": "",
+   "options": [
+    "<div>",
+    "<span>",
+    "<article>",
+    "<b>"
+   ],
+   "answer": "C) <article>",
+   "explanation": "article, header, nav, footer, section are semantic.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: HTML in MCQ (Reddit 25 Sep 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Other",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Default file extension of a Word document (Word 2007 onward)?",
+   "code": "",
+   "options": [
+    ".doc",
+    ".docx",
+    ".txt",
+    ".odt"
+   ],
+   "answer": "B) .docx",
+   "explanation": ".doc is the old format; .docm has macros.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: MS Word / common applications (Reddit 25 Sep 2026; PrepInsta 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Other",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "In Excel, =COUNTIF(A1:A10, \">50\") returns:",
+   "code": "",
+   "options": [
+    "Count of cells above 50",
+    "Sum of values above 50",
+    "Average above 50",
+    "Max above 50"
+   ],
+   "answer": "A) Count of cells above 50",
+   "explanation": "COUNTIF counts cells meeting the condition.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: MS Word / common applications (Reddit 25 Sep 2026; PrepInsta 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Other",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Shortcut to insert a new slide in PowerPoint?",
+   "code": "",
+   "options": [
+    "Ctrl + N",
+    "Ctrl + S",
+    "Ctrl + D",
+    "Ctrl + M"
+   ],
+   "answer": "D) Ctrl + M",
+   "explanation": "Ctrl+M = new slide; Ctrl+D duplicates the selected object/slide.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: MS Word / common applications (Reddit 25 Sep 2026; PrepInsta 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Other",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Which Excel reference stays fixed when copied?",
+   "code": "",
+   "options": [
+    "A1",
+    "A$1",
+    "$A$1",
+    "$A1"
+   ],
+   "answer": "C) $A$1",
+   "explanation": "Both column and row locked.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: MS Word / common applications (Reddit 25 Sep 2026; PrepInsta 2026)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Other",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "A short daily meeting in Scrum is called:",
+   "code": "",
+   "options": [
+    "Sprint review",
+    "Daily stand-up (Daily Scrum)",
+    "Retrospective",
+    "Backlog grooming"
+   ],
+   "answer": "B) Daily stand-up (Daily Scrum)",
+   "explanation": "About 15 minutes.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: software development concepts (GfG Dec 2025)"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Other",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Who owns and prioritises the product backlog?",
+   "code": "",
+   "options": [
+    "Product Owner",
+    "Scrum Master",
+    "Developer",
+    "Tester"
+   ],
+   "answer": "A) Product Owner",
+   "explanation": "The Product Owner decides what is built first.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported topic: software development concepts (GfG Dec 2025)"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Quant",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "A shirt marked Rs 1,200 is sold at 25% off. Selling price?",
+   "code": "",
+   "options": [
+    "Rs 900",
+    "Rs 950",
+    "Rs 875",
+    "Rs 1,000"
+   ],
+   "answer": "A) Rs 900",
+   "explanation": "1200 x 0.75 = 900.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, quick maths for the arithmetic game (reported type, Reddit Sep 2026)"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Quant",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "A bike covers 180 km in 3 h 36 min. Speed?",
+   "code": "",
+   "options": [
+    "60 km/h",
+    "45 km/h",
+    "55 km/h",
+    "50 km/h"
+   ],
+   "answer": "D) 50 km/h",
+   "explanation": "3.6 h; 180 / 3.6 = 50.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, quick maths for the arithmetic game (reported type, Reddit Sep 2026)"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Quant",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Pipe A fills a tank in 10 min, pipe B empties it in 15 min. Both open: time to fill?",
+   "code": "",
+   "options": [
+    "25 min",
+    "20 min",
+    "30 min",
+    "12 min"
+   ],
+   "answer": "C) 30 min",
+   "explanation": "1/10 - 1/15 = 1/30.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, quick maths for the arithmetic game (reported type, Reddit Sep 2026)"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Quant",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Compound interest on Rs 10,000 at 10% per year for 2 years?",
+   "code": "",
+   "options": [
+    "Rs 2,000",
+    "Rs 2,100",
+    "Rs 2,200",
+    "Rs 1,100"
+   ],
+   "answer": "B) Rs 2,100",
+   "explanation": "10000 x 1.21 - 10000 = 2100.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, quick maths for the arithmetic game (reported type, Reddit Sep 2026)"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Quant",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Average of first 20 natural numbers?",
+   "code": "",
+   "options": [
+    "10.5",
+    "10",
+    "11",
+    "20"
+   ],
+   "answer": "A) 10.5",
+   "explanation": "(1 + 20) / 2 = 10.5.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, quick maths for the arithmetic game (reported type, Reddit Sep 2026)"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Quant",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "A number increased by 20% and then decreased by 20%. Net change?",
+   "code": "",
+   "options": [
+    "0%",
+    "4% gain",
+    "2% loss",
+    "4% loss"
+   ],
+   "answer": "D) 4% loss",
+   "explanation": "1.2 x 0.8 = 0.96.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, quick maths for the arithmetic game (reported type, Reddit Sep 2026)"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Quant",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Ratio of boys to girls is 7:5. There are 84 boys. Total students?",
+   "code": "",
+   "options": [
+    "120",
+    "132",
+    "144",
+    "156"
+   ],
+   "answer": "C) 144",
+   "explanation": "84/7 = 12 per part; 12 parts x 12 = 144.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, quick maths for the arithmetic game (reported type, Reddit Sep 2026)"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Quant",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "LCM of 12, 18 and 30?",
+   "code": "",
+   "options": [
+    "90",
+    "180",
+    "360",
+    "60"
+   ],
+   "answer": "B) 180",
+   "explanation": "2^2 x 3^2 x 5 = 180.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, quick maths for the arithmetic game (reported type, Reddit Sep 2026)"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Quant",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "How many ways can the letters of 'GAME' be arranged?",
+   "code": "",
+   "options": [
+    "24",
+    "12",
+    "16",
+    "4"
+   ],
+   "answer": "A) 24",
+   "explanation": "4! = 24.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, quick maths for the arithmetic game (reported type, Reddit Sep 2026)"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Quant",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Probability of getting a sum of 7 with two dice?",
+   "code": "",
+   "options": [
+    "1/12",
+    "1/9",
+    "1/8",
+    "1/6"
+   ],
+   "answer": "D) 1/6",
+   "explanation": "6 good outcomes of 36.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, quick maths for the arithmetic game (reported type, Reddit Sep 2026)"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Quant",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "A clock shows 3:30. Angle between the hands?",
+   "code": "",
+   "options": [
+    "90",
+    "60",
+    "75",
+    "105"
+   ],
+   "answer": "C) 75",
+   "explanation": "30 x 3 - 5.5 x 30 = |90 - 165| = 75.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, quick maths for the arithmetic game (reported type, Reddit Sep 2026)"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Quant",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "17 x 23 = ?",
+   "code": "",
+   "options": [
+    "381",
+    "391",
+    "401",
+    "371"
+   ],
+   "answer": "B) 391",
+   "explanation": "(20 - 3)(20 + 3) = 400 - 9 = 391.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, quick maths for the arithmetic game (reported type, Reddit Sep 2026)"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Quant",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is 35% of 240?",
+   "code": "",
+   "options": [
+    "84",
+    "74",
+    "94",
+    "72"
+   ],
+   "answer": "A) 84",
+   "explanation": "240 x 0.35 = 84.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, quick maths for the arithmetic game (reported type, Reddit Sep 2026)"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Quant",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Find the missing number: 5, 11, 23, 47, ?",
+   "code": "",
+   "options": [
+    "94",
+    "96",
+    "93",
+    "95"
+   ],
+   "answer": "D) 95",
+   "explanation": "x2 + 1 each step: 47 x 2 + 1 = 95.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, quick maths for the arithmetic game (reported type, Reddit Sep 2026)"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Logical",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Series: 1, 4, 9, 16, 25, ?",
+   "code": "",
+   "options": [
+    "30",
+    "49",
+    "36",
+    "35"
+   ],
+   "answer": "C) 36",
+   "explanation": "Squares: 6 x 6 = 36.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported type: pattern recognition / abstract (GfG Dec 2025; old-pattern abstract section, GfG Oct 2024)"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Logical",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Series: 2, 3, 5, 7, 11, 13, ?",
+   "code": "",
+   "options": [
+    "15",
+    "17",
+    "19",
+    "16"
+   ],
+   "answer": "B) 17",
+   "explanation": "Prime numbers.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported type: pattern recognition / abstract (GfG Dec 2025; old-pattern abstract section, GfG Oct 2024)"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Logical",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Letters: Z, X, U, Q, L, ?",
+   "code": "",
+   "options": [
+    "F",
+    "G",
+    "H",
+    "E"
+   ],
+   "answer": "A) F",
+   "explanation": "Steps back 2, 3, 4, 5, 6: L(12) - 6 = F(6).",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported type: pattern recognition / abstract (GfG Dec 2025; old-pattern abstract section, GfG Oct 2024)"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Logical",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "A square rotates 45 degrees clockwise each step. After 6 steps, how far has it turned from start?",
+   "code": "",
+   "options": [
+    "270 degrees",
+    "90 degrees, looks the same as start",
+    "0 degrees",
+    "270 degrees, looks the same as start"
+   ],
+   "answer": "D) 270 degrees, looks the same as start",
+   "explanation": "6 x 45 = 270; a square looks the same every 90 degrees, so it matches the start.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported type: pattern recognition / abstract (GfG Dec 2025; old-pattern abstract section, GfG Oct 2024)"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Logical",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Figures have 3, 4, 5, 6 sides. Next figure has:",
+   "code": "",
+   "options": [
+    "6",
+    "8",
+    "7",
+    "5"
+   ],
+   "answer": "C) 7",
+   "explanation": "Sides go up by 1.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported type: pattern recognition / abstract (GfG Dec 2025; old-pattern abstract section, GfG Oct 2024)"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Logical",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "In a 3 x 3 grid, each row has a circle, a square and a triangle once. Row 3 has circle and square. Missing:",
+   "code": "",
+   "options": [
+    "Circle",
+    "Triangle",
+    "Square",
+    "Star"
+   ],
+   "answer": "B) Triangle",
+   "explanation": "Each shape once per row.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported type: pattern recognition / abstract (GfG Dec 2025; old-pattern abstract section, GfG Oct 2024)"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Logical",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Odd one out: 8, 27, 64, 100, 125",
+   "code": "",
+   "options": [
+    "100",
+    "27",
+    "64",
+    "125"
+   ],
+   "answer": "A) 100",
+   "explanation": "Others are cubes.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported type: pattern recognition / abstract (GfG Dec 2025; old-pattern abstract section, GfG Oct 2024)"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Logical",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Number pattern: 3 -> 10, 5 -> 26, 7 -> ?",
+   "code": "",
+   "options": [
+    "49",
+    "48",
+    "52",
+    "50"
+   ],
+   "answer": "D) 50",
+   "explanation": "n squared + 1: 49 + 1 = 50.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, reported type: pattern recognition / abstract (GfG Dec 2025; old-pattern abstract section, GfG Oct 2024)"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Logical",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "All engineers are graduates. Some graduates are coders. Which follows?",
+   "code": "",
+   "options": [
+    "All coders are engineers",
+    "Some engineers are coders",
+    "No definite conclusion about engineers and coders",
+    "All graduates are engineers"
+   ],
+   "answer": "C) No definite conclusion about engineers and coders",
+   "explanation": "The 'some' group may not overlap with engineers.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, old-pattern critical reasoning section (18 Qs in GfG Oct 2024 report); may still appear"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Logical",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Statement: 'Use the app to book tickets and skip the queue.' Assumption:",
+   "code": "",
+   "options": [
+    "Everyone has a phone",
+    "The queue is long or slow",
+    "The app is free",
+    "Tickets are cheap"
+   ],
+   "answer": "B) The queue is long or slow",
+   "explanation": "Skipping the queue only matters if the queue is a problem.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, old-pattern critical reasoning section (18 Qs in GfG Oct 2024 report); may still appear"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Logical",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "A is B's sister. C is B's mother. D is C's father. How is A related to D?",
+   "code": "",
+   "options": [
+    "Granddaughter",
+    "Daughter",
+    "Niece",
+    "Sister"
+   ],
+   "answer": "A) Granddaughter",
+   "explanation": "A is C's daughter, C is D's daughter.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, old-pattern critical reasoning section (18 Qs in GfG Oct 2024 report); may still appear"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Logical",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "If in a code SMART is written as TNBSU, how is CLOUD written?",
+   "code": "",
+   "options": [
+    "DMPUE",
+    "DLPVE",
+    "CMPVE",
+    "DMPVE"
+   ],
+   "answer": "D) DMPVE",
+   "explanation": "Each letter +1.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, old-pattern critical reasoning section (18 Qs in GfG Oct 2024 report); may still appear"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Logical",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Ravi is 7th from the left and 12th from the right in a row. How many people?",
+   "code": "",
+   "options": [
+    "19",
+    "20",
+    "18",
+    "17"
+   ],
+   "answer": "C) 18",
+   "explanation": "7 + 12 - 1 = 18.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, old-pattern critical reasoning section (18 Qs in GfG Oct 2024 report); may still appear"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Logical",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Facing north, you turn 90 degrees right, then 180 degrees, then 90 degrees left. You now face:",
+   "code": "",
+   "options": [
+    "North",
+    "South",
+    "East",
+    "West"
+   ],
+   "answer": "B) South",
+   "explanation": "N -> E -> W -> S.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, old-pattern critical reasoning section (18 Qs in GfG Oct 2024 report); may still appear"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Logical",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Which weakens: 'Online tests are fairer than offline tests'?",
+   "code": "",
+   "options": [
+    "Many students had internet failures during the online test",
+    "Online tests are faster",
+    "Online tests are cheaper",
+    "Teachers like online tests"
+   ],
+   "answer": "A) Many students had internet failures during the online test",
+   "explanation": "Unequal technical problems make it less fair.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, old-pattern critical reasoning section (18 Qs in GfG Oct 2024 report); may still appear"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Logical",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Five people sit in a row. P is left of Q, R is right of Q, S is at the left end, T is between S and P. Who is in the middle?",
+   "code": "",
+   "options": [
+    "Q",
+    "T",
+    "R",
+    "P"
+   ],
+   "answer": "D) P",
+   "explanation": "Order S T P Q R; middle is P.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, old-pattern critical reasoning section (18 Qs in GfG Oct 2024 report); may still appear"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Verbal",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Choose the correct sentence:",
+   "code": "",
+   "options": [
+    "Each of the students have a laptop.",
+    "Each students has a laptop.",
+    "Each of the students has a laptop.",
+    "Each of student has laptops."
+   ],
+   "answer": "C) Each of the students has a laptop.",
+   "explanation": "'Each' takes a singular verb.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, old-pattern English ability section (17 Qs in GfG Oct 2024 report); also helps the communication round"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Verbal",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Fill in: She is good ___ coding.",
+   "code": "",
+   "options": [
+    "in",
+    "at",
+    "on",
+    "for"
+   ],
+   "answer": "B) at",
+   "explanation": "Good at something.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, old-pattern English ability section (17 Qs in GfG Oct 2024 report); also helps the communication round"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Verbal",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Synonym of 'meticulous':",
+   "code": "",
+   "options": [
+    "Very careful",
+    "Careless",
+    "Quick",
+    "Lazy"
+   ],
+   "answer": "A) Very careful",
+   "explanation": "Paying close attention to detail.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, old-pattern English ability section (17 Qs in GfG Oct 2024 report); also helps the communication round"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Verbal",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Antonym of 'scarce':",
+   "code": "",
+   "options": [
+    "Rare",
+    "Few",
+    "Little",
+    "Plenty"
+   ],
+   "answer": "D) Plenty",
+   "explanation": "Scarce = not enough; opposite = plenty.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, old-pattern English ability section (17 Qs in GfG Oct 2024 report); also helps the communication round"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Verbal",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Passive voice of 'The team completed the project.'",
+   "code": "",
+   "options": [
+    "The project is completed by the team.",
+    "The project has completed by the team.",
+    "The project was completed by the team.",
+    "The team was completed the project."
+   ],
+   "answer": "C) The project was completed by the team.",
+   "explanation": "Past simple -> was + past participle.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, old-pattern English ability section (17 Qs in GfG Oct 2024 report); also helps the communication round"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Verbal",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Meaning of the idiom 'hit the ground running':",
+   "code": "",
+   "options": [
+    "Fall down",
+    "Start something fast and well",
+    "Run a race",
+    "Fail early"
+   ],
+   "answer": "B) Start something fast and well",
+   "explanation": "Start with energy and speed.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, old-pattern English ability section (17 Qs in GfG Oct 2024 report); also helps the communication round"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Verbal",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Spot the error: 'I have been working here since three years.'",
+   "code": "",
+   "options": [
+    "since three years",
+    "I have",
+    "been working",
+    "here"
+   ],
+   "answer": "A) since three years",
+   "explanation": "Use 'for three years' (a period); 'since' is for a point in time.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, old-pattern English ability section (17 Qs in GfG Oct 2024 report); also helps the communication round"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Verbal",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Choose the article: He is ___ honest man.",
+   "code": "",
+   "options": [
+    "a",
+    "the",
+    "no article",
+    "an"
+   ],
+   "answer": "D) an",
+   "explanation": "'Honest' starts with a vowel sound.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, old-pattern English ability section (17 Qs in GfG Oct 2024 report); also helps the communication round"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "Tell me about yourself.",
+   "options": null,
+   "answer": "Answer with your own facts. Keep it to 60-90 seconds: context, what you did, result, what you learned.",
+   "label": "Candidate-reported",
+   "source": "s16",
+   "source_note": "GfG 2024, 2025, 2026 (all reports)"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "Explain your final-year project.",
+   "options": null,
+   "answer": "Answer with your own facts. Keep it to 60-90 seconds: context, what you did, result, what you learned.",
+   "label": "Candidate-reported",
+   "source": "s6",
+   "source_note": "GfG 2024, Dec 2025, Jan 2026, Jul 2026"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "Why did you choose this project?",
+   "options": null,
+   "answer": "Answer with your own facts. Keep it to 60-90 seconds: context, what you did, result, what you learned.",
+   "label": "Candidate-reported",
+   "source": "s5",
+   "source_note": "GfG Dec 2025 (AASE 2026 batch)"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "Why this tech stack?",
+   "options": null,
+   "answer": "For the document app I used FastAPI because it is fast, simple and gives automatic API docs, and MySQL because the data is structured and needs relations and queries. Python fits because the AI parts are in Python too.",
+   "label": "Candidate-reported",
+   "source": "s5",
+   "source_note": "GfG Dec 2025; GfG Jul 2026"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "How did you improve query performance?",
+   "options": null,
+   "answer": "[Only say what you did.] Typical answer: added indexes on columns used in WHERE and JOIN, selected only the needed columns instead of SELECT *, and used pagination for large lists.",
+   "label": "Candidate-reported",
+   "source": "s5",
+   "source_note": "GfG Dec 2025 (AASE 2026 batch)"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "SQL vs NoSQL (e.g. MongoDB vs MySQL): which and why?",
+   "options": null,
+   "answer": "MySQL for structured data with relations and transactions (my document app). MongoDB for flexible, changing JSON-like data. I chose MySQL because users, documents and results are related tables.",
+   "label": "Candidate-reported",
+   "source": "s16",
+   "source_note": "GfG Jul 2026"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "If we change this feature, which code is affected?",
+   "options": null,
+   "answer": "Explain your layers: in the FastAPI app, routes call service functions, which call the database layer. Changing a field means updating the model/schema, the query, the API response and the frontend that shows it.",
+   "label": "Candidate-reported",
+   "source": "s16",
+   "source_note": "GfG Jul 2026"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "Is it a solo or team project? What was your role?",
+   "options": null,
+   "answer": "Answer with your own facts. Keep it to 60-90 seconds: context, what you did, result, what you learned.",
+   "label": "Candidate-reported",
+   "source": "s16",
+   "source_note": "GfG Jan 2025; Reddit 2024"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "Tell me about your cybersecurity project.",
+   "options": null,
+   "answer": "Answer with your own facts. Keep it to 60-90 seconds: context, what you did, result, what you learned.",
+   "label": "Candidate-reported",
+   "source": "s16",
+   "source_note": "Project deep dive"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "What challenges did you face and how did you solve them?",
+   "options": null,
+   "answer": "Answer with your own facts. Keep it to 60-90 seconds: context, what you did, result, what you learned.",
+   "label": "Candidate-reported",
+   "source": "s16",
+   "source_note": "GfG Oct 2024; Taro Oct 2025"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "What would you add to your project in future?",
+   "options": null,
+   "answer": "Answer with your own facts. Keep it to 60-90 seconds: context, what you did, result, what you learned.",
+   "label": "Candidate-reported",
+   "source": "s16",
+   "source_note": "GfG Jan 2025"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "Which programming language do you prefer and why?",
+   "options": null,
+   "answer": "Python. It is quick to write, has strong libraries for web (FastAPI) and AI, and I have used it in all my projects.",
+   "label": "Candidate-reported",
+   "source": "s16",
+   "source_note": "GfG Oct 2024"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "What are the 4 pillars of OOP? Give an example.",
+   "options": null,
+   "answer": "Encapsulation, abstraction, inheritance, polymorphism. Example: a BankAccount class hides balance (encapsulation) and SavingsAccount inherits from it.",
+   "label": "Candidate-reported",
+   "source": "s16",
+   "source_note": "Taro Oct 2025 (one easy OOP question); GfG Recruitment page"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "Difference between a list and a tuple in Python?",
+   "options": null,
+   "answer": "List is mutable and uses [ ]; tuple is immutable and uses ( ). Tuples are slightly faster and can be dictionary keys.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice (common fresher technical question)"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "What is an API? What is REST?",
+   "options": null,
+   "answer": "An API lets two programs talk. REST uses HTTP methods: GET read, POST create, PUT update, DELETE remove, usually with JSON.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice (fits your FastAPI project)"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "What is normalization?",
+   "options": null,
+   "answer": "Splitting tables to remove repeated data and update problems: 1NF atomic values, 2NF no partial dependency, 3NF no transitive dependency.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice, DBMS"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "What is cloud computing? Name the service models.",
+   "options": null,
+   "answer": "Renting computing over the internet and paying for use. IaaS (VMs), PaaS (platform for your code), SaaS (ready apps like Gmail).",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice; cloud is a reported MCQ topic"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "Who is the CEO of Accenture? Where is the headquarters?",
+   "options": null,
+   "answer": "Check accenture.com the day before. As of 2025 the CEO is Julie Sweet, and Accenture is registered in Dublin, Ireland; check the current Indian head-office city on the site, as reports differ.",
+   "label": "Candidate-reported",
+   "source": "s16",
+   "source_note": "GfG Aug 2025 (ASE)"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "Why Accenture?",
+   "options": null,
+   "answer": "Accenture works on large real projects across many industries and technologies, and it has strong training for freshers. I want to learn on real client work and grow into [cloud / data / security].",
+   "label": "Candidate-reported",
+   "source": "s5",
+   "source_note": "GfG Dec 2025"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "Tell me about your family.",
+   "options": null,
+   "answer": "[Short and positive: who is in your family and one line on their support.]",
+   "label": "Candidate-reported",
+   "source": "s5",
+   "source_note": "GfG Dec 2025"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "What are your hobbies?",
+   "options": null,
+   "answer": "Answer with your own facts. Keep it to 60-90 seconds: context, what you did, result, what you learned.",
+   "label": "Candidate-reported",
+   "source": "s16",
+   "source_note": "GfG Oct 2024, Jan 2025"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "What are your strengths and weaknesses?",
+   "options": null,
+   "answer": "Strength: I learn by building and finish what I start (4 working projects). Weakness: I sometimes spend too long polishing; I now set time limits for each task.",
+   "label": "Candidate-reported",
+   "source": "s8",
+   "source_note": "Reddit r/developersIndia (2024 template list)"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "When did you feel proudest, and when lowest?",
+   "options": null,
+   "answer": "Answer with your own facts. Keep it to 60-90 seconds: context, what you did, result, what you learned.",
+   "label": "Candidate-reported",
+   "source": "s16",
+   "source_note": "GfG Jan 2025"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "Your team member cannot finish their task. What do you do?",
+   "options": null,
+   "answer": "Talk to them first to find the problem, help or split the work, and tell the lead early if the deadline is at risk.",
+   "label": "Candidate-reported",
+   "source": "s16",
+   "source_note": "GfG Jan 2025"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "Two team members have a conflict. How do you handle it?",
+   "options": null,
+   "answer": "Hear both privately, focus on the shared goal, agree on a clear plan, and involve the lead if it continues.",
+   "label": "Candidate-reported",
+   "source": "s16",
+   "source_note": "GfG Jan 2025"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "Your project will not be done by the deadline. What will you do?",
+   "options": null,
+   "answer": "Tell the stakeholder early, finish the most important parts first, and agree on a new date for the rest.",
+   "label": "Candidate-reported",
+   "source": "s16",
+   "source_note": "GfG Jan 2025"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "You are given a project in a subject you dislike. Your plan?",
+   "options": null,
+   "answer": "Learn the basics quickly from docs and tutorials, ask seniors, start with a small working piece, and treat it as a chance to grow.",
+   "label": "Candidate-reported",
+   "source": "s16",
+   "source_note": "GfG Oct 2024"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "Are you willing to relocate and work in shifts?",
+   "options": null,
+   "answer": "Yes. I am open to any location and to the project's working hours.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice (common HR question; you choose 3 locations in the form, GfG Jan 2026)"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "Are you OK with the training period and service agreement?",
+   "options": null,
+   "answer": "Yes, I am happy to go through training; it will help me start well.",
+   "label": "AI practice",
+   "source": null,
+   "source_note": "Practice (common HR question)"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "Where do you see yourself in 5 years?",
+   "options": null,
+   "answer": "Working as a strong developer on cloud or security projects, having learned from real client work, and guiding new joiners.",
+   "label": "Candidate-reported",
+   "source": "s16",
+   "source_note": "GfG Jul 2026 (future goals)"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "What is your favourite subject? Explain it to a beginner in 2 minutes.",
+   "options": null,
+   "answer": "Pick one you can teach, e.g. Computer Networks: \"When you open a website, your laptop asks DNS for the site's address, then talks to that server using TCP, and the page comes back in small packets that are put back together.\" Use one everyday example and no jargon.",
+   "label": "Candidate-reported",
+   "source": "s11",
+   "source_note": "Reddit r/accenture_india, interview 10 Oct 2026"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "Tell me about a real-life problem you solved.",
+   "options": null,
+   "answer": "Answer with your own facts. Keep it to 60-90 seconds: context, what you did, result, what you learned.",
+   "label": "Candidate-reported",
+   "source": "s11",
+   "source_note": "Reddit r/accenture_india, interview 10 Oct 2026"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "Any questions for me?",
+   "options": null,
+   "answer": "\"What technologies do freshers usually work on in your team?\" or \"What does the first-year training look like?\"",
+   "label": "Candidate-reported",
+   "source": "s16",
+   "source_note": "GfG 2024, 2026 (asked at the end)"
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "url": "https://www.accenture.com/in-en/careers",
+   "title": "Careers at Accenture India",
+   "publisher": "Accenture (official)",
+   "date": null,
+   "label": "Official"
+  },
+  {
+   "id": "s2",
+   "url": "https://www.accenture.com/in-en/about/company-index",
+   "title": "About Accenture",
+   "publisher": "Accenture (official)",
+   "date": null,
+   "label": "Official"
+  },
+  {
+   "id": "s3",
+   "url": "https://prepinsta.com/accenture/test-pattern-exam/",
+   "title": "Accenture test pattern",
+   "publisher": "PrepInsta",
+   "date": null,
+   "label": "Third-party"
+  },
+  {
+   "id": "s4",
+   "url": "https://prepinsta.com/accenture/coding/",
+   "title": "Accenture coding questions",
+   "publisher": "PrepInsta",
+   "date": null,
+   "label": "Third-party"
+  },
+  {
+   "id": "s5",
+   "url": "https://www.geeksforgeeks.org/interview-experiences/accenture-interview-experience-for-aase-advanced-associate-software-engineer-2026-batch-on-campus/",
+   "title": "Accenture interview experience for AASE (2026 batch, on campus)",
+   "publisher": "GeeksforGeeks",
+   "date": null,
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s6",
+   "url": "https://www.geeksforgeeks.org/interview-experiences/accenture-interview-experience-for-advanced-application-engineering-analyst-fte/",
+   "title": "Accenture interview experience for Advanced Application Engineering Analyst",
+   "publisher": "GeeksforGeeks",
+   "date": null,
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s7",
+   "url": "https://www.reddit.com/r/Btechtards/comments/1oj3u5p/accenture_online_assessment_oct_2025_batch_2026/",
+   "title": "Accenture Online Assessment (Oct 2025) batch 2026",
+   "publisher": "Reddit r/Btechtards",
+   "date": "2025-10-29",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s8",
+   "url": "https://www.reddit.com/r/PlacementsPrep/comments/1wp85xt/accenture_assessment_gave_me_trauma/",
+   "title": "Accenture assessment gave me trauma (and comments)",
+   "publisher": "Reddit r/PlacementsPrep",
+   "date": "2026-09-24",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s9",
+   "url": "https://www.reddit.com/r/PlacementsPrep/comments/1wgwum2/accenture_coding_assessment/",
+   "title": "Accenture coding assessment",
+   "publisher": "Reddit r/PlacementsPrep",
+   "date": "2026-09-15",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s10",
+   "url": "https://www.reddit.com/r/PlacementsPrep/comments/1wrfoyk/just_clear_accenture_oa_rounds/",
+   "title": "Just cleared Accenture OA rounds",
+   "publisher": "Reddit r/PlacementsPrep",
+   "date": "2026-09-27",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s11",
+   "url": "https://www.reddit.com/r/accenture_india/comments/1x28tlf/accenture_on_campus_interview_experience/",
+   "title": "Accenture on campus interview experience",
+   "publisher": "Reddit r/accenture_india",
+   "date": "2026-10-10",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s12",
+   "url": "https://www.reddit.com/r/accenture_india/comments/1x8g39q/anyone_who_recently_appeared_for_the_accenture/",
+   "title": "Anyone who recently appeared for the Accenture assessment?",
+   "publisher": "Reddit r/accenture_india",
+   "date": "2026-10-17",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s13",
+   "url": "https://www.reddit.com/r/Btechtards/comments/1nqrxka/accenture_oncampus_assessment_2025_huge_pattern/",
+   "title": "Accenture On-Campus Assessment 2025: huge pattern change",
+   "publisher": "Reddit r/Btechtards",
+   "date": "2025-09-26",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s14",
+   "url": "https://www.reddit.com/r/accindia_A_ASEhiring/comments/1x0i6s2/cleared_accenture_assessment_solved_all_3_coding/",
+   "title": "Cleared Accenture assessment, solved all 3 coding questions",
+   "publisher": "Reddit r/accindia_A_ASEhiring",
+   "date": "2026-10-08",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s15",
+   "url": "https://leetcode.com/discuss/post/8381531/accenture-interview-experience-2026-fres-wj1a/",
+   "title": "Accenture interview experience 2026 (fresher)",
+   "publisher": "LeetCode Discuss",
+   "date": null,
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s16",
+   "url": "https://www.geeksforgeeks.org/interview-experiences/accenture-interview-experience-2025-on-campus/",
+   "title": "Accenture interview experience 2025 (on campus)",
+   "publisher": "GeeksforGeeks",
+   "date": null,
+   "label": "Candidate-reported"
+  }
+ ],
+ "research_date": "2026-11-01",
+ "provenance": "Built from the verified Accenture Question Bank 2026 and Accenture Prep Pack (1 Nov 2026). Pattern rows and question tags keep their original source notes."
+}

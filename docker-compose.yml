@@ -1,0 +1,39 @@
+# docker compose up --build   ->  http://localhost:8000
+# Put SECRET_KEY (and optionally GEMINI_API_KEY) in .env first. See .env.example.
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: careerpilot
+      POSTGRES_PASSWORD: careerpilot
+      POSTGRES_DB: careerpilot
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U careerpilot"]
+      interval: 3s
+      retries: 20
+
+  app:
+    build: .
+    ports:
+      - "8000:8000"
+    env_file:
+      - path: .env
+        required: false
+    environment:
+      ENVIRONMENT: ${ENVIRONMENT:-production}
+      # Local http://localhost has no TLS, so allow the cookie without Secure here.
+      COOKIE_SECURE: ${COOKIE_SECURE:-false}
+      SECRET_KEY: ${SECRET_KEY:?Set SECRET_KEY in .env (see .env.example)}
+      DATABASE_URL: postgresql+psycopg://careerpilot:careerpilot@db:5432/careerpilot
+      UPLOAD_DIR: /data/uploads
+    volumes:
+      - uploads:/data/uploads
+    depends_on:
+      db:
+        condition: service_healthy
+
+volumes:
+  pgdata:
+  uploads:

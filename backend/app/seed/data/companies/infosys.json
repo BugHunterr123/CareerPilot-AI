@@ -1,0 +1,517 @@
+{
+ "slug": "infosys",
+ "name": "Infosys",
+ "overview": "Infosys is an Indian IT services and consulting company, founded in 1981 in Pune and headquartered in Bengaluru. It hires freshers mainly as Systems Engineers, with higher-paid Digital Specialist Engineer and Specialist Programmer roles for strong coders. Freshers train at the Infosys campus in Mysore.",
+ "overview_source": "s1",
+ "careers_url": "https://www.infosys.com/careers/graduates.html",
+ "variation_note": "Systems Engineer and SP/DSE have different tests; sections, cutoffs and pay change by drive, college and year.",
+ "roles": [
+  {
+   "title": "Systems Engineer (SE)",
+   "description": "Main fresher role for application development, testing and support after training in Mysore.",
+   "skills": [
+    "Aptitude",
+    "Pseudocode",
+    "English",
+    "SDLC and Agile basics",
+    "Projects"
+   ],
+   "eligibility": [
+    {
+     "text": "60% (6 CGPA) in 10th and 12th, 65% (6.5 CGPA) in graduation",
+     "source": "s4"
+    },
+    {
+     "text": "No backlogs at the time of the selection process; education gap of at most 2 years",
+     "source": "s4"
+    },
+    {
+     "text": "Not eligible if you attended an Infosys interview in the last 9 months",
+     "source": "s4"
+    },
+    {
+     "text": "For on-campus drives the criteria depend on the college",
+     "source": "s4"
+    }
+   ],
+   "compensation": [
+    {
+     "text": "3.6 LPA (candidate on Reddit, Dec 2024 offer)",
+     "source": "s7"
+    }
+   ]
+  },
+  {
+   "title": "Digital Specialist Engineer (DSE)",
+   "description": "Digital and full-stack role. Selected through the same coding test as SP, with a lower score threshold.",
+   "skills": [
+    "DSA",
+    "Python/Java/C++",
+    "OOP",
+    "DBMS and SQL",
+    "Web basics"
+   ],
+   "eligibility": [
+    {
+     "text": "60% in 10th and 12th, 65% in graduation, no active backlog",
+     "source": "s5"
+    }
+   ],
+   "compensation": [
+    {
+     "text": "6.25 LPA (as reported)",
+     "source": "s5"
+    },
+    {
+     "text": "6.25 LPA plus a 75,000 joining bonus (as reported, 2026)",
+     "source": "s3"
+    },
+    {
+     "text": "6.5 LPA (candidate blog on HackWithInfy)",
+     "source": "s9"
+    }
+   ]
+  },
+  {
+   "title": "Specialist Programmer (SP)",
+   "description": "High-level coding role for strong DSA and algorithm skills. Also offered through HackWithInfy pre-placement interviews.",
+   "skills": [
+    "Advanced DSA",
+    "Dynamic programming",
+    "Graphs",
+    "OOP",
+    "OS"
+   ],
+   "eligibility": [
+    {
+     "text": "60% in 10th and 12th, 65% in graduation, no active backlog",
+     "source": "s5"
+    }
+   ],
+   "compensation": [
+    {
+     "text": "9.5 LPA (as reported)",
+     "source": "s5"
+    },
+    {
+     "text": "10 LPA (L1), 16 LPA (L2), 21 LPA (L3) (as reported, 2026)",
+     "source": "s3"
+    }
+   ]
+  }
+ ],
+ "stages": [
+  {
+   "order": 1,
+   "name": "Online test for Systems Engineer",
+   "kind": "aptitude",
+   "what": "Computer-based test with several sections, each with its own cutoff. Covers maths, reasoning, English, pseudocode and puzzles.",
+   "format": [
+    {
+     "text": "7 sections: Mathematical Ability, Logical Reasoning, Verbal, Pseudocode, Puzzle, English Grammar, English Writing",
+     "source": "s2"
+    },
+    {
+     "text": "Maths 10 questions / 35 min; Logical 15 / 25 min; Verbal 20 / 20 min; Pseudocode 5 / 10 min; Puzzle 4 / 10 min",
+     "source": "s2"
+    },
+    {
+     "text": "7 sections with sectional cutoffs, about 2 hours, offline at a centre (candidate, Jan 2025)",
+     "source": "s6"
+    }
+   ],
+   "evaluates": [
+    "Maths speed",
+    "Reasoning",
+    "English grammar and writing",
+    "Reading code"
+   ],
+   "study": [
+    "Permutations and combinations",
+    "Time and work",
+    "Speed and distance",
+    "Syllogism and arrangements",
+    "Pseudocode output tracing",
+    "Grammar and email writing"
+   ],
+   "tips": [
+    "Every section has a cutoff, so do not skip any section",
+    "Practise pseudocode tracing with loops and recursion"
+   ],
+   "before_next": "Take one full timed mock with all sections.",
+   "label": "Third-party"
+  },
+  {
+   "order": 2,
+   "name": "Online coding test for SP and DSE (also HackWithInfy)",
+   "kind": "coding",
+   "what": "Three coding problems of rising difficulty in one long sitting. Your score decides SP, DSE or no offer.",
+   "format": [
+    {
+     "text": "3 coding questions in 3 hours, sectional or topic-wise cutoff; easy, medium (often greedy) and hard (often DP)",
+     "source": "s8"
+    },
+    {
+     "text": "3 questions in 3 hours with cutoffs per question; some drives report a 4th complex question; partial scoring exists",
+     "source": "s3"
+    },
+    {
+     "text": "HackWithInfy can give pre-placement interviews for Specialist Programmer and other roles (official page, seen in search snippet)",
+     "source": "s10"
+    }
+   ],
+   "evaluates": [
+    "DSA",
+    "Optimisation",
+    "Handling test cases"
+   ],
+   "study": [
+    "Arrays and strings",
+    "Greedy",
+    "Dynamic programming (1D and 2D)",
+    "Graphs (BFS/DFS)",
+    "Segment trees (for SP)"
+   ],
+   "tips": [
+    "Solve the easy one fully first",
+    "Submit a working brute force for partial marks before optimising",
+    "You may use different languages for different questions"
+   ],
+   "before_next": "Practise 10 to 15 medium DP and graph problems with a timer.",
+   "label": "Third-party"
+  },
+  {
+   "order": 3,
+   "name": "Technical interview (SP/DSE)",
+   "kind": "technical_interview",
+   "what": "Live DSA problems, OOP, DBMS/SQL and project questions, usually at an Infosys campus.",
+   "format": [
+    {
+     "text": "2 easy to medium DSA problems live, plus OOP, DBMS/SQL, resume and scenario questions",
+     "source": "s3"
+    },
+    {
+     "text": "Resume deep dive, ML and ReactJS terms, 5th highest salary SQL, a bit-manipulation and a DFS grid problem, deadlocks and OOP (SP, 2025 batch)",
+     "source": "s11"
+    }
+   ],
+   "evaluates": [
+    "Live coding",
+    "Core CS",
+    "Project depth"
+   ],
+   "study": [
+    "Number of islands and BFS/DFS",
+    "SQL nth highest salary",
+    "Deadlocks",
+    "OOP pillars",
+    "Your project tech stack"
+   ],
+   "tips": [
+    "Think out loud while coding",
+    "Know every term written on your resume"
+   ],
+   "before_next": "Practise explaining 2 DSA solutions aloud and revise OS deadlocks.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 4,
+   "name": "Personal interview (Systems Engineer)",
+   "kind": "technical_interview",
+   "what": "One 20 to 25 minute interview mixing resume, project, SDLC/Agile and managerial questions.",
+   "format": [
+    {
+     "text": "20 to 25 minutes, in person; final-year project, SDLC, Scrum Master, sprint planning, handling rejection, declining CGPA (Jan 2025)",
+     "source": "s6"
+    }
+   ],
+   "evaluates": [
+    "Project understanding",
+    "SDLC and Agile basics",
+    "Attitude"
+   ],
+   "study": [
+    "SDLC phases",
+    "Scrum roles and ceremonies",
+    "Your final-year project",
+    "Time management answers"
+   ],
+   "tips": [
+    "Be ready to explain any dip in marks honestly",
+    "Keep project explanation under 2 minutes, then go deeper if asked"
+   ],
+   "before_next": "Revise Agile/Scrum terms and prepare your project story.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 5,
+   "name": "HR interview",
+   "kind": "hr_interview",
+   "what": "Communication, cultural fit and willingness to relocate for training.",
+   "format": [
+    {
+     "text": "Assesses communication, fit and willingness to relocate to Mysore/Bangalore for training",
+     "source": "s3"
+    }
+   ],
+   "evaluates": [
+    "Communication",
+    "Flexibility"
+   ],
+   "study": [
+    "Tell me about yourself",
+    "Why Infosys",
+    "Relocation answer"
+   ],
+   "tips": [
+    "Carry original mark sheets, resume copy, photos and government ID"
+   ],
+   "before_next": "Keep documents ready as listed by the eligibility page.",
+   "label": "Third-party"
+  }
+ ],
+ "questions": [
+  {
+   "stage_order": 4,
+   "subject": "Other",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "What is the Software Development Life Cycle (SDLC)?",
+   "options": null,
+   "answer": "The step-by-step process to build software: requirements, design, development, testing, deployment and maintenance.",
+   "label": "Candidate-reported",
+   "source": "s6"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Other",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "Who is a Scrum Master?",
+   "options": null,
+   "answer": "The person who helps a Scrum team follow the process, removes blockers and runs the ceremonies. They do not assign work like a manager.",
+   "label": "Candidate-reported",
+   "source": "s6"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Other",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "What is sprint planning?",
+   "options": null,
+   "answer": "A meeting at the start of a sprint where the team picks backlog items for the sprint and plans how to finish them.",
+   "label": "Candidate-reported",
+   "source": "s6"
+  },
+  {
+   "stage_order": 4,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "How do you handle rejections?",
+   "options": null,
+   "answer": "Accept it calmly, ask for or find the reason, learn from it and try again with a better plan. Give one real example.",
+   "label": "Candidate-reported",
+   "source": "s6"
+  },
+  {
+   "stage_order": 3,
+   "subject": "SQL",
+   "type": "short",
+   "difficulty": "medium",
+   "question": "Write a query to find the 5th highest salary in a table.",
+   "options": null,
+   "answer": "SELECT DISTINCT salary FROM emp ORDER BY salary DESC LIMIT 1 OFFSET 4; (checked in SQLite: salaries 600,500,400,300,300,200,100 give 200).",
+   "label": "Candidate-reported",
+   "source": "s11"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Given a grid of 1s (warships) and 0s (water), count the groups of warships connected up, down, left or right.",
+   "options": null,
+   "answer": "Number of Islands: loop over cells, start a DFS on each unvisited 1 and count how many DFS calls you start. The grid 11000/11000/00100/00011 gives 3 (checked in Python).",
+   "label": "Candidate-reported",
+   "source": "s11"
+  },
+  {
+   "stage_order": 3,
+   "subject": "OS",
+   "type": "short",
+   "difficulty": "medium",
+   "question": "What is a deadlock and how can it be prevented?",
+   "options": null,
+   "answer": "Processes wait on each other forever. It needs mutual exclusion, hold and wait, no preemption and circular wait; prevent it by breaking one, for example ordering resources to stop circular wait.",
+   "label": "Candidate-reported",
+   "source": "s11"
+  },
+  {
+   "stage_order": 1,
+   "subject": "Pseudocode",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "What is printed? s = 0; for i = 1 to 5: if i mod 2 == 0 then s = s + i*i else s = s - i; print s",
+   "options": [
+    "9",
+    "11",
+    "15",
+    "-9"
+   ],
+   "answer": "11. -1 + 4 - 3 + 16 - 5 = 11 (checked in Python).",
+   "label": "AI practice",
+   "source": null
+  },
+  {
+   "stage_order": 1,
+   "subject": "Quant",
+   "type": "mcq",
+   "difficulty": "easy",
+   "question": "A can finish a job in 12 days and B in 18 days. Working together, how many days do they take?",
+   "options": [
+    "6",
+    "7.2",
+    "8",
+    "9"
+   ],
+   "answer": "7.2 days. 1/12 + 1/18 = 5/36, so 36/5 = 7.2.",
+   "label": "AI practice",
+   "source": null
+  },
+  {
+   "stage_order": 1,
+   "subject": "Logical",
+   "type": "mcq",
+   "difficulty": "easy",
+   "question": "Statements: All pens are books. Some books are bags. Conclusion: Some pens are bags. Does it follow?",
+   "options": [
+    "Yes",
+    "No",
+    "Only if all books are bags",
+    "Cannot say from the data, but likely"
+   ],
+   "answer": "No. The books that are bags may not include any pens.",
+   "label": "AI practice",
+   "source": null
+  },
+  {
+   "stage_order": 1,
+   "subject": "Verbal",
+   "type": "mcq",
+   "difficulty": "easy",
+   "question": "Choose the correct sentence.",
+   "options": [
+    "He don't like tea.",
+    "He doesn't likes tea.",
+    "He doesn't like tea.",
+    "He not like tea."
+   ],
+   "answer": "He doesn't like tea. With 'does' the main verb stays in base form.",
+   "label": "AI practice",
+   "source": null
+  },
+  {
+   "stage_order": 2,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Given coin values and an amount, find the minimum number of coins to make the amount, or -1 if not possible.",
+   "options": null,
+   "answer": "DP: dp[0]=0, dp[x] = min(dp[x - c] + 1) over coins c. For coins [1,2,5] and amount 11 the answer is 3 (5+5+1).",
+   "label": "AI practice",
+   "source": null
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "url": "https://en.wikipedia.org/wiki/Infosys",
+   "title": "Infosys - Wikipedia",
+   "publisher": "Wikipedia",
+   "date": null,
+   "label": "Third-party"
+  },
+  {
+   "id": "s2",
+   "url": "https://prepinsta.com/infosys/aptitude-test-pattern/",
+   "title": "Infosys Aptitude Test Pattern 2026 | Online Test",
+   "publisher": "PrepInsta",
+   "date": "2026-01-28",
+   "label": "Third-party"
+  },
+  {
+   "id": "s3",
+   "url": "https://www.mygreatlearning.com/blog/infosys-sp-dse-interview-guide-2026/",
+   "title": "How to Crack Infosys SP & DSE Interview 2026 | Full Guide",
+   "publisher": "Great Learning",
+   "date": "2026-06-12",
+   "label": "Third-party"
+  },
+  {
+   "id": "s4",
+   "url": "https://prepinsta.com/infosys/eligibility-criteria/",
+   "title": "Infosys Eligibility Criteria 2026 For Freshers",
+   "publisher": "PrepInsta",
+   "date": "2026-01-28",
+   "label": "Third-party"
+  },
+  {
+   "id": "s5",
+   "url": "https://prepinsta.com/infosys-sp-and-dse/recruitment-process/",
+   "title": "Infosys DSE and SP Recruitment Process 2026",
+   "publisher": "PrepInsta",
+   "date": "2026-01-28",
+   "label": "Third-party"
+  },
+  {
+   "id": "s6",
+   "url": "https://www.geeksforgeeks.org/interview-experiences/infosys-interview-experience-for-system-engineer-2025/",
+   "title": "Infosys Interview Experience for System Engineer [2025]",
+   "publisher": "GeeksforGeeks",
+   "date": "2025-02-19",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s7",
+   "url": "https://www.reddit.com/r/developersIndia/comments/1hd6m8q/i_got_selected_as_a_systems_engineer_at_infosys/",
+   "title": "I got selected as a systems engineer at Infosys for 3.6lpa",
+   "publisher": "Reddit (r/developersIndia)",
+   "date": null,
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s8",
+   "url": "https://prepinsta.com/infosys-sp-and-dse/syllabus/",
+   "title": "Infosys DSE and SP Syllabus 2026(Updated)",
+   "publisher": "PrepInsta",
+   "date": "2026-01-28",
+   "label": "Third-party"
+  },
+  {
+   "id": "s9",
+   "url": "https://medium.com/@pravallikaseshasai/hackwithinfy-guide-rounds-questions-how-i-landed-the-dse-role-bc4f64db465d",
+   "title": "HackWithInfy Guide: Rounds, Questions & How I Landed the DSE Role",
+   "publisher": "Medium (candidate blog)",
+   "date": null,
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s10",
+   "url": "https://www.infosys.com/careers/hackwithinfy.html",
+   "title": "Infosys Careers - HackWithInfy",
+   "publisher": "Infosys (official)",
+   "date": null,
+   "label": "Official"
+  },
+  {
+   "id": "s11",
+   "url": "https://www.geeksforgeeks.org/interview-experiences/infosys-interview-experience-specialist-programmer-full-time-on-campus-2025-batch/",
+   "title": "Infosys Interview Experience | Specialist Programmer | Full Time | On Campus | 2025 Batch",
+   "publisher": "GeeksforGeeks",
+   "date": "2024-12-17",
+   "label": "Candidate-reported"
+  }
+ ]
+}

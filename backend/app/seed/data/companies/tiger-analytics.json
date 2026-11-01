@@ -1,0 +1,413 @@
+{
+ "slug": "tiger-analytics",
+ "name": "Tiger Analytics",
+ "overview": "Tiger Analytics is a data science and AI consulting company started in 2011 by Mahesh Kumar and Pradeep Gulipalli, with its first team split between Silicon Valley in the US and Chennai in India. It builds analytics and machine learning solutions for business clients across many industries.",
+ "overview_source": "s1",
+ "careers_url": "https://www.tigeranalytics.com/about-us/current-openings/",
+ "variation_note": "Fresher hiring runs both on campus and off campus; the number of interview rounds and the test platform change by college and year, and an official campus process was not found in sources checked.",
+ "roles": [
+  {
+   "title": "Trainee Analyst / Analyst (fresher)",
+   "description": "Entry-level analytics role: understand a client's business problem and solve it with data, SQL, Python and basic machine learning.",
+   "skills": [
+    "Python",
+    "SQL",
+    "Statistics and probability",
+    "Aptitude",
+    "Machine learning basics",
+    "Data structures and algorithms",
+    "Communication"
+   ],
+   "eligibility": [
+    {
+     "text": "For one off-campus Trainee Analyst drive: BE/B.Tech/M.Tech/M.E/Integrated M.Tech in CS, IT or circuit branches (ECE, EEE etc.), 2025 batch, minimum CGPA 6.5, no active backlogs, immediate joiner",
+     "source": "s5"
+    },
+    {
+     "text": "Same drive: only candidates based in Chennai, Bengaluru or Hyderabad, with an in-person selection process at office locations",
+     "source": "s5"
+    },
+    {
+     "text": "Campus eligibility (CGPA cutoff, branches) was not found in sources checked; it is set per college",
+     "source": "s4"
+    }
+   ],
+   "compensation": [
+    {
+     "text": "Rs. 6 to 12 LPA listed for the off-campus Trainee Analyst drive (job-listing site, not an official offer letter)",
+     "source": "s5"
+    },
+    {
+     "text": "Trainee Analyst average 7.6 to 10.1 lakhs per year, as self-reported by employees on AmbitionBox",
+     "source": "s8"
+    }
+   ]
+  }
+ ],
+ "stages": [
+  {
+   "order": 1,
+   "name": "Online assessment: Aptitude + CS fundamentals + Coding (Python/SQL)",
+   "kind": "aptitude",
+   "what": "A proctored online test with aptitude MCQs, a few CS basics questions and 2 to 3 coding problems in Python and SQL. It removes most applicants.",
+   "format": [
+    {
+     "text": "About 90 minutes on the iMocha platform: ~20 maths and aptitude questions (~40 min), ~10 CS fundamentals questions (~10 min), 2 coding questions (one easy, one medium); 220 appeared and ~50 were shortlisted at one campus",
+     "source": "s4"
+    },
+    {
+     "text": "About 20 aptitude and reasoning questions plus three easy-to-medium coding problems in Python and SQL, including matrix clockwise rotation (from search snippet; page blocked the box)",
+     "source": "s6"
+    },
+    {
+     "text": "MCQs, two programming questions in Python and SQL, and OS fundamentals (from search snippet of Glassdoor reviews)",
+     "source": "s7"
+    },
+    {
+     "text": "Older on-campus report: aptitude MCQs plus medium-to-hard technical questions on OOP, time complexity and algorithms; 13 of 260 students cleared it",
+     "source": "s3"
+    }
+   ],
+   "evaluates": [
+    "Quantitative aptitude",
+    "Logical reasoning",
+    "CS basics",
+    "Python and SQL coding"
+   ],
+   "study": [
+    "Percentages, ratios, time and work, probability",
+    "Logical reasoning puzzles",
+    "SQL GROUP BY, JOIN, window functions",
+    "Python lists, dicts, strings, 2D arrays",
+    "Time complexity",
+    "OS basics"
+   ],
+   "tips": [
+    "Do not get stuck on one aptitude question; the section is timed",
+    "For SQL, test your query on a small sample table in your head before submitting",
+    "Solve the easy coding question fully first"
+   ],
+   "before_next": "Be able to write GROUP BY / JOIN / window-function queries without help and solve easy array and matrix problems in Python in about 15 minutes.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 2,
+   "name": "Technical interview 1: Live coding + SQL",
+   "kind": "technical_interview",
+   "what": "A live interview where you code while sharing your screen or on paper, plus a SQL query and some questions on your projects.",
+   "format": [
+    {
+     "text": "Offline interview: a medium coding question (k closest points to the origin, then follow-ups on time and space), a medium SQL question (average salary per department), a conditional probability / Bayes question, and project questions",
+     "source": "s4"
+    },
+    {
+     "text": "Older report: about 1 hour on Google Meet with a jamboard; climbing stairs with recursion and DP, processing a 20GB file with BufferedReader in Java, and checking an 8-queens arrangement",
+     "source": "s3"
+    }
+   ],
+   "evaluates": [
+    "Coding in your chosen language",
+    "SQL",
+    "Explaining complexity",
+    "Thinking out loud"
+   ],
+   "study": [
+    "Recursion and basic dynamic programming",
+    "Heaps and sorting",
+    "SQL aggregates and joins",
+    "Big-O of your solutions",
+    "Conditional probability and Bayes' theorem"
+   ],
+   "tips": [
+    "Say your approach before you code; the candidate said thinking out loud helped",
+    "Be ready for a follow-up that changes the problem slightly"
+   ],
+   "before_next": "Practise 10 easy-medium problems out loud with a timer and revise Bayes' theorem.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 3,
+   "name": "Technical interview 2: Probability, puzzles and analytics case",
+   "kind": "technical_interview",
+   "what": "A round on probability, statistics, puzzles and a small business data case, plus questions on your projects.",
+   "format": [
+    {
+     "text": "Easy coding (multiply two matrices), then probability and statistics questions (three points on a circle in one semicircle, a coefficient question, a puzzle) and the 3-litre / 5-litre jug puzzle",
+     "source": "s4"
+    },
+    {
+     "text": "Older report: aptitude puzzles (jugs, primes, triangles in an octagon, height order), project questions, filling missing values other than mean/median/mode, and a case on predicting next month's sales",
+     "source": "s3"
+    }
+   ],
+   "evaluates": [
+    "Probability and statistics",
+    "Puzzle solving",
+    "Business sense with data",
+    "Data cleaning ideas"
+   ],
+   "study": [
+    "Probability basics and geometric probability",
+    "Permutations and combinations",
+    "Missing-value handling (forward fill, interpolation, model-based, group-wise fill)",
+    "Simple forecasting ideas (trend, seasonality, price effect)",
+    "Classic puzzles (jugs, weighing)"
+   ],
+   "tips": [
+    "Ask for a minute to think; candidates say interviewers allow it",
+    "For case questions, list the factors first, then the method"
+   ],
+   "before_next": "Solve 15 probability questions and explain one of your projects as a business problem, data, method, result.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 4,
+   "name": "HR interview",
+   "kind": "hr_interview",
+   "what": "A short talk about your background, interest in analytics and practical points like relocation.",
+   "format": [
+    {
+     "text": "10 to 15 minutes; tell me about yourself, teamwork and deadlines, relocation, 5-year plan, higher study plans",
+     "source": "s3"
+    },
+    {
+     "text": "Resume rundown, positions of responsibility, why data analysis, location questions",
+     "source": "s4"
+    }
+   ],
+   "evaluates": [
+    "Communication",
+    "Motivation for analytics",
+    "Fit and flexibility"
+   ],
+   "study": [
+    "Why analytics / data",
+    "Your 5-year plan",
+    "Relocation answer",
+    "A teamwork story"
+   ],
+   "tips": [
+    "Have a clear honest answer on higher studies and relocation",
+    "Keep a few questions ready to ask them"
+   ],
+   "before_next": "Keep documents ready; results are often shared the same or next day.",
+   "label": "Candidate-reported"
+  }
+ ],
+ "questions": [
+  {
+   "stage_order": 1,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "easy",
+   "question": "Rotate an N x N matrix 90 degrees clockwise.",
+   "options": null,
+   "answer": "In Python: rotated = [list(row) for row in zip(*matrix[::-1])]. Reverse the rows, then transpose. [[1,2,3],[4,5,6],[7,8,9]] becomes [[7,4,1],[8,5,2],[9,6,3]].",
+   "label": "Candidate-reported",
+   "source": "s6"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Find the K closest points to the origin from a list of (x, y) points. Follow-up: what if the centre is a different point (a, b)?",
+   "options": null,
+   "answer": "Use distance squared x*x + y*y (no sqrt needed) and heapq.nsmallest(k, points, key=...), O(n log k). For centre (a, b) use (x-a)^2 + (y-b)^2. Example: points (1,3),(-2,2),(5,8),(0,1), k=2 gives (0,1),(-2,2).",
+   "label": "Candidate-reported",
+   "source": "s4"
+  },
+  {
+   "stage_order": 2,
+   "subject": "SQL",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "Find the average salary of each department.",
+   "options": null,
+   "answer": "SELECT dept, AVG(salary) FROM employees GROUP BY dept; GROUP BY makes one row per department and AVG works within each group.",
+   "label": "Candidate-reported",
+   "source": "s4"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "easy",
+   "question": "Count the ways to climb n stairs taking 1 or 2 steps at a time, with recursion and with dynamic programming.",
+   "options": null,
+   "answer": "ways(n) = ways(n-1) + ways(n-2), ways(0)=ways(1)=1 (Fibonacci). Plain recursion is O(2^n); a loop keeping two variables is O(n) time, O(1) space. n=1..5 gives 1, 2, 3, 5, 8.",
+   "label": "Candidate-reported",
+   "source": "s3"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Logical",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "You have a 3-litre jug and a 5-litre jug. Measure exactly 4 litres.",
+   "options": null,
+   "answer": "Fill 5, pour into 3 (5 has 2). Empty 3, pour the 2 in. Fill 5 again, top up the 3 (needs 1). The 5-litre jug now has 4.",
+   "label": "Candidate-reported",
+   "source": "s4"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Quant",
+   "type": "short",
+   "difficulty": "medium",
+   "question": "a + b + c = 100 where a, b, c are primes and c = b + 36. Find a, b, c.",
+   "options": null,
+   "answer": "a = 2, b = 31, c = 67. Substituting gives a + 2b = 64, so a must be even, so a = 2 and b = 31, c = 67 (both prime).",
+   "label": "Candidate-reported",
+   "source": "s3"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Quant",
+   "type": "short",
+   "difficulty": "medium",
+   "question": "How many triangles can be formed from the vertices of an octagon that share exactly one side with the octagon?",
+   "options": null,
+   "answer": "32. For each of the 8 sides, the third vertex must not be next to either end: 8 - 4 = 4 choices, so 8 x 4 = 32.",
+   "label": "Candidate-reported",
+   "source": "s3"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Logical",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "V is taller than R but shorter than J. S is the shortest. D is taller than S but shorter than R. Who is the tallest?",
+   "options": null,
+   "answer": "J. Order from tallest: J > V > R > D > S.",
+   "label": "Candidate-reported",
+   "source": "s3"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Quant",
+   "type": "short",
+   "difficulty": "hard",
+   "question": "Three points are chosen at random on a circle. What is the probability that all three lie on the same semicircle?",
+   "options": null,
+   "answer": "3/4. Each of the 3 points can be the start of a semicircle holding the other two with probability 1/4, so 3 x 1/4 = 3/4 (simulation agrees).",
+   "label": "Candidate-reported",
+   "source": "s4"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Other",
+   "type": "short",
+   "difficulty": "medium",
+   "question": "How would you fill missing values in a dataset, other than using mean, median or mode?",
+   "options": null,
+   "answer": "Forward or backward fill for time series, interpolation, group-wise fill (for example by category), a model such as KNN or regression to predict the value, or a flag column plus a constant. Choose by why the data is missing.",
+   "label": "Candidate-reported",
+   "source": "s3"
+  },
+  {
+   "stage_order": 4,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "Why do you want to work in data analysis?",
+   "options": null,
+   "answer": "Give one real reason linked to something you built or studied (a data project, a statistics course) and say what kind of problems you want to solve. Keep it short and true.",
+   "label": "Candidate-reported",
+   "source": "s4"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Quant",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "A bag has one fair coin and one coin with heads on both sides. You pick a coin at random, toss it and get heads. What is the probability you picked the fair coin?",
+   "options": [
+    "1/2",
+    "1/3",
+    "2/3",
+    "1/4"
+   ],
+   "answer": "1/3. Bayes: P(fair | H) = (0.5 x 0.5) / (0.5 x 0.5 + 0.5 x 1) = 0.25 / 0.75 = 1/3.",
+   "label": "AI practice",
+   "source": null
+  },
+  {
+   "stage_order": 1,
+   "subject": "SQL",
+   "type": "short",
+   "difficulty": "medium",
+   "question": "Write a query to find the second highest salary in each department.",
+   "options": null,
+   "answer": "SELECT dept, salary FROM (SELECT dept, salary, DENSE_RANK() OVER (PARTITION BY dept ORDER BY salary DESC) AS rnk FROM employees) t WHERE rnk = 2; DENSE_RANK handles ties.",
+   "label": "AI practice",
+   "source": null
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "url": "https://www.tigeranalytics.com/about-us/our-story/",
+   "title": "Our Story - Journey of Tiger Analytics in AI & Data Innovation",
+   "publisher": "Tiger Analytics (official)",
+   "date": null,
+   "label": "Official"
+  },
+  {
+   "id": "s2",
+   "url": "https://www.tigeranalytics.com/about-us/current-openings/",
+   "title": "Current Job Openings at Tiger Analytics",
+   "publisher": "Tiger Analytics (official)",
+   "date": null,
+   "label": "Official"
+  },
+  {
+   "id": "s3",
+   "url": "https://www.geeksforgeeks.org/interview-experiences/tiger-analytics-interview-experience-for-data-analyst-on-campus/",
+   "title": "Tiger Analytics Interview Experience for Data Analyst (On-Campus)",
+   "publisher": "GeeksforGeeks",
+   "date": "2021-01-18",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s4",
+   "url": "https://www.geeksforgeeks.org/interview-experiences/tiger-analytics-interview-experience/",
+   "title": "Tiger Analytics Interview Experience (on-campus Data Analyst)",
+   "publisher": "GeeksforGeeks",
+   "date": "2023-12-26",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s5",
+   "url": "https://apuzz.com/tiger-analytics-off-campus-drive/",
+   "title": "Tiger Analytics Off Campus Drive 2026 - Trainee Analyst",
+   "publisher": "Apuzz (job listing site)",
+   "date": "2026-04-06",
+   "label": "Third-party"
+  },
+  {
+   "id": "s6",
+   "url": "https://www.interviewquery.com/guides/tiger-analytics-data-analyst",
+   "title": "Tiger Analytics Data Analyst Interview Guide 2026",
+   "publisher": "Interview Query",
+   "date": null,
+   "label": "Third-party"
+  },
+  {
+   "id": "s7",
+   "url": "https://www.glassdoor.com/Interview/Tiger-Analytics-Interview-Questions-E717029.htm",
+   "title": "Tiger Analytics Interview Experience & Questions (2026)",
+   "publisher": "Glassdoor",
+   "date": null,
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s8",
+   "url": "https://www.ambitionbox.com/salaries/tiger-analytics-salaries/trainee-analyst",
+   "title": "Tiger Analytics Trainee Analyst Salaries",
+   "publisher": "AmbitionBox",
+   "date": null,
+   "label": "Third-party"
+  }
+ ]
+}

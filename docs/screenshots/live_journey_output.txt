@@ -1,0 +1,3 @@
+python e2e/journey.py https://careerpilot-ai.sites.tab.bot  (run 2026-11-01 14:41 UTC, desktop 1440x900 + mobile 390x844)
+problems: 0
+JOURNEY OK

@@ -1,0 +1,552 @@
+{
+ "slug": "ibm",
+ "name": "IBM",
+ "overview": "IBM is a technology company that works in areas such as hybrid cloud, AI, mainframe, consulting and quantum. In India it hires freshers mainly as Associate System Engineers and entry-level software engineers through campus and off-campus drives. IBM says its hiring steps vary by location and region.",
+ "overview_source": "s2",
+ "careers_url": "https://www.ibm.com/in-en/careers",
+ "variation_note": "IBM says the process varies by role, location and region; candidate reports from 2021 to 2026 show different mixes of coding, English, games, group discussion and interview rounds, so check what your college drive announces.",
+ "roles": [
+  {
+   "title": "Associate System Engineer (ASE)",
+   "description": "Entry-level role to design, code, test, debug and maintain software applications, mainly for IBM Consulting projects.",
+   "skills": [
+    "Java or Python or C++",
+    "Node.js",
+    "SQL",
+    "SDLC",
+    "OOP",
+    "DSA basics"
+   ],
+   "eligibility": [
+    {
+     "text": "60% or above in 10th and 12th",
+     "source": "s3"
+    },
+    {
+     "text": "65% or 6.5 CGPA in graduation; 2026 passouts; B.E/B.Tech, M.E/M.Tech, BCA/MCA, B.Sc/M.Sc",
+     "source": "s3"
+    },
+    {
+     "text": "No active backlog",
+     "source": "s3"
+    },
+    {
+     "text": "6.0 CGPA minimum, CS/IT/semi-IT streams, no active backlogs (2025 campus drive report)",
+     "source": "s5"
+    },
+    {
+     "text": "Required education: Bachelor's degree (IBM India job posting)",
+     "source": "s11"
+    }
+   ],
+   "compensation": [
+    {
+     "text": "4.5 LPA + 25,000 one-time settling allowance (as reported, 2025 campus drive)",
+     "source": "s5"
+    },
+    {
+     "text": "4.5 LPA (as reported, 2026 batch on-campus)",
+     "source": "s6"
+    }
+   ]
+  },
+  {
+   "title": "Software Engineer (entry level)",
+   "description": "Entry-level developer role listed by IBM India for freshers; same online assessment style as ASE according to third-party pages.",
+   "skills": [
+    "Programming in one language",
+    "DSA",
+    "SQL",
+    "OOP"
+   ],
+   "eligibility": [
+    {
+     "text": "Same eligibility table as ASE on PrepInsta (60% in 10th/12th, 65% or 6.5 CGPA in graduation, no active backlog)",
+     "source": "s3"
+    }
+   ],
+   "compensation": []
+  }
+ ],
+ "stages": [
+  {
+   "order": 1,
+   "name": "Application and screening",
+   "kind": "other",
+   "what": "You apply online (or through your college drive) and IBMers review your application, skills and experience.",
+   "format": [
+    {
+     "text": "Application, screening, online assessment, interview, decision",
+     "source": "s1"
+    }
+   ],
+   "evaluates": [
+    "Eligibility",
+    "Resume and skills"
+   ],
+   "study": [
+    "Resume with clear projects and skills"
+   ],
+   "tips": [
+    "Apply to one job ID at a time; track status in the IBM candidate portal",
+    "Keep government ID with exact name and date of birth ready"
+   ],
+   "before_next": "Practise easy and medium coding problems on HackerRank-style editors.",
+   "label": "Official"
+  },
+  {
+   "order": 2,
+   "name": "Online coding assessment",
+   "kind": "coding",
+   "what": "Coding problems (and sometimes MCQs) on HackerRank. Some drives add a second, harder coding round later.",
+   "format": [
+    {
+     "text": "Set of multiple-choice questions or coding challenges depending on the role",
+     "source": "s1"
+    },
+    {
+     "text": "2 coding questions / 55 min (with a 10-question English test, 65 min total)",
+     "source": "s3"
+    },
+    {
+     "text": "2 coding questions, approx. 60 min, plus 5 to 6 MCQs on DBMS, OS, OOP, programming",
+     "source": "s4"
+    },
+    {
+     "text": "HackerRank, MCQ + coding (DSA, aptitude, OOP), about 60 to 90 min; later an in-person round with 1 array/string problem in about 30 min (2025 campus drive)",
+     "source": "s5"
+    },
+    {
+     "text": "HackerRank, 2 coding questions (easy + medium); a later Advanced Coding round on HackerRank had much tougher questions (2026 batch on-campus)",
+     "source": "s6"
+    },
+    {
+     "text": "IBM CodeKnack: 1 coding question in 30 min on HackerRank with 7 test cases (2023)",
+     "source": "s7"
+    },
+    {
+     "text": "1 coding question in 30 min; about 82 of 330 applicants shortlisted (older on-campus report)",
+     "source": "s8"
+    }
+   ],
+   "evaluates": [
+    "Problem solving",
+    "Strings and arrays",
+    "Handling hidden edge cases",
+    "Code correctness"
+   ],
+   "study": [
+    "Strings and arrays",
+    "Number conversions (hex, binary, decimal)",
+    "GCD/LCM",
+    "Hashing",
+    "Sorting and searching"
+   ],
+   "tips": [
+    "Read the input format carefully and handle invalid inputs even if not stated",
+    "Run your code on edge cases before submitting",
+    "Practise in the HackerRank editor so the setup feels normal"
+   ],
+   "before_next": "Be able to solve 2 easy-medium problems in under 55 minutes.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 3,
+   "name": "English language and communication assessment",
+   "kind": "communication",
+   "what": "A timed English test (grammar, spelling, vocabulary). Some drives use a spoken test or typed answers to behavioural questions, and IBM may also use a video assessment.",
+   "format": [
+    {
+     "text": "English language assessment: text-based multiple-choice questions; a video assessment (webcam answers to interview questions) may also be used",
+     "source": "s1"
+    },
+    {
+     "text": "10 questions / 10 min: voice, fill in the blanks, error spotting, spelling, synonyms, antonyms",
+     "source": "s4"
+    },
+    {
+     "text": "15 min MCQ with negative marking: spelling, grammar errors, word meaning",
+     "source": "s8"
+    },
+    {
+     "text": "10 min, 3 sections, negative marking; use the '?' option when unsure",
+     "source": "s9"
+    },
+    {
+     "text": "AI-proctored spoken English test, then in-person typed answers to 5 behavioural questions with a 5-minute timer each (2025 campus drive)",
+     "source": "s5"
+    }
+   ],
+   "evaluates": [
+    "Grammar",
+    "Vocabulary and spelling",
+    "Spoken clarity",
+    "Written answers"
+   ],
+   "study": [
+    "Active/passive voice",
+    "Error spotting",
+    "Spelling",
+    "Synonyms and antonyms",
+    "Prepositions, tenses, articles",
+    "STAR answers for behavioural questions"
+   ],
+   "tips": [
+    "There can be negative marking, so skip when unsure",
+    "For typed answers use short STAR stories: situation, task, action, result"
+   ],
+   "before_next": "Prepare 4 or 5 short STAR stories from your projects and teamwork.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 4,
+   "name": "Cognitive ability games (older pattern)",
+   "kind": "game_based",
+   "what": "Short puzzle games on numbers, logic and spelling. Older reports had this round; PrepInsta's 2026 page says it is not asked anymore.",
+   "format": [
+    {
+     "text": "5 games in 30 min (older on-campus report)",
+     "source": "s8"
+    },
+    {
+     "text": "6 logical and mathematical games in 30 min (older report)",
+     "source": "s9"
+    },
+    {
+     "text": "Six mini-games (e.g. Shortcuts, Gridlock, Resemble, Tally Up, Numbubbles, Proof It); marked NOT ASKED ANYMORE for the 2026 batch",
+     "source": "s4"
+    }
+   ],
+   "evaluates": [
+    "Numerical reasoning",
+    "Problem solving",
+    "Attention to detail"
+   ],
+   "study": [
+    "Quick mental maths",
+    "Spotting spelling and punctuation errors"
+   ],
+   "tips": [
+    "Do not spend long preparing unless your drive mentions games"
+   ],
+   "before_next": "Check your drive's email to see if games are included.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 5,
+   "name": "Group discussion",
+   "kind": "group_discussion",
+   "what": "Some campus drives hold a group discussion on a general topic before the interview.",
+   "format": [
+    {
+     "text": "Round 2: group discussion on abstract topics, social issues or current affairs",
+     "source": "s3"
+    },
+    {
+     "text": "Group discussion after the English test; topic was 'Cinema vs OTT Platforms' (2023)",
+     "source": "s7"
+    }
+   ],
+   "evaluates": [
+    "Communication",
+    "Confidence",
+    "Teamwork",
+    "Clarity of thought"
+   ],
+   "study": [
+    "Current affairs",
+    "Tech and society topics",
+    "Structuring a point in 30 seconds"
+   ],
+   "tips": [
+    "Speak early with one clear point",
+    "Let others finish and build on their points",
+    "Summarise at the end if you get the chance"
+   ],
+   "before_next": "Revise your projects and core CS for the interview.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 6,
+   "name": "Technical + HR interview",
+   "kind": "technical_interview",
+   "what": "One interview that covers your projects, programming basics, DBMS/SQL and HR questions.",
+   "format": [
+    {
+     "text": "Interview by phone, video or in person, or an assessment centre (group exercise + interview)",
+     "source": "s1"
+    },
+    {
+     "text": "Final interview about 30 min (older report)",
+     "source": "s9"
+    },
+    {
+     "text": "In-person Technical + HR interview; final 66 selected (2025 campus drive)",
+     "source": "s5"
+    }
+   ],
+   "evaluates": [
+    "Projects",
+    "Language basics (Java/Python)",
+    "SQL and DBMS",
+    "OOP and DSA theory",
+    "Communication"
+   ],
+   "study": [
+    "Java vs Python",
+    "Mutable vs immutable types",
+    "List, tuple, dictionary",
+    "SQL joins",
+    "Foreign keys",
+    "Linked list vs array",
+    "Your projects end to end"
+   ],
+   "tips": [
+    "Know what you wrote on your resume",
+    "Be ready for 'What do you know about IBM?' and relocation questions"
+   ],
+   "before_next": "Keep ID and marksheets ready; IBM may ask for background verification documents.",
+   "label": "Candidate-reported"
+  }
+ ],
+ "questions": [
+  {
+   "stage_order": 2,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "easy",
+   "question": "Input is two numbers: one hexadecimal and one decimal. Print EQUAL if they have the same value, else NOT EQUAL. Handle invalid numbers.",
+   "options": null,
+   "answer": "Convert with int(h,16) and int(d) and compare; catch ValueError for invalid input. '1A' and '26' gives EQUAL, 'FF' and '254' gives NOT EQUAL.",
+   "label": "Candidate-reported",
+   "source": "s4"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "easy",
+   "question": "Find all numbers in a given string and print them; if a number ends with three zeros, replace them with one zero (1000 becomes 10).",
+   "options": null,
+   "answer": "Use re.findall(r'\\d+', s); for each number ending in '000', drop those three zeros and add one '0'. 'abc1000def25' gives 10 and 25.",
+   "label": "Candidate-reported",
+   "source": "s8"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "easy",
+   "question": "Valid password checker: check whether a password is valid (for example at least 8 characters with an uppercase letter, a lowercase letter, a digit and a special character).",
+   "options": null,
+   "answer": "Check length, then use any() with isupper, islower, isdigit and a non-alphanumeric test. 'Nmit@2024' is valid, 'password1' is not.",
+   "label": "Candidate-reported",
+   "source": "s9"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "easy",
+   "question": "Write a program to find the LCM of two numbers.",
+   "options": null,
+   "answer": "LCM(a,b) = a*b // GCD(a,b). LCM(12,18) = 36.",
+   "label": "Candidate-reported",
+   "source": "s10"
+  },
+  {
+   "stage_order": 6,
+   "subject": "Coding",
+   "type": "short",
+   "difficulty": "medium",
+   "question": "Write the Fibonacci series recursively and iteratively, and give the time complexity of each.",
+   "options": null,
+   "answer": "Plain recursion is O(2^n) because it repeats work; the loop version is O(n) time and O(1) space.",
+   "label": "Candidate-reported",
+   "source": "s10"
+  },
+  {
+   "stage_order": 6,
+   "subject": "DBMS",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "What is a foreign key?",
+   "options": null,
+   "answer": "A column in one table that refers to the primary key of another table, so related rows stay consistent.",
+   "label": "Candidate-reported",
+   "source": "s8"
+  },
+  {
+   "stage_order": 6,
+   "subject": "Other",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "Linked list vs array: what is the difference?",
+   "options": null,
+   "answer": "Arrays are contiguous with O(1) index access but costly inserts; linked lists use nodes with pointers, O(1) insert at a known node but O(n) access.",
+   "label": "Candidate-reported",
+   "source": "s8"
+  },
+  {
+   "stage_order": 6,
+   "subject": "Logical",
+   "type": "short",
+   "difficulty": "medium",
+   "question": "Convert the word 'warm' to 'cold' by changing one letter at a time, with every step a real word, in 4 changes.",
+   "options": null,
+   "answer": "warm, ward, card, cord, cold. Each step changes one letter and is a real word.",
+   "label": "Candidate-reported",
+   "source": "s8"
+  },
+  {
+   "stage_order": 6,
+   "subject": "Other",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "Is String mutable? Explain mutable vs immutable types.",
+   "options": null,
+   "answer": "Mutable objects can change in place (Python list, dict); immutable ones cannot (Python str, tuple; Java String). 'Changing' a string creates a new object.",
+   "label": "Candidate-reported",
+   "source": "s5"
+  },
+  {
+   "stage_order": 6,
+   "subject": "SQL",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "What are the types of SQL joins and how do they differ?",
+   "options": null,
+   "answer": "INNER (matching rows only), LEFT (all left rows + matches), RIGHT (all right rows + matches), FULL OUTER (all rows from both), CROSS (every pair), SELF (table joined with itself).",
+   "label": "Candidate-reported",
+   "source": "s5"
+  },
+  {
+   "stage_order": 6,
+   "subject": "Other",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "What are List, Tuple and Dictionary in Python?",
+   "options": null,
+   "answer": "List: ordered and mutable. Tuple: ordered and immutable. Dictionary: key-value pairs with fast lookup by key.",
+   "label": "Candidate-reported",
+   "source": "s5"
+  },
+  {
+   "stage_order": 3,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "medium",
+   "question": "Tell me about a time when a team member was not cooperating on a project. What did you do?",
+   "options": null,
+   "answer": "Use STAR: the situation, your task, what you did (talked privately, split work clearly, set check-ins), and the result.",
+   "label": "Candidate-reported",
+   "source": "s5"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Verbal",
+   "type": "mcq",
+   "difficulty": "easy",
+   "question": "Choose the correct passive form: 'The team completed the project.'",
+   "options": [
+    "The project completed by the team.",
+    "The project was completed by the team.",
+    "The project is completed by the team.",
+    "The project had completed by the team."
+   ],
+   "answer": "'The project was completed by the team.' Simple past active becomes was/were + past participle.",
+   "label": "AI practice",
+   "source": null
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "url": "https://www.ibm.com/careers/application-process",
+   "title": "Application Steps & Tips | IBM Careers",
+   "publisher": "IBM (official)",
+   "date": "2025-04-14",
+   "label": "Official"
+  },
+  {
+   "id": "s2",
+   "url": "https://www.ibm.com/in-en/careers",
+   "title": "Define your career with IBM",
+   "publisher": "IBM (official)",
+   "date": null,
+   "label": "Official"
+  },
+  {
+   "id": "s3",
+   "url": "https://prepinsta.com/ibm/recruitment-process/",
+   "title": "IBM Recruitment Process for Freshers 2026",
+   "publisher": "PrepInsta",
+   "date": "2026-02-17",
+   "label": "Third-party"
+  },
+  {
+   "id": "s4",
+   "url": "https://prepinsta.com/ibm-syllabus/",
+   "title": "(Updated) IBM Syllabus for Batch 2026",
+   "publisher": "PrepInsta",
+   "date": "2026-04-20",
+   "label": "Third-party"
+  },
+  {
+   "id": "s5",
+   "url": "https://interviewexperiences.in/experience/ibm/ibm-ase-interview-experience-on-campus-4-rounds-not-selected",
+   "title": "IBM ASE Interview Experience | On-Campus | 4 Rounds | Not Selected",
+   "publisher": "interviewexperiences.in (mirror of a LeetCode Discuss post)",
+   "date": "2025-06-11",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s6",
+   "url": "https://www.reddit.com/r/PlacementsPrep/comments/1qnk2su/ibm_ase45_lpa_interview_experience_on_campus_2026/",
+   "title": "IBM ASE (4.5 LPA) Interview Experience ON CAMPUS (2026) BATCH (read from search snippet)",
+   "publisher": "Reddit r/PlacementsPrep",
+   "date": null,
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s7",
+   "url": "https://www.geeksforgeeks.org/interview-experiences/ibm-interview-experience-for-ase-on-campus-2023/",
+   "title": "IBM Interview Experience for ASE (On-Campus) 2023",
+   "publisher": "GeeksforGeeks",
+   "date": "2023-09-21",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s8",
+   "url": "https://www.geeksforgeeks.org/interview-experiences/ibm-interview-experience-for-associate-system-engineer-on-campus/",
+   "title": "IBM Interview Experience for Associate System Engineer (On-Campus)",
+   "publisher": "GeeksforGeeks",
+   "date": "2025-07-23",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s9",
+   "url": "https://www.geeksforgeeks.org/interview-experiences/ibm-interview-experience-for-associate-systems-engineer/",
+   "title": "IBM Interview Experience for Associate Systems Engineer",
+   "publisher": "GeeksforGeeks",
+   "date": "2025-07-23",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s10",
+   "url": "https://www.geeksforgeeks.org/interview-experiences/ibm-interview-experience-on-campus/",
+   "title": "IBM Interview Experience (On-Campus)",
+   "publisher": "GeeksforGeeks",
+   "date": "2025-07-11",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s11",
+   "url": "https://careers.ibm.com/en_US/careers/JobDetail?jobId=133547",
+   "title": "Associate System Engineer - 133547 (read from search snippet)",
+   "publisher": "IBM (official)",
+   "date": null,
+   "label": "Official"
+  }
+ ]
+}

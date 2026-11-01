@@ -1,0 +1,33 @@
+@import "@fontsource-variable/inter";
+@import "@fontsource-variable/source-serif-4";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { -webkit-text-size-adjust: 100%; }
+  body { @apply bg-paper text-ink font-sans antialiased; font-feature-settings: "cv11", "ss01"; }
+  h1, h2, h3 { @apply text-ink; }
+  :focus-visible { outline: 2px solid #1F5C46; outline-offset: 2px; border-radius: 4px; }
+  ::selection { background: #CFE2D7; }
+}
+
+@layer components {
+  .h-display { @apply font-serif font-semibold tracking-tight text-ink; }
+  .card { @apply bg-surface border border-line rounded-lg shadow-card; }
+  .label-sm { @apply text-xs font-medium uppercase tracking-wider text-ink-muted; }
+  .link { @apply text-accent underline decoration-accent-line underline-offset-2 hover:decoration-accent; }
+  .input { @apply w-full rounded-md border border-line bg-white px-3 py-2 text-sm text-ink placeholder:text-ink-faint
+    focus:border-accent focus:outline-none focus:ring-2 focus:ring-accent/15 disabled:bg-paper; }
+  .prose-plain p { @apply mb-3 leading-relaxed; }
+}
+
+/* Skeleton shimmer for loading states */
+@keyframes shimmer { 0% { background-position: -400px 0; } 100% { background-position: 400px 0; } }
+.skeleton {
+  background: linear-gradient(90deg, #EEECE6 0px, #F6F5F1 160px, #EEECE6 320px);
+  background-size: 800px 100%;
+  animation: shimmer 1.4s infinite linear;
+}
+@media (prefers-reduced-motion: reduce) { .skeleton { animation: none; } * { scroll-behavior: auto !important; } }

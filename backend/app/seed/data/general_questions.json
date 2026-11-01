@@ -1,0 +1,580 @@
+[
+ {
+  "subject": "Quant",
+  "type": "mcq",
+  "difficulty": "easy",
+  "question": "A train 150 m long passes a pole in 15 seconds. What is its speed in km/h?",
+  "options": [
+   "36",
+   "40",
+   "45",
+   "54"
+  ],
+  "answer": "A) 36",
+  "explanation": "150/15 = 10 m/s; 10 x 18/5 = 36 km/h.",
+  "stage_kind": "aptitude",
+  "code": ""
+ },
+ {
+  "subject": "Quant",
+  "type": "mcq",
+  "difficulty": "easy",
+  "question": "A shirt marked Rs 800 is sold at a 15% discount. What is the selling price?",
+  "options": [
+   "Rs 640",
+   "Rs 680",
+   "Rs 700",
+   "Rs 720"
+  ],
+  "answer": "B) Rs 680",
+  "explanation": "15% of 800 = 120; 800 - 120 = 680.",
+  "stage_kind": "aptitude",
+  "code": ""
+ },
+ {
+  "subject": "Quant",
+  "type": "mcq",
+  "difficulty": "medium",
+  "question": "A can finish a job in 12 days and B in 18 days. Working together, how many days do they take?",
+  "options": [
+   "6",
+   "7.2",
+   "7.5",
+   "8"
+  ],
+  "answer": "B) 7.2",
+  "explanation": "1/12 + 1/18 = 5/36 per day, so 36/5 = 7.2 days.",
+  "stage_kind": "aptitude",
+  "code": ""
+ },
+ {
+  "subject": "Quant",
+  "type": "mcq",
+  "difficulty": "medium",
+  "question": "Simple interest on Rs 5000 at 8% per year for 3 years is:",
+  "options": [
+   "Rs 1000",
+   "Rs 1200",
+   "Rs 1250",
+   "Rs 1300"
+  ],
+  "answer": "B) Rs 1200",
+  "explanation": "SI = 5000 x 8 x 3 / 100 = 1200.",
+  "stage_kind": "aptitude",
+  "code": ""
+ },
+ {
+  "subject": "Quant",
+  "type": "mcq",
+  "difficulty": "medium",
+  "question": "The ratio of boys to girls is 3:2. If there are 40 students, how many girls are there?",
+  "options": [
+   "12",
+   "16",
+   "20",
+   "24"
+  ],
+  "answer": "B) 16",
+  "explanation": "Girls = 40 x 2/5 = 16.",
+  "stage_kind": "aptitude",
+  "code": ""
+ },
+ {
+  "subject": "Logical",
+  "type": "mcq",
+  "difficulty": "easy",
+  "question": "Find the next number: 2, 6, 12, 20, 30, ?",
+  "options": [
+   "40",
+   "42",
+   "44",
+   "48"
+  ],
+  "answer": "B) 42",
+  "explanation": "Differences 4, 6, 8, 10, 12, so 30 + 12 = 42.",
+  "stage_kind": "aptitude",
+  "code": ""
+ },
+ {
+  "subject": "Logical",
+  "type": "mcq",
+  "difficulty": "medium",
+  "question": "If CODE is written as DPEF, how is GAME written?",
+  "options": [
+   "HBNF",
+   "HBMF",
+   "GBNF",
+   "HCNF"
+  ],
+  "answer": "A) HBNF",
+  "explanation": "Each letter moves one step forward: G-H, A-B, M-N, E-F.",
+  "stage_kind": "aptitude",
+  "code": ""
+ },
+ {
+  "subject": "Logical",
+  "type": "mcq",
+  "difficulty": "medium",
+  "question": "All laptops are devices. Some devices are phones. Which conclusion definitely follows?",
+  "options": [
+   "All phones are laptops",
+   "Some laptops are phones",
+   "All laptops are devices",
+   "No phone is a laptop"
+  ],
+  "answer": "C) All laptops are devices",
+  "explanation": "Only the given statement is certain; nothing links laptops to phones.",
+  "stage_kind": "aptitude",
+  "code": ""
+ },
+ {
+  "subject": "Verbal",
+  "type": "mcq",
+  "difficulty": "easy",
+  "question": "Choose the correctly spelt word.",
+  "options": [
+   "Recieve",
+   "Receive",
+   "Receeve",
+   "Riceive"
+  ],
+  "answer": "B) Receive",
+  "explanation": "'i before e except after c'.",
+  "stage_kind": "aptitude",
+  "code": ""
+ },
+ {
+  "subject": "Verbal",
+  "type": "mcq",
+  "difficulty": "easy",
+  "question": "Pick the correct sentence.",
+  "options": [
+   "Each of the students have a laptop.",
+   "Each of the students has a laptop.",
+   "Each of the student has laptops.",
+   "Each students have a laptop."
+  ],
+  "answer": "B) Each of the students has a laptop.",
+  "explanation": "'Each' is singular, so it takes 'has'.",
+  "stage_kind": "aptitude",
+  "code": ""
+ },
+ {
+  "subject": "OOP",
+  "type": "mcq",
+  "difficulty": "easy",
+  "question": "Which OOP concept hides internal data and exposes only methods to use it?",
+  "options": [
+   "Inheritance",
+   "Encapsulation",
+   "Polymorphism",
+   "Overloading"
+  ],
+  "answer": "B) Encapsulation",
+  "explanation": "Encapsulation bundles data with the methods that control access to it.",
+  "stage_kind": "technical_mcq",
+  "code": ""
+ },
+ {
+  "subject": "OOP",
+  "type": "mcq",
+  "difficulty": "medium",
+  "question": "A subclass provides its own version of a method defined in the parent class. This is:",
+  "options": [
+   "Method overloading",
+   "Method overriding",
+   "Abstraction",
+   "Composition"
+  ],
+  "answer": "B) Method overriding",
+  "explanation": "Overriding replaces the parent's implementation at runtime.",
+  "stage_kind": "technical_mcq",
+  "code": ""
+ },
+ {
+  "subject": "DBMS",
+  "type": "mcq",
+  "difficulty": "easy",
+  "question": "Which key uniquely identifies each row in a table and cannot be NULL?",
+  "options": [
+   "Foreign key",
+   "Primary key",
+   "Candidate key only",
+   "Composite attribute"
+  ],
+  "answer": "B) Primary key",
+  "explanation": "A primary key is unique and NOT NULL.",
+  "stage_kind": "technical_mcq",
+  "code": ""
+ },
+ {
+  "subject": "DBMS",
+  "type": "mcq",
+  "difficulty": "medium",
+  "question": "A table is in 2NF if it is in 1NF and:",
+  "options": [
+   "has no transitive dependency",
+   "has no partial dependency on a composite key",
+   "has no multivalued attribute",
+   "has only one candidate key"
+  ],
+  "answer": "B) has no partial dependency on a composite key",
+  "explanation": "3NF removes transitive dependencies; 2NF removes partial ones.",
+  "stage_kind": "technical_mcq",
+  "code": ""
+ },
+ {
+  "subject": "SQL",
+  "type": "mcq",
+  "difficulty": "easy",
+  "question": "Which clause filters groups after GROUP BY?",
+  "options": [
+   "WHERE",
+   "HAVING",
+   "ORDER BY",
+   "LIMIT"
+  ],
+  "answer": "B) HAVING",
+  "explanation": "WHERE filters rows before grouping; HAVING filters groups.",
+  "stage_kind": "technical_mcq",
+  "code": ""
+ },
+ {
+  "subject": "SQL",
+  "type": "mcq",
+  "difficulty": "medium",
+  "question": "SELECT COUNT(*) FROM t;  t has 5 rows, 2 of them with NULL in column c. What is returned?",
+  "options": [
+   "3",
+   "5",
+   "2",
+   "NULL"
+  ],
+  "answer": "B) 5",
+  "explanation": "COUNT(*) counts rows; COUNT(c) would return 3.",
+  "stage_kind": "technical_mcq",
+  "code": ""
+ },
+ {
+  "subject": "OS",
+  "type": "mcq",
+  "difficulty": "easy",
+  "question": "Which scheduling algorithm can cause starvation of long jobs?",
+  "options": [
+   "Round Robin",
+   "FCFS",
+   "Shortest Job First",
+   "None of these"
+  ],
+  "answer": "C) Shortest Job First",
+  "explanation": "Short jobs keep arriving and long jobs may wait forever.",
+  "stage_kind": "technical_mcq",
+  "code": ""
+ },
+ {
+  "subject": "OS",
+  "type": "mcq",
+  "difficulty": "medium",
+  "question": "Thrashing happens when:",
+  "options": [
+   "CPU is idle",
+   "the system spends most time swapping pages",
+   "a deadlock occurs",
+   "cache hit rate is 100%"
+  ],
+  "answer": "B) the system spends most time swapping pages",
+  "explanation": "Too little memory per process causes constant page faults.",
+  "stage_kind": "technical_mcq",
+  "code": ""
+ },
+ {
+  "subject": "Networks",
+  "type": "mcq",
+  "difficulty": "easy",
+  "question": "Which layer of the OSI model does a router mainly work at?",
+  "options": [
+   "Data link",
+   "Network",
+   "Transport",
+   "Session"
+  ],
+  "answer": "B) Network",
+  "explanation": "Routers forward packets using IP addresses (layer 3).",
+  "stage_kind": "technical_mcq",
+  "code": ""
+ },
+ {
+  "subject": "Networks",
+  "type": "mcq",
+  "difficulty": "easy",
+  "question": "Which protocol translates domain names into IP addresses?",
+  "options": [
+   "DHCP",
+   "DNS",
+   "FTP",
+   "ARP"
+  ],
+  "answer": "B) DNS",
+  "explanation": "DNS maps names like example.com to IP addresses.",
+  "stage_kind": "technical_mcq",
+  "code": ""
+ },
+ {
+  "subject": "Python",
+  "type": "mcq",
+  "difficulty": "easy",
+  "question": "What does len({1, 2, 2, 3}) return in Python?",
+  "options": [
+   "4",
+   "3",
+   "2",
+   "Error"
+  ],
+  "answer": "B) 3",
+  "explanation": "A set keeps unique values only.",
+  "stage_kind": "technical_mcq",
+  "code": ""
+ },
+ {
+  "subject": "Python",
+  "type": "mcq",
+  "difficulty": "medium",
+  "question": "What is printed?  x = [1, 2, 3]; y = x; y.append(4); print(len(x))",
+  "options": [
+   "3",
+   "4",
+   "Error",
+   "None"
+  ],
+  "answer": "B) 4",
+  "explanation": "y and x refer to the same list object.",
+  "stage_kind": "technical_mcq",
+  "code": ""
+ },
+ {
+  "subject": "ML",
+  "type": "mcq",
+  "difficulty": "easy",
+  "question": "Which of these is a supervised learning task?",
+  "options": [
+   "K-means clustering",
+   "Predicting house prices from labelled data",
+   "PCA",
+   "Association rules"
+  ],
+  "answer": "B) Predicting house prices from labelled data",
+  "explanation": "Supervised learning learns from labelled examples.",
+  "stage_kind": "technical_mcq",
+  "code": ""
+ },
+ {
+  "subject": "ML",
+  "type": "mcq",
+  "difficulty": "medium",
+  "question": "Your model has 99% training accuracy and 70% test accuracy. The most likely problem is:",
+  "options": [
+   "Underfitting",
+   "Overfitting",
+   "Data leakage is impossible",
+   "Too little training accuracy"
+  ],
+  "answer": "B) Overfitting",
+  "explanation": "A big train-test gap means the model memorised the training data.",
+  "stage_kind": "technical_mcq",
+  "code": ""
+ },
+ {
+  "subject": "Coding",
+  "type": "coding",
+  "difficulty": "easy",
+  "question": "Write a function that returns True if a string is a palindrome (ignore case).",
+  "options": null,
+  "answer": "def is_pal(s):\n    s = s.lower()\n    return s == s[::-1]",
+  "explanation": "",
+  "stage_kind": "coding",
+  "hints": [
+   "Compare the string with its reverse",
+   "Lower-case first"
+  ],
+  "concepts": [
+   "Strings",
+   "Two pointers"
+  ],
+  "sample_io": "Input: 'Madam'  Output: True",
+  "solution": "def is_pal(s):\n    s = s.lower()\n    return s == s[::-1]"
+ },
+ {
+  "subject": "Coding",
+  "type": "coding",
+  "difficulty": "easy",
+  "question": "Return the second largest distinct number in a list, or -1 if it does not exist.",
+  "options": null,
+  "answer": "Track the largest and second largest in one pass.",
+  "explanation": "",
+  "stage_kind": "coding",
+  "hints": [
+   "Use a set to drop duplicates",
+   "Or track two variables in one pass"
+  ],
+  "concepts": [
+   "Arrays"
+  ],
+  "sample_io": "Input: [4, 9, 9, 2]  Output: 4",
+  "solution": "def second_largest(a):\n    u = sorted(set(a))\n    return u[-2] if len(u) >= 2 else -1"
+ },
+ {
+  "subject": "Coding",
+  "type": "coding",
+  "difficulty": "medium",
+  "question": "Given a list of integers and a target, return the indices of two numbers that add up to the target.",
+  "options": null,
+  "answer": "Use a dictionary of value -> index; for each x check if target - x was seen.",
+  "explanation": "",
+  "stage_kind": "coding",
+  "hints": [
+   "What number do you need to pair with x?",
+   "A dict lookup is O(1)"
+  ],
+  "concepts": [
+   "Hashing",
+   "Arrays"
+  ],
+  "sample_io": "Input: [2, 7, 11, 15], target 9  Output: [0, 1]",
+  "solution": "def two_sum(a, target):\n    seen = {}\n    for i, x in enumerate(a):\n        if target - x in seen:\n            return [seen[target - x], i]\n        seen[x] = i\n    return []"
+ },
+ {
+  "subject": "Coding",
+  "type": "coding",
+  "difficulty": "medium",
+  "question": "Count how many times each word appears in a sentence and return the most frequent word.",
+  "options": null,
+  "answer": "Split, count with a dict (or Counter), return the key with the max count.",
+  "explanation": "",
+  "stage_kind": "coding",
+  "hints": [
+   "str.split()",
+   "collections.Counter"
+  ],
+  "concepts": [
+   "Hashing",
+   "Strings"
+  ],
+  "sample_io": "Input: 'to be or not to be'  Output: 'to'",
+  "solution": "from collections import Counter\ndef most_common_word(s):\n    return Counter(s.split()).most_common(1)[0][0]"
+ },
+ {
+  "subject": "SQL",
+  "type": "sql",
+  "difficulty": "medium",
+  "question": "Write a query to find departments that have more than 3 employees. Table: employees(emp_id, name, dept_id).",
+  "options": null,
+  "answer": "SELECT dept_id, COUNT(*) AS n FROM employees GROUP BY dept_id HAVING COUNT(*) > 3;",
+  "explanation": "",
+  "stage_kind": "coding",
+  "hints": [],
+  "concepts": [
+   "GROUP BY",
+   "HAVING"
+  ],
+  "sample_io": "",
+  "solution": "SELECT dept_id, COUNT(*) AS n\nFROM employees\nGROUP BY dept_id\nHAVING COUNT(*) > 3;"
+ },
+ {
+  "subject": "HR",
+  "type": "hr",
+  "difficulty": "easy",
+  "question": "Tell me about yourself.",
+  "options": null,
+  "answer": "60-90 seconds: who you are (degree, college), 1-2 projects with what you built, the skills they show, and what role you are looking for. No family history unless asked.",
+  "explanation": "",
+  "stage_kind": "hr_interview",
+  "hints": [],
+  "concepts": [],
+  "sample_io": "",
+  "solution": ""
+ },
+ {
+  "subject": "HR",
+  "type": "hr",
+  "difficulty": "easy",
+  "question": "Why should we hire you?",
+  "options": null,
+  "answer": "Link 2-3 of your proven skills to the role, give one project as proof, and show you learn fast. Avoid generic words like 'hardworking' without an example.",
+  "explanation": "",
+  "stage_kind": "hr_interview",
+  "hints": [],
+  "concepts": [],
+  "sample_io": "",
+  "solution": ""
+ },
+ {
+  "subject": "HR",
+  "type": "hr",
+  "difficulty": "medium",
+  "question": "Describe a time you disagreed with a teammate.",
+  "options": null,
+  "answer": "Use STAR: the situation, what each of you wanted, what YOU did (listened, compared options, agreed on a test), and the result.",
+  "explanation": "",
+  "stage_kind": "hr_interview",
+  "hints": [],
+  "concepts": [],
+  "sample_io": "",
+  "solution": ""
+ },
+ {
+  "subject": "HR",
+  "type": "hr",
+  "difficulty": "medium",
+  "question": "Are you willing to relocate or work in shifts?",
+  "options": null,
+  "answer": "Be honest. If yes, say so simply. If you have a constraint, state it politely and show flexibility where you can.",
+  "explanation": "",
+  "stage_kind": "hr_interview",
+  "hints": [],
+  "concepts": [],
+  "sample_io": "",
+  "solution": ""
+ },
+ {
+  "subject": "Project",
+  "type": "short",
+  "difficulty": "medium",
+  "question": "Explain the architecture of your best project in two minutes.",
+  "options": null,
+  "answer": "Problem, users, main components (frontend, backend, database), how data flows, why you chose the stack, one challenge, one measurable result.",
+  "explanation": "",
+  "stage_kind": "technical_interview",
+  "hints": [],
+  "concepts": [],
+  "sample_io": "",
+  "solution": ""
+ },
+ {
+  "subject": "Project",
+  "type": "short",
+  "difficulty": "medium",
+  "question": "What was the hardest bug in your project and how did you fix it?",
+  "options": null,
+  "answer": "Describe the symptom, how you narrowed it down (logs, prints, tests), the root cause, the fix and how you made sure it did not come back.",
+  "explanation": "",
+  "stage_kind": "technical_interview",
+  "hints": [],
+  "concepts": [],
+  "sample_io": "",
+  "solution": ""
+ },
+ {
+  "subject": "OOP",
+  "type": "short",
+  "difficulty": "medium",
+  "question": "Explain abstraction vs encapsulation with a real example.",
+  "options": null,
+  "answer": "Abstraction hides complexity (you press a car's brake without knowing hydraulics). Encapsulation hides data (a BankAccount keeps balance private and exposes deposit/withdraw).",
+  "explanation": "",
+  "stage_kind": "technical_interview",
+  "hints": [],
+  "concepts": [],
+  "sample_io": "",
+  "solution": ""
+ }
+]

@@ -1,0 +1,601 @@
+{
+ "slug": "cognizant",
+ "name": "Cognizant",
+ "overview": "Cognizant is an IT services company that hires a large number of freshers in India. Its fresher hiring and training program is called Generation Cognizant (GenC), which starts new hires with role-based training and then project work. Cognizant says there are no service bonds in the GenC program.",
+ "overview_source": "s1",
+ "careers_url": "https://careers.cognizant.com/india-en/pathways-to-cognizant/genc-program/",
+ "variation_note": "Cognizant says not every candidate goes through every step and the process varies by role; rounds, timings and platforms reported by candidates change by year, college and skill cluster.",
+ "roles": [
+  {
+   "title": "GenC (Programmer Analyst Trainee)",
+   "description": "Entry-level software role for engineering graduates. New hires are trained in their skill cluster (Java, Python or C# with SQL) before joining projects.",
+   "skills": [
+    "Java or Python or C#",
+    "SQL",
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Cloud basics",
+    "OOP"
+   ],
+   "eligibility": [
+    {
+     "text": "B.E/B.Tech, M.E/M.Tech, MCA or M.Sc IT students of the current batch (2026 batch on this page)",
+     "source": "s2"
+    },
+    {
+     "text": "At least 60% in X, XII, UG and PG",
+     "source": "s2"
+    },
+    {
+     "text": "Minimum 60% in X, XII, Diploma, UG and PG; 59.9% is not rounded off",
+     "source": "s4"
+    },
+    {
+     "text": "No active backlog at the time of the exam",
+     "source": "s2"
+    },
+    {
+     "text": "Overall gap in academics not more than 2 years",
+     "source": "s2"
+    },
+    {
+     "text": "Gap between studies not more than 1 year (a different PrepInsta page)",
+     "source": "s3"
+    },
+    {
+     "text": "Must be flexible to work from any Cognizant office and in different shifts",
+     "source": "s4"
+    }
+   ],
+   "compensation": [
+    {
+     "text": "4 LPA (as reported)",
+     "source": "s3"
+    },
+    {
+     "text": "4 LPA, designation Programmer Analyst Trainee (as reported)",
+     "source": "s4"
+    }
+   ]
+  },
+  {
+   "title": "GenC Pro (Programmer Analyst)",
+   "description": "Higher category given to candidates who do better in the technical assessment and interview. PrepInsta calls a similar track GenC Elevate.",
+   "skills": [
+    "Java or Python or C#",
+    "SQL",
+    "Web basics",
+    "DSA basics",
+    "OOP"
+   ],
+   "eligibility": [
+    {
+     "text": "Same registration and eligibility as GenC; the category is decided after the technical assessment",
+     "source": "s4"
+    }
+   ],
+   "compensation": [
+    {
+     "text": "5.4 LPA, designation Programmer Analyst (as reported)",
+     "source": "s4"
+    },
+    {
+     "text": "GenC Elevate: 4 LPA + skill bonus = 5.4 LPA (as reported)",
+     "source": "s3"
+    }
+   ]
+  },
+  {
+   "title": "GenC Next (Programmer Analyst)",
+   "description": "Top fresher category for candidates with stronger coding skills. Candidates report harder live coding in the interview.",
+   "skills": [
+    "Java or Python or C#",
+    "SQL (joins, GROUP BY, date functions)",
+    "DSA (arrays, strings)",
+    "OOP",
+    "HTML/CSS"
+   ],
+   "eligibility": [
+    {
+     "text": "Same registration and eligibility as GenC; the category is decided after the technical assessment",
+     "source": "s4"
+    }
+   ],
+   "compensation": [
+    {
+     "text": "6.75 LPA (as reported)",
+     "source": "s3"
+    },
+    {
+     "text": "6.75 LPA, designation Programmer Analyst (as reported)",
+     "source": "s4"
+    }
+   ]
+  }
+ ],
+ "stages": [
+  {
+   "order": 1,
+   "name": "Application and screening",
+   "kind": "other",
+   "what": "You apply through your college drive or the off-campus portal (Superset). Recruiters review applications and contact shortlisted students through the placement officer or email.",
+   "format": [
+    {
+     "text": "Step 1 application, Step 2 initial screening, then assessments, interviews and result",
+     "source": "s1"
+    },
+    {
+     "text": "At registration you pick a skill cluster: Cluster 1 Java + ANSI SQL + HTML/CSS/JS (default), Cluster 2 Python + ANSI SQL + Cloud Fundamentals, Cluster 3 C# + ANSI SQL + HTML/CSS/JS; final cluster is Cognizant's decision",
+     "source": "s4"
+    },
+    {
+     "text": "2026 off-campus timeline reported: registration from Feb 24, 2026, communication test from Mar 7, aptitude from Mar 10, technical from Mar 11, interviews from Mar 27",
+     "source": "s4"
+    }
+   ],
+   "evaluates": [
+    "Eligibility (marks, backlogs, gap)",
+    "Resume"
+   ],
+   "study": [
+    "Pick the skill cluster you can code in best",
+    "Keep marksheets and ID ready"
+   ],
+   "tips": [
+    "Your name and date of birth must match your 10th marksheet and PAN",
+    "Use a personal email you will keep; it cannot be changed later"
+   ],
+   "before_next": "Choose your cluster language and start daily SQL and coding practice in it.",
+   "label": "Official"
+  },
+  {
+   "order": 2,
+   "name": "Communication assessment",
+   "kind": "communication",
+   "what": "An automated English test: reading, grammar, listening and speaking. Some tasks play audio once and you repeat it.",
+   "format": [
+    {
+     "text": "60 min: reading + listening, speaking, grammar (AI-based tasks)",
+     "source": "s2"
+    },
+    {
+     "text": "Versant test on AMCAT, 60 min, automated voice-based spoken English test (Feb 2025 pool drive)",
+     "source": "s5"
+    },
+    {
+     "text": "60 min; one section plays an audio only once and you repeat it (May 2025 off-campus)",
+     "source": "s6"
+    },
+    {
+     "text": "60 min, 3 parts: reading, grammar and comprehension, speaking and listening",
+     "source": "s7"
+    }
+   ],
+   "evaluates": [
+    "Spoken English",
+    "Pronunciation and fluency",
+    "Grammar",
+    "Listening"
+   ],
+   "study": [
+    "Sentence repetition",
+    "Reading aloud",
+    "Grammar: tenses, articles, prepositions",
+    "Short story retelling"
+   ],
+   "tips": [
+    "Use a quiet room and a good headset mic",
+    "Speak clearly at normal speed; do not stop to correct yourself",
+    "Listen carefully, audio may play only once"
+   ],
+   "before_next": "Practise 15 minutes of reading aloud and sentence repetition daily until it feels easy.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 3,
+   "name": "Aptitude and game-based assessment",
+   "kind": "game_based",
+   "what": "A quantitative aptitude section followed by short games that test speed, memory and reasoning.",
+   "format": [
+    {
+     "text": "Quantitative aptitude 30 questions / 30 min + 4 games / 50 min",
+     "source": "s2"
+    },
+    {
+     "text": "80 min: 30 aptitude questions followed by 4 gamified sections",
+     "source": "s6"
+    },
+    {
+     "text": "80 min game-based cognitive assessment on AMCAT",
+     "source": "s5"
+    },
+    {
+     "text": "80 min, 40 quantitative + 40 logical reasoning questions (one older 2025 report)",
+     "source": "s7"
+    }
+   ],
+   "evaluates": [
+    "Quant speed",
+    "Logical reasoning",
+    "Attention and memory",
+    "Decision speed"
+   ],
+   "study": [
+    "Percentages",
+    "Ratio and proportion",
+    "Time, speed and distance",
+    "Time and work",
+    "Profit and loss",
+    "Number series"
+   ],
+   "tips": [
+    "In the games, try to reach the highest level you can",
+    "Read each game's rules before starting",
+    "Do timed sets of 30 quant questions in 30 minutes"
+   ],
+   "before_next": "Be able to finish 30 quant questions in 30 minutes with good accuracy.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 4,
+   "name": "Technical assessment: Coding + SQL + Web + Cloud",
+   "kind": "coding",
+   "what": "An online test in your cluster language with coding problems, SQL queries, a small web (HTML/CSS/JS) task and cloud MCQs.",
+   "format": [
+    {
+     "text": "120 min total: 2 coding, 2 SQL, 1 web scenario task, 10 cloud MCQs; no negative marking",
+     "source": "s2"
+    },
+    {
+     "text": "120 min on AMCAT: 2 SQL, 2 programming (C#, Java or Python), 1 web development question",
+     "source": "s5"
+    },
+    {
+     "text": "2 coding (Java), 2 SQL, 1 web development (HTML, CSS, JS) question; language limited to Java, Python or C#",
+     "source": "s6"
+    },
+    {
+     "text": "First two sections have 4 questions in total: 2 SQL and 2 coding",
+     "source": "s9"
+    },
+    {
+     "text": "GenC Next report (Nov 2025): 2 easy SQL questions on date functions, 2 Java coding questions",
+     "source": "s8"
+    }
+   ],
+   "evaluates": [
+    "Coding in Java/Python/C#",
+    "SQL joins and aggregates",
+    "HTML/CSS basics",
+    "Cloud fundamentals"
+   ],
+   "study": [
+    "Arrays and strings",
+    "Frequency counting with maps",
+    "Palindromes and sorting",
+    "SQL: INNER/LEFT JOIN, GROUP BY, HAVING, date functions",
+    "HTML forms, CSS flexbox",
+    "Cloud: IaaS/PaaS/SaaS, regions, scaling"
+   ],
+   "tips": [
+    "You must code in your cluster language, so practise in it, not in C++",
+    "Solve both SQL questions fully; they are usually easier",
+    "Test with edge cases before submitting"
+   ],
+   "before_next": "Revise OOP and DBMS theory and be ready to write code live in your cluster language.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 5,
+   "name": "Technical + HR interview",
+   "kind": "technical_interview",
+   "what": "One interview that mixes technical questions, live coding and HR questions. Your category (GenC, Pro, Next) affects how hard it is.",
+   "format": [
+    {
+     "text": "Technical + HR interview, 30 to 45 min",
+     "source": "s2"
+    },
+    {
+     "text": "GenC Next: hybrid, about 90 min, two technical panelists, 4 live coding problems on strings, arrays, OOP and SQL",
+     "source": "s5"
+    },
+    {
+     "text": "Interview based on your cluster language and resume; asked about relocation and night shifts",
+     "source": "s6"
+    },
+    {
+     "text": "HR part about 10 min, mostly document verification (one GenC report)",
+     "source": "s7"
+    }
+   ],
+   "evaluates": [
+    "OOP concepts",
+    "DBMS and SQL",
+    "Basic DSA",
+    "Projects",
+    "Communication and attitude"
+   ],
+   "study": [
+    "OOP: inheritance, polymorphism, encapsulation, abstraction",
+    "Normalization and keys",
+    "SDLC",
+    "Your projects end to end",
+    "Self-introduction"
+   ],
+   "tips": [
+    "Write code in the language you chose, the interviewer may refuse others",
+    "Know every line of your resume",
+    "Be ready to say yes or no to relocation and shifts honestly"
+   ],
+   "before_next": "Keep marksheets, ID and documents ready for verification.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 6,
+   "name": "Result and category",
+   "kind": "other",
+   "what": "Cognizant reviews candidates and shares results with the placement officer (campus) or with you (off-campus). Joining happens in batches, so the joining date can come later.",
+   "format": [
+    {
+     "text": "Step 5: result shared with placement officer or candidate; onboarding in batches based on business demand",
+     "source": "s1"
+    },
+    {
+     "text": "Shortlisted candidates are told their hiring category (GenC, GenC Pro or GenC Next)",
+     "source": "s4"
+    }
+   ],
+   "evaluates": [
+    "Overall performance across rounds"
+   ],
+   "study": [],
+   "tips": [
+    "Check status on the GenC candidate platform",
+    "Ignore anyone asking for money for a job"
+   ],
+   "before_next": "Finish your degree with no backlogs and 60%+ aggregate.",
+   "label": "Official"
+  }
+ ],
+ "questions": [
+  {
+   "stage_order": 5,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "easy",
+   "question": "Given two arrays, find the elements common to both.",
+   "options": null,
+   "answer": "Put the second array in a set, then walk the first array and keep each element found in the set (skip duplicates). Example: [1,2,2,3,4] and [2,4,6,2] gives [2,4]. O(n+m) time.",
+   "label": "Candidate-reported",
+   "source": "s6"
+  },
+  {
+   "stage_order": 5,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "easy",
+   "question": "A string contains a letter that appears twice. Find that letter.",
+   "options": null,
+   "answer": "Scan left to right with a set; the first character already in the set is the answer. Example: 'abca' gives 'a'. O(n) time.",
+   "label": "Candidate-reported",
+   "source": "s6"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "easy",
+   "question": "Find the maximum number of consecutive 1s in a binary array.",
+   "options": null,
+   "answer": "Keep a running count that resets to 0 on a 0 and track the maximum. [1,1,0,1,1,1] gives 3.",
+   "label": "Candidate-reported",
+   "source": "s8"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "easy",
+   "question": "Check whether a given string is a palindrome.",
+   "options": null,
+   "answer": "Compare the string with its reverse (s == s[::-1] in Python) or use two pointers from both ends. 'level' is a palindrome, 'hello' is not.",
+   "label": "Candidate-reported",
+   "source": "s5"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "easy",
+   "question": "Count the frequency of each character in a string.",
+   "options": null,
+   "answer": "Use a dictionary (or collections.Counter) and add 1 for each character. 'banana' gives a:3, n:2, b:1.",
+   "label": "Candidate-reported",
+   "source": "s5"
+  },
+  {
+   "stage_order": 5,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "easy",
+   "question": "Write a program to perform binary search on a sorted array of N numbers.",
+   "options": null,
+   "answer": "Keep low and high; check mid = (low+high)//2, move low or high depending on the comparison, stop when found or low > high. Searching 60 in [9,26,33,47,53,60,75,80,86,99] returns index 5. O(log n).",
+   "label": "Candidate-reported",
+   "source": "s7"
+  },
+  {
+   "stage_order": 5,
+   "subject": "Other",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "What is the software development life cycle (SDLC)?",
+   "options": null,
+   "answer": "The step-by-step process for building software: requirements, design, development, testing, deployment and maintenance.",
+   "label": "Candidate-reported",
+   "source": "s7"
+  },
+  {
+   "stage_order": 5,
+   "subject": "OOP",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "What are the OOP concepts? Give a real-life example.",
+   "options": null,
+   "answer": "Class, object, encapsulation, abstraction, inheritance and polymorphism. Example: a Car class (blueprint) and myCar (object); ElectricCar inherits Car and overrides refuel().",
+   "label": "Candidate-reported",
+   "source": "s7"
+  },
+  {
+   "stage_order": 5,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "Where do you see yourself in 5 years?",
+   "options": null,
+   "answer": "Give a realistic growth path: strong in your tech stack, handling modules on your own, maybe guiding juniors, while growing with the company.",
+   "label": "Candidate-reported",
+   "source": "s7"
+  },
+  {
+   "stage_order": 5,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "Why should we hire you?",
+   "options": null,
+   "answer": "Link 2 or 3 real strengths to the role with proof from your projects, and show you are ready to learn the cluster tech in training.",
+   "label": "Candidate-reported",
+   "source": "s7"
+  },
+  {
+   "stage_order": 4,
+   "subject": "SQL",
+   "type": "short",
+   "difficulty": "medium",
+   "question": "Table emp(id, name, dept, salary). Write a query to list departments whose average salary is more than 50000.",
+   "options": null,
+   "answer": "SELECT dept, AVG(salary) FROM emp GROUP BY dept HAVING AVG(salary) > 50000; HAVING filters groups after GROUP BY, WHERE cannot use AVG.",
+   "label": "AI practice",
+   "source": null
+  },
+  {
+   "stage_order": 4,
+   "subject": "SQL",
+   "type": "short",
+   "difficulty": "medium",
+   "question": "Tables customers(id, name) and orders(id, customer_id, amount). Show every customer with their number of orders, including customers with no orders.",
+   "options": null,
+   "answer": "SELECT c.name, COUNT(o.id) FROM customers c LEFT JOIN orders o ON o.customer_id = c.id GROUP BY c.id, c.name; LEFT JOIN keeps customers without orders and COUNT(o.id) gives 0 for them.",
+   "label": "AI practice",
+   "source": null
+  },
+  {
+   "stage_order": 4,
+   "subject": "Other",
+   "type": "mcq",
+   "difficulty": "easy",
+   "question": "Which cloud service model gives you virtual machines, storage and networks that you manage yourself?",
+   "options": [
+    "SaaS",
+    "PaaS",
+    "IaaS",
+    "FaaS"
+   ],
+   "answer": "IaaS. Infrastructure as a Service gives raw compute and storage; you manage the OS and apps.",
+   "label": "AI practice",
+   "source": null
+  },
+  {
+   "stage_order": 3,
+   "subject": "Quant",
+   "type": "mcq",
+   "difficulty": "easy",
+   "question": "A train 360 m long runs at 54 km/h. How long does it take to pass a pole?",
+   "options": [
+    "20 s",
+    "24 s",
+    "30 s",
+    "36 s"
+   ],
+   "answer": "24 s. 54 km/h = 15 m/s, and 360 / 15 = 24.",
+   "label": "AI practice",
+   "source": null
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "url": "https://careers.cognizant.com/india-en/pathways-to-cognizant/genc-program/",
+   "title": "Generation Cognizant (GenC) Program | Cognizant Careers",
+   "publisher": "Cognizant (official)",
+   "date": "2026-10-28",
+   "label": "Official"
+  },
+  {
+   "id": "s2",
+   "url": "https://prepinsta.com/cognizant/recruitment-process/",
+   "title": "Cognizant GenC Recruitment Process for Freshers",
+   "publisher": "PrepInsta",
+   "date": "2025-11-21",
+   "label": "Third-party"
+  },
+  {
+   "id": "s3",
+   "url": "https://prepinsta.com/cognizant-genc/salary/",
+   "title": "Cognizant GenC Salary 2025 for Freshers",
+   "publisher": "PrepInsta",
+   "date": "2025-04-14",
+   "label": "Third-party"
+  },
+  {
+   "id": "s4",
+   "url": "https://unstop.com/blog/cognizant-genc-hiring-process",
+   "title": "Cognizant GenC Hiring Process 2026: Eligibility, Link, Prep, & More",
+   "publisher": "Unstop",
+   "date": "2026-03-05",
+   "label": "Third-party"
+  },
+  {
+   "id": "s5",
+   "url": "https://www.geeksforgeeks.org/interview-experiences/cognizant-interview-experience-genc-next-role-2025/",
+   "title": "Cognizant Interview Experience - GENC Next Role - 2025",
+   "publisher": "GeeksforGeeks",
+   "date": "2025-07-23",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s6",
+   "url": "https://www.geeksforgeeks.org/interview-experiences/cognizant-interview-experience-for-genc-genc-pro-genc-next-2025-off-campus/",
+   "title": "Cognizant Interview Experience for Genc /Genc Pro/Genc Next 2025 - Off-Campus",
+   "publisher": "GeeksforGeeks",
+   "date": "2025-06-24",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s7",
+   "url": "https://prepinsta.com/interview-preparation/cognizant-genc-interview-experience/",
+   "title": "Cognizant GenC Interview Experience 2025",
+   "publisher": "PrepInsta",
+   "date": "2025-11-21",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s8",
+   "url": "https://leetcode.com/discuss/interview-experience/7323172/",
+   "title": "Cognizant GenC Next Interview Experience (Nov 2025) (read from search snippet)",
+   "publisher": "LeetCode Discuss",
+   "date": null,
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s9",
+   "url": "https://www.reddit.com/r/Cognizant_benchers/comments/1pt3ngw/cognizant_genc_technical_round_my_experience/",
+   "title": "Cognizant GENC Technical Round - My Experience (read from search snippet)",
+   "publisher": "Reddit r/Cognizant_benchers",
+   "date": null,
+   "label": "Candidate-reported"
+  }
+ ]
+}

@@ -1,0 +1,420 @@
+{
+ "slug": "thales",
+ "name": "Thales",
+ "overview": "Thales is a France-based technology group that works in defence, aerospace, cybersecurity and digital. In India it runs engineering competence centres in Bengaluru and Noida, and it said it plans to hire 450 people in India in 2026 for hardware, software and systems roles.",
+ "overview_source": "s3",
+ "careers_url": "https://careers.thalesgroup.com/global/en/india-opportunities",
+ "variation_note": "Fresher data for Thales India is thin: only a few candidate reports exist, the test format differs between them, and no official campus process or eligibility was found in sources checked.",
+ "roles": [
+  {
+   "title": "Graduate Engineer Trainee / Software Engineer (fresher)",
+   "description": "Entry-level software or engineering role at the India engineering centres, usually through on-campus drives; interview panels are matched to your main language (Java, Python or C++).",
+   "skills": [
+    "Java / Python / C++",
+    "Data structures and algorithms",
+    "OOP",
+    "Operating systems",
+    "Computer networks",
+    "DBMS / SQL",
+    "Linux basics",
+    "Computer architecture basics"
+   ],
+   "eligibility": [
+    {
+     "text": "Not found in sources checked; eligibility is set per campus drive, so check your placement cell notice",
+     "source": "s1"
+    }
+   ],
+   "compensation": [
+    {
+     "text": "Freshers (0 to 1 year) median about 8 LPA fixed, range 6 to 9 LPA, from 13 self-reported salaries (as reported)",
+     "source": "s10"
+    },
+    {
+     "text": "Graduate Engineer Trainee take-home about 53.9k to 55.2k per month, self-reported by employees on AmbitionBox (from search snippet)",
+     "source": "s11"
+    }
+   ]
+  }
+ ],
+ "stages": [
+  {
+   "order": 1,
+   "name": "Online assessment: MCQs (CS fundamentals, aptitude, Linux)",
+   "kind": "technical_mcq",
+   "what": "An online multiple-choice test on computer science basics, often with aptitude and logical reasoning. Reports differ a lot in length and topics.",
+   "format": [
+    {
+     "text": "December 2025 on-campus report: MCQs on OS, computer networks, DBMS, OOP and computer architecture (including cache memory), plus 2 coding questions",
+     "source": "s5"
+    },
+    {
+     "text": "On-campus fresher report: 75 MCQs in 90 minutes with no fixed sections, questions from basic Linux and other CS topics (from search snippet; page blocked the box)",
+     "source": "s6"
+    },
+    {
+     "text": "SDE intern on-campus OA: 55 questions on HackerEarth, including 4 coding, 2 SQL, logical reasoning, aptitude and output-based questions (from search snippet)",
+     "source": "s7"
+    },
+    {
+     "text": "On-campus process of three rounds; the online test had aptitude, logical reasoning and technical questions on DBMS, OOP and programming (from search snippet)",
+     "source": "s8"
+    }
+   ],
+   "evaluates": [
+    "CS fundamentals",
+    "Linux basics",
+    "Aptitude and logical reasoning",
+    "Code output reading"
+   ],
+   "study": [
+    "Operating systems (processes, memory, scheduling)",
+    "Computer networks (TCP/IP, DNS)",
+    "DBMS and SQL",
+    "OOP",
+    "Computer architecture and cache memory",
+    "Linux commands and file permissions",
+    "Basic aptitude"
+   ],
+   "tips": [
+    "Revise computer architecture; most other companies skip it but Thales reports include cache questions",
+    "Practise Linux commands and chmod permissions"
+   ],
+   "before_next": "Finish one full revision pass of OS, CN, DBMS, OOP, Linux and cache memory with 50+ MCQs.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 2,
+   "name": "Online assessment: Coding section",
+   "kind": "coding",
+   "what": "Coding questions given inside the same online test. Reported problems are classic string and array questions.",
+   "format": [
+    {
+     "text": "December 2025 report: 2 coding questions: longest substring without repeating characters (sliding window) and finding the 4th highest score among N participants without full sorting",
+     "source": "s5"
+    },
+    {
+     "text": "SDE intern OA: 4 coding and 2 SQL questions inside a 55-question test (from search snippet)",
+     "source": "s7"
+    }
+   ],
+   "evaluates": [
+    "Problem solving",
+    "Efficient approach (not just brute force)",
+    "Clean code"
+   ],
+   "study": [
+    "Sliding window",
+    "Heaps / k-th largest",
+    "Strings",
+    "Hashing",
+    "Basic SQL queries"
+   ],
+   "tips": [
+    "When a question says 'without sorting', think of a heap or a single pass",
+    "Test edge cases like empty strings and repeated values"
+   ],
+   "before_next": "Solve 10 to 15 sliding-window, heap and string problems in the language you will pick for the interview.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 3,
+   "name": "Technical interview",
+   "kind": "technical_interview",
+   "what": "A one-to-one interview with a panel matched to your main language. Expect core language questions, DSA, a database question and resume discussion.",
+   "format": [
+    {
+     "text": "December 2025 report: panels assigned by preferred stack (Java, Python, C++); 30 to 40 minutes; Java memory management, Java vs Python, polymorphism, == vs .equals(), string immutability, string problems, optimising slow SQL queries, resume",
+     "source": "s5"
+    },
+    {
+     "text": "Fresher advice from an on-campus report: be ready to explain TCP handshake, DNS, common Linux commands and permissions, and every line of your projects (from search snippet)",
+     "source": "s9"
+    }
+   ],
+   "evaluates": [
+    "Depth in one language",
+    "DSA",
+    "Networking and Linux basics",
+    "Understanding of your own projects"
+   ],
+   "study": [
+    "Core concepts of your main language",
+    "OOP (polymorphism, inheritance)",
+    "String manipulation problems",
+    "SQL query optimisation (indexes, avoiding SELECT *)",
+    "TCP three-way handshake, DNS",
+    "Linux permissions"
+   ],
+   "tips": [
+    "Pick the stack you know best when asked; the panel follows it",
+    "Explain your approach before coding and mention time complexity"
+   ],
+   "before_next": "Prepare a 2-minute walk-through of each project and revise networking and Linux basics.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 4,
+   "name": "HR interview",
+   "kind": "hr_interview",
+   "what": "A final conversation about you, your interests and fit with the company.",
+   "format": [
+    {
+     "text": "Reported as the third and last on-campus round after the online test and technical interview (from search snippet)",
+     "source": "s8"
+    }
+   ],
+   "evaluates": [
+    "Communication",
+    "Interest in the domain (defence, aerospace, security)",
+    "Attitude"
+   ],
+   "study": [
+    "Self introduction",
+    "Why Thales",
+    "Your areas of interest",
+    "Questions to ask the panel"
+   ],
+   "tips": [
+    "Read a little about Thales India's work in defence, aerospace and cybersecurity before the interview",
+    "Prepare 2 questions about the team and technologies"
+   ],
+   "before_next": "Keep documents ready for the offer process.",
+   "label": "Candidate-reported"
+  }
+ ],
+ "questions": [
+  {
+   "stage_order": 2,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Find the length of the longest substring without repeating characters.",
+   "options": null,
+   "answer": "Sliding window: keep the last index of each character and move the window start past a repeat. O(n). 'abcabcbb' gives 3, 'bbbbb' gives 1, 'pwwkew' gives 3.",
+   "label": "Candidate-reported",
+   "source": "s5"
+  },
+  {
+   "stage_order": 2,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Find the 4th highest score among N participants without sorting the whole list.",
+   "options": null,
+   "answer": "Keep a min-heap of size 4; push each score and pop the smallest when the heap has more than 4. The heap top is the 4th highest. O(n log 4). Scores [50,90,20,70,85,60,95] give 70. Decide with the interviewer how to treat duplicate scores.",
+   "label": "Candidate-reported",
+   "source": "s5"
+  },
+  {
+   "stage_order": 3,
+   "subject": "OOP",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "What is the difference between == and .equals() in Java?",
+   "options": null,
+   "answer": "== compares references (same object in memory) for objects; .equals() compares content when the class overrides it, as String does.",
+   "label": "Candidate-reported",
+   "source": "s5"
+  },
+  {
+   "stage_order": 3,
+   "subject": "OOP",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "Why are Strings immutable in Java?",
+   "options": null,
+   "answer": "A String object cannot change after creation; this allows the string pool to share objects safely, makes strings thread-safe and keeps hash codes stable for use as map keys.",
+   "label": "Candidate-reported",
+   "source": "s5"
+  },
+  {
+   "stage_order": 3,
+   "subject": "OOP",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "What is polymorphism? Give an example.",
+   "options": null,
+   "answer": "One interface, many forms. Compile-time polymorphism is method overloading; run-time polymorphism is method overriding, for example a Shape reference calling draw() on a Circle object runs Circle's draw().",
+   "label": "Candidate-reported",
+   "source": "s5"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "easy",
+   "question": "Reverse the order of words in a sentence, for example 'sky is beautiful' to 'beautiful is sky'.",
+   "options": null,
+   "answer": "' '.join(s.split()[::-1]). Split on spaces, reverse the list, join back. Output: 'beautiful is sky'.",
+   "label": "Candidate-reported",
+   "source": "s5"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "easy",
+   "question": "Reverse each word in a sentence, for example 'reverse word' to 'esrever drow'.",
+   "options": null,
+   "answer": "' '.join(w[::-1] for w in s.split()). Each word is reversed but the word order stays. Output: 'esrever drow'.",
+   "label": "Candidate-reported",
+   "source": "s5"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "easy",
+   "question": "Convert an uppercase string to lowercase without using built-in functions.",
+   "options": null,
+   "answer": "For each character between 'A' and 'Z', add 32 to its ASCII code (chr(ord(c) + 32)); leave other characters as they are. 'HELLO WORLD1' becomes 'hello world1'.",
+   "label": "Candidate-reported",
+   "source": "s5"
+  },
+  {
+   "stage_order": 3,
+   "subject": "DBMS",
+   "type": "short",
+   "difficulty": "medium",
+   "question": "How would you optimise slow SQL queries?",
+   "options": null,
+   "answer": "Check the query plan (EXPLAIN), add indexes on columns used in WHERE and JOIN, select only needed columns instead of SELECT *, filter early, avoid functions on indexed columns, and paginate large results.",
+   "label": "Candidate-reported",
+   "source": "s5"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Networks",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "Explain the TCP three-way handshake.",
+   "options": null,
+   "answer": "Client sends SYN, server replies SYN-ACK, client sends ACK; both sides agree on starting sequence numbers and the connection is open.",
+   "label": "Candidate-reported",
+   "source": "s9"
+  },
+  {
+   "stage_order": 1,
+   "subject": "OS",
+   "type": "mcq",
+   "difficulty": "easy",
+   "question": "A Linux file has permissions set with chmod 754. What can the group do?",
+   "options": [
+    "Read, write, execute",
+    "Read and execute",
+    "Read only",
+    "Write only"
+   ],
+   "answer": "Read and execute. 7 = rwx for owner, 5 = r-x for group, 4 = r-- for others.",
+   "label": "AI practice",
+   "source": null
+  },
+  {
+   "stage_order": 1,
+   "subject": "Other",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "A cache has a hit ratio of 0.9, cache access time 10 ns and main memory access time 100 ns. What is the average memory access time (simple model: hit time, or memory time on a miss)?",
+   "options": [
+    "19 ns",
+    "10 ns",
+    "28 ns",
+    "100 ns"
+   ],
+   "answer": "19 ns. 0.9 x 10 + 0.1 x 100 = 9 + 10 = 19 ns.",
+   "label": "AI practice",
+   "source": null
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "url": "https://careers.thalesgroup.com/global/en/studentandgraduates2",
+   "title": "Student and Graduates - Thales Careers",
+   "publisher": "Thales (official)",
+   "date": null,
+   "label": "Official"
+  },
+  {
+   "id": "s2",
+   "url": "https://www.thalesgroup.com/en/news-centre/press-releases/thales-recruit-more-9000-new-employees-2026",
+   "title": "Thales to recruit more than 9000 new employees in 2026",
+   "publisher": "Thales (official press release)",
+   "date": null,
+   "label": "Official"
+  },
+  {
+   "id": "s3",
+   "url": "https://m.economictimes.com/jobs/mid-career/thales-to-recruit-450-specialised-professionals-in-india-in-2026/articleshow/128114001.cms",
+   "title": "Thales to recruit 450 specialised professionals in India in 2026",
+   "publisher": "The Economic Times (PTI)",
+   "date": "2026-02-09",
+   "label": "Third-party"
+  },
+  {
+   "id": "s4",
+   "url": "https://careers.thalesgroup.com/global/en/india-opportunities",
+   "title": "India Opportunities - Thales Careers",
+   "publisher": "Thales (official)",
+   "date": null,
+   "label": "Official"
+  },
+  {
+   "id": "s5",
+   "url": "https://www.linkedin.com/posts/sohan-aravapalli-301088267_thales-interviewexperience-dsa-activity-7468312352145178625-Zk5D",
+   "title": "Thales On-Campus Interview Experience and Lessons Learned (December 2025 drive)",
+   "publisher": "LinkedIn post by a candidate",
+   "date": null,
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s6",
+   "url": "https://www.reddit.com/r/PlacementsPrep/comments/1xbwmeh/thales_oncampus_interview_experience_for_freshers/",
+   "title": "Thales On-Campus Interview Experience for Freshers",
+   "publisher": "Reddit r/PlacementsPrep",
+   "date": null,
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s7",
+   "url": "https://medium.com/@sinhasaurabh079/thales-sde-intern-online-assessment-on-campus-b85929a78d29",
+   "title": "Thales | SDE Intern Online Assessment | On-Campus",
+   "publisher": "Medium post by a candidate",
+   "date": null,
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s8",
+   "url": "https://www.glassdoor.com.hk/Interview/The-Thales-on-campus-recruitment-process-consisted-of-three-rounds-an-online-test-a-technical-interview-and-an-HR-interv-QTN_8410419.htm",
+   "title": "Thales Interview Question: on-campus recruitment process",
+   "publisher": "Glassdoor",
+   "date": null,
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s9",
+   "url": "https://www.reddit.com/r/developersIndia/comments/1xbwq5n/thales_oncampus_interview_experience_for_freshers/",
+   "title": "Thales On-Campus Interview Experience for Freshers",
+   "publisher": "Reddit r/developersIndia",
+   "date": null,
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s10",
+   "url": "https://www.weekday.works/salary/what-salary-does-thales-pay",
+   "title": "Thales Salary in India 2026",
+   "publisher": "Weekday",
+   "date": "2026-10",
+   "label": "Third-party"
+  },
+  {
+   "id": "s11",
+   "url": "https://www.ambitionbox.com/salaries/thales-salaries/graduate-engineer-trainee-get",
+   "title": "Thales Graduate Engineer Trainee (GET) Salaries",
+   "publisher": "AmbitionBox",
+   "date": null,
+   "label": "Third-party"
+  }
+ ]
+}

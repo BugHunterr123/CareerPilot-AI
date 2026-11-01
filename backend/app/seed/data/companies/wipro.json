@@ -1,0 +1,467 @@
+{
+ "slug": "wipro",
+ "name": "Wipro",
+ "overview": "Wipro is an Indian IT services, consulting and business process company based in Bengaluru, and one of India's six largest IT services firms. Engineering freshers are hired mainly as Project Engineers through the Elite National Talent Hunt (NTH), and through Turbo at selected premier institutes.",
+ "overview_source": "s1",
+ "careers_url": "https://careers.wipro.com/content/Early-Careers/",
+ "variation_note": "Rounds, test platform and timings differ between Elite NTH and Turbo drives and change by year and college.",
+ "roles": [
+  {
+   "title": "Project Engineer (Elite NTH)",
+   "description": "Main engineering fresher role, hired through the Elite National Talent Hunt after an online test and a business discussion.",
+   "skills": [
+    "Aptitude",
+    "Written English",
+    "Coding basics (C/C++/Java/Python)",
+    "Spoken English",
+    "Projects"
+   ],
+   "eligibility": [
+    {
+     "text": "BE/BTech (or 5-year integrated ME/MTech), full-time only",
+     "source": "s2"
+    },
+    {
+     "text": "60% or 6.0 CGPA in graduation and 60% in 10th and 12th",
+     "source": "s2"
+    },
+    {
+     "text": "One backlog allowed at the assessment stage, to be cleared by the 8th semester",
+     "source": "s2"
+    },
+    {
+     "text": "Max 3 years gap between 10th and start of graduation; no gaps during graduation",
+     "source": "s2"
+    },
+    {
+     "text": "Not eligible if you took part in a Wipro selection process in the last 3 months",
+     "source": "s2"
+    },
+    {
+     "text": "2025 cycle: 60% or more in X, XII and UG, one backlog, max 3 years gap",
+     "source": "s5"
+    }
+   ],
+   "compensation": [
+    {
+     "text": "INR 3,50,000 joining compensation plus tenure-based bonuses (official NTH 2023 page)",
+     "source": "s2"
+    },
+    {
+     "text": "3.5 LPA for Elite candidates (news report, Feb 2023)",
+     "source": "s8"
+    }
+   ]
+  },
+  {
+   "title": "Project Engineer (Turbo)",
+   "description": "Higher package technical hiring program run at about 46 premier institutes such as IIITs, NITs and select private colleges.",
+   "skills": [
+    "DSA",
+    "Coding",
+    "CS fundamentals",
+    "Projects"
+   ],
+   "eligibility": [
+    {
+     "text": "Run at 46 premier institutes including IIITs, NITs and select top private colleges",
+     "source": "s3"
+    }
+   ],
+   "compensation": [
+    {
+     "text": "6.5 LPA for Turbo (news report, Feb 2023)",
+     "source": "s8"
+    }
+   ]
+  }
+ ],
+ "stages": [
+  {
+   "order": 1,
+   "name": "Online assessment: Aptitude",
+   "kind": "aptitude",
+   "what": "Quantitative, logical and verbal questions. Part of one online test that also has an essay and coding.",
+   "format": [
+    {
+     "text": "80-minute online assessment testing verbal, analytical, quantitative and written communication, followed by coding (official NTH 2023 page)",
+     "source": "s2"
+    },
+    {
+     "text": "Quant 16 questions / 16 min, Logical 14 / 14 min, Verbal 18 / 18 min; 48 minutes total for aptitude",
+     "source": "s4"
+    },
+    {
+     "text": "Whole online test was about 2 hours on CoCubes with three sections: aptitude, essay, two coding questions (candidate, 2025)",
+     "source": "s6"
+    }
+   ],
+   "evaluates": [
+    "Quant speed",
+    "Reasoning",
+    "English grammar"
+   ],
+   "study": [
+    "Percentages, profit and loss",
+    "Simple and compound interest",
+    "Permutations and combinations",
+    "Directions and blood relations",
+    "Grammar and reading"
+   ],
+   "tips": [
+    "About 1 minute per question, so do not get stuck",
+    "Revise directions and relationship problems (reported in 2022 test)"
+   ],
+   "before_next": "Take a 48-minute mixed aptitude mock.",
+   "label": "Third-party"
+  },
+  {
+   "order": 2,
+   "name": "Written communication test (essay)",
+   "kind": "essay",
+   "what": "Write one short essay on a given topic. Graded on structure, grammar, spelling and ideas.",
+   "format": [
+    {
+     "text": "1 essay in 20 minutes",
+     "source": "s4"
+    },
+    {
+     "text": "Essay writing section in the 2025 online test",
+     "source": "s6"
+    }
+   ],
+   "evaluates": [
+    "Written English",
+    "Structure of ideas"
+   ],
+   "study": [
+    "Intro, body, conclusion format",
+    "Common topics: technology, education, environment",
+    "Grammar and punctuation"
+   ],
+   "tips": [
+    "Plan 2 minutes before writing",
+    "Short clear sentences beat fancy words",
+    "Leave 2 minutes to fix spelling"
+   ],
+   "before_next": "Write 3 timed essays and check them for grammar.",
+   "label": "Third-party"
+  },
+  {
+   "order": 3,
+   "name": "Online programming test",
+   "kind": "coding",
+   "what": "Two coding problems in a language of your choice (C, C++, Java or Python).",
+   "format": [
+    {
+     "text": "2 questions in 60 minutes",
+     "source": "s4"
+    },
+    {
+     "text": "Two coding questions in the 2025 online test",
+     "source": "s6"
+    },
+    {
+     "text": "Candidate tip (2022): passing all test cases of one program and half of the other was enough to clear coding",
+     "source": "s7"
+    }
+   ],
+   "evaluates": [
+    "Basic problem solving",
+    "Arrays and strings"
+   ],
+   "study": [
+    "Arrays and strings",
+    "Number problems",
+    "Sorting",
+    "Basic recursion"
+   ],
+   "tips": [
+    "Solve the easier problem fully first",
+    "Check edge cases such as empty input or one element"
+   ],
+   "before_next": "Solve 15 easy to medium array and string problems.",
+   "label": "Third-party"
+  },
+  {
+   "order": 4,
+   "name": "Voice assessment",
+   "kind": "communication",
+   "what": "One-hour spoken English test with read and speak, listen and speak, short Q&A, fill in the blanks, sentence correction and a free speech task.",
+   "format": [
+    {
+     "text": "About 60 minutes, after clearing the online test (candidate, 2025)",
+     "source": "s6"
+    }
+   ],
+   "evaluates": [
+    "Pronunciation",
+    "Fluency",
+    "Listening"
+   ],
+   "study": [
+    "Reading aloud practice",
+    "Sentence correction",
+    "1-minute talks on simple topics"
+   ],
+   "tips": [
+    "Use a quiet room and a good headset",
+    "Speak at a steady pace; clarity matters more than accent"
+   ],
+   "before_next": "Record yourself reading aloud and fix unclear words.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 5,
+   "name": "Business discussion (technical + HR)",
+   "kind": "technical_interview",
+   "what": "One combined interview on your resume, projects, basics and HR questions.",
+   "format": [
+    {
+     "text": "Business discussion round with the team after the online assessment (official NTH 2023 page)",
+     "source": "s2"
+    },
+    {
+     "text": "20 to 30 minutes on Superset; resume, final-year project, Python, SQL, ML, then strengths, weaknesses and why Wipro (candidate, 2025)",
+     "source": "s6"
+    },
+    {
+     "text": "Only HR-style questions in one 2022 report: bond/relocation, weaknesses, teamwork conflict, learning new tech",
+     "source": "s7"
+    }
+   ],
+   "evaluates": [
+    "Resume depth",
+    "Communication",
+    "Attitude"
+   ],
+   "study": [
+    "Your projects and certifications",
+    "Python and SQL basics",
+    "STAR answers"
+   ],
+   "tips": [
+    "Revise everything on your resume",
+    "Use the STAR method for situation questions",
+    "Ask one good question at the end"
+   ],
+   "before_next": "Prepare answers for bond, relocation and weakness questions.",
+   "label": "Candidate-reported"
+  }
+ ],
+ "questions": [
+  {
+   "stage_order": 5,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "Are you okay with a service bond and relocation?",
+   "options": null,
+   "answer": "Answer honestly; if you are fine with it, say yes clearly and show you are flexible to learn in any location.",
+   "label": "Candidate-reported",
+   "source": "s7"
+  },
+  {
+   "stage_order": 5,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "Tell me about your weaknesses and how you take care of them.",
+   "options": null,
+   "answer": "Name one real, small weakness and the steps you take to improve it, with a short example.",
+   "label": "Candidate-reported",
+   "source": "s7"
+  },
+  {
+   "stage_order": 5,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "medium",
+   "question": "How do you handle a teammate who keeps disagreeing with you?",
+   "options": null,
+   "answer": "Use STAR: listen to their reason, compare options with facts, agree on a decision with the team, and keep the relationship polite.",
+   "label": "Candidate-reported",
+   "source": "s7"
+  },
+  {
+   "stage_order": 5,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "medium",
+   "question": "If your project needs a new technology you do not know, how would you learn it fast?",
+   "options": null,
+   "answer": "Start with official docs and a small hello-world, build a tiny feature, ask seniors, and give a real example from college.",
+   "label": "Candidate-reported",
+   "source": "s7"
+  },
+  {
+   "stage_order": 5,
+   "subject": "Project",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "What challenges did you face in your project and how did you solve them?",
+   "options": null,
+   "answer": "Pick one real technical problem, explain what you tried, what worked and what you learned.",
+   "label": "Candidate-reported",
+   "source": "s6"
+  },
+  {
+   "stage_order": 5,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "Why do you want to join Wipro?",
+   "options": null,
+   "answer": "Link your interests (for example cloud or data work) to Wipro's programs and training, and say what you want to learn.",
+   "label": "Candidate-reported",
+   "source": "s6"
+  },
+  {
+   "stage_order": 1,
+   "subject": "Quant",
+   "type": "mcq",
+   "difficulty": "easy",
+   "question": "What is the simple interest on Rs 5000 at 8% per year for 3 years?",
+   "options": [
+    "Rs 1000",
+    "Rs 1200",
+    "Rs 1250",
+    "Rs 1400"
+   ],
+   "answer": "Rs 1200. SI = 5000 x 8 x 3 / 100.",
+   "label": "AI practice",
+   "source": null
+  },
+  {
+   "stage_order": 1,
+   "subject": "Quant",
+   "type": "mcq",
+   "difficulty": "easy",
+   "question": "An item marked Rs 1000 gets a 20% discount and then a further 10%. What is the final price?",
+   "options": [
+    "Rs 700",
+    "Rs 720",
+    "Rs 750",
+    "Rs 780"
+   ],
+   "answer": "Rs 720. 1000 x 0.8 x 0.9 = 720.",
+   "label": "AI practice",
+   "source": null
+  },
+  {
+   "stage_order": 1,
+   "subject": "Logical",
+   "type": "mcq",
+   "difficulty": "easy",
+   "question": "Ravi walks 5 km north, turns right and walks 3 km, then turns right and walks 5 km. Which direction is he from the start?",
+   "options": [
+    "North",
+    "South",
+    "East",
+    "West"
+   ],
+   "answer": "East. He ends 3 km east of the starting point.",
+   "label": "AI practice",
+   "source": null
+  },
+  {
+   "stage_order": 2,
+   "subject": "Verbal",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "Write a 150-word essay on 'Should mobile phones be allowed in classrooms?'",
+   "options": null,
+   "answer": "Good answers state a clear view in the first lines, give 2 reasons with examples, and end with a short conclusion. Check grammar and spelling.",
+   "label": "AI practice",
+   "source": null
+  },
+  {
+   "stage_order": 3,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "easy",
+   "question": "Read a sentence and print its words in reverse order. Example: 'Wipro hires freshers' gives 'freshers hires Wipro'.",
+   "options": null,
+   "answer": "Split on spaces, reverse the list and join with a space (checked in Python).",
+   "label": "AI practice",
+   "source": null
+  },
+  {
+   "stage_order": 3,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "easy",
+   "question": "Given N integers, print the second largest distinct value. Example: 4 9 9 2 7 gives 7.",
+   "options": null,
+   "answer": "Use set to remove duplicates, sort and take the second last; handle the case of only one distinct value (checked in Python).",
+   "label": "AI practice",
+   "source": null
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "url": "https://en.wikipedia.org/wiki/Wipro",
+   "title": "Wipro - Wikipedia",
+   "publisher": "Wikipedia",
+   "date": null,
+   "label": "Third-party"
+  },
+  {
+   "id": "s2",
+   "url": "https://app.joinsuperset.com/company/wipro/nth.html",
+   "title": "Wipro Elite National Talent Hunt (NTH) | Superset (NTH 2023 page)",
+   "publisher": "Wipro (official, hosted on Superset)",
+   "date": null,
+   "label": "Official"
+  },
+  {
+   "id": "s3",
+   "url": "https://careers.wipro.com/content/Early-Careers/",
+   "title": "Early Careers at Wipro",
+   "publisher": "Wipro (official)",
+   "date": null,
+   "label": "Official"
+  },
+  {
+   "id": "s4",
+   "url": "https://prepinsta.com/wipro-nlth/placement-papers/",
+   "title": "Wipro Elite NTH Placement Papers & Previous Year Paper 2025",
+   "publisher": "PrepInsta",
+   "date": "2025-08-08",
+   "label": "Third-party"
+  },
+  {
+   "id": "s5",
+   "url": "https://prepinsta.com/wipro-nlth/eligibility-criteria/",
+   "title": "Wipro NTH Eligibility Criteria 2025 for Freshers",
+   "publisher": "PrepInsta",
+   "date": "2025-08-08",
+   "label": "Third-party"
+  },
+  {
+   "id": "s6",
+   "url": "https://www.geeksforgeeks.org/interview-experiences/company-name-interview-experience-for-job-title-100/",
+   "title": "Wipro Elite Interview Experience 2025",
+   "publisher": "GeeksforGeeks",
+   "date": "2025-07-25",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s7",
+   "url": "https://www.geeksforgeeks.org/interview-experiences/wipro-elite-nth-interview-experience-off-campus-2022/",
+   "title": "Wipro Elite NTH Interview Experience (Off-Campus) 2022",
+   "publisher": "GeeksforGeeks",
+   "date": "2022-04-22",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s8",
+   "url": "https://www.economictimes.com/tech/information-tech/wipro-offers-lower-paying-roles-to-freshers-awaiting-onboarding/articleshow/98093091.cms",
+   "title": "Wipro asks freshers awaiting onboarding to take up offers at 50% pay cut",
+   "publisher": "The Economic Times",
+   "date": "2023-02-20",
+   "label": "Third-party"
+  }
+ ]
+}

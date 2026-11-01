@@ -1,0 +1,555 @@
+{
+ "slug": "tcs",
+ "name": "Tata Consultancy Services (TCS)",
+ "overview": "TCS is an Indian IT services and consulting company headquartered in Mumbai and part of the Tata Group. It works across 46 countries and is one of the largest private-sector employers in India. Most freshers join through the TCS National Qualifier Test (NQT).",
+ "overview_source": "s1",
+ "careers_url": "https://www.tcs.com/careers/india/tcs-all-india-nqt-hiring",
+ "variation_note": "One NQT decides Ninja, Digital or Prime; section timings, cutoffs and interview rounds change by year, slot and campus.",
+ "roles": [
+  {
+   "title": "Assistant System Engineer Trainee (Ninja)",
+   "description": "Entry track for application development, maintenance, testing and support work. Given for clearing the NQT at the base cutoff.",
+   "skills": [
+    "Programming basics (C/Java/Python)",
+    "OOP",
+    "DBMS and SQL",
+    "Aptitude",
+    "Communication"
+   ],
+   "eligibility": [
+    {
+     "text": "BE/BTech/ME/MTech/MCA/MSc/MS, full-time courses only",
+     "source": "s4"
+    },
+    {
+     "text": "Minimum 60% or 6.0 CGPA in 10th, 12th, diploma, UG and PG",
+     "source": "s4"
+    },
+    {
+     "text": "Maximum 1 active backlog at the time of the test, all cleared before joining (GfG)",
+     "source": "s4"
+    },
+    {
+     "text": "No backlogs at the time of the selection process (PrepInsta; sources disagree, check the official notice)",
+     "source": "s5"
+    },
+    {
+     "text": "Academic gap not more than 24 months",
+     "source": "s4"
+    },
+    {
+     "text": "Batches allowed: 2024, 2025 and 2026 (NQT hiring page)",
+     "source": "s2"
+    }
+   ],
+   "compensation": [
+    {
+     "text": "3.36 LPA for UG, 3.53 LPA for PG (as reported)",
+     "source": "s5"
+    },
+    {
+     "text": "3.36 LPA UG / 3.53 LPA PG (as reported)",
+     "source": "s4"
+    }
+   ]
+  },
+  {
+   "title": "System Engineer (Digital)",
+   "description": "Higher track for development and newer technology work. Needs a higher NQT score and a tougher technical interview.",
+   "skills": [
+    "DSA",
+    "OOP",
+    "DBMS and SQL",
+    "One language in depth",
+    "Projects"
+   ],
+   "eligibility": [
+    {
+     "text": "Same academic criteria as Ninja; tagged by a higher NQT cutoff",
+     "source": "s4"
+    }
+   ],
+   "compensation": [
+    {
+     "text": "7.09 to 7.30 LPA for UG, 7.39 to 7.60 LPA for PG at 0 to 1 year (as reported)",
+     "source": "s5"
+    },
+    {
+     "text": "7.0 LPA UG / 7.3 LPA PG (as reported)",
+     "source": "s4"
+    }
+   ]
+  },
+  {
+   "title": "Prime",
+   "description": "Top track for AI, ML and next-generation technology work. Highest NQT cutoff and hardest interview, often with live coding.",
+   "skills": [
+    "Advanced DSA",
+    "System design basics",
+    "AI/ML basics",
+    "Projects"
+   ],
+   "eligibility": [
+    {
+     "text": "Same academic criteria; tagged by the highest NQT cutoff",
+     "source": "s4"
+    }
+   ],
+   "compensation": [
+    {
+     "text": "9.09 to 9.30 LPA for UG, 11.59 to 11.80 LPA for PG at 0 to 1 year (as reported)",
+     "source": "s5"
+    },
+    {
+     "text": "9.0 LPA UG / 11.5 LPA PG (as reported)",
+     "source": "s4"
+    }
+   ]
+  }
+ ],
+ "stages": [
+  {
+   "order": 1,
+   "name": "NQT Part A: Foundation section",
+   "kind": "aptitude",
+   "what": "Mandatory first part of the NQT with numerical, verbal and reasoning questions. Taken at a TCS iON centre. No negative marking.",
+   "format": [
+    {
+     "text": "TCS NQT is one integrated test of 190 minutes with two mandatory parts (official hiring page, seen in search snippet)",
+     "source": "s2"
+    },
+    {
+     "text": "65 questions in 75 minutes: Verbal 25, Reasoning 20, Quantitative 20",
+     "source": "s4"
+    },
+    {
+     "text": "65 questions in 76 minutes: Numerical 20 (25 min), Verbal 25 (26 min), Reasoning 20 (25 min)",
+     "source": "s3"
+    },
+    {
+     "text": "Verbal now has 20 sentence completion, 4 passage recall and 1 professional email writing task; non-adaptive, no negative marking",
+     "source": "s3"
+    }
+   ],
+   "evaluates": [
+    "Speed with numbers",
+    "Reading and writing English",
+    "Logical reasoning"
+   ],
+   "study": [
+    "Percentages, ratios, averages",
+    "Time and work, speed and distance",
+    "Number series, coding-decoding",
+    "Seating arrangement, blood relations",
+    "Sentence completion",
+    "Email writing"
+   ],
+   "tips": [
+    "You cannot go back to a question once you move on, so answer before moving",
+    "No negative marking, so never leave a question blank",
+    "Calculator and rough pad are on screen; practise using them"
+   ],
+   "before_next": "Finish timed mock tests of the full Foundation section at least twice.",
+   "label": "Third-party"
+  },
+  {
+   "order": 2,
+   "name": "NQT Part B: Advanced quant and reasoning",
+   "kind": "aptitude",
+   "what": "Harder quantitative and reasoning questions. Your score here, with coding, decides whether you are considered for Digital or Prime.",
+   "format": [
+    {
+     "text": "14 to 16 questions (shared) in 25 minutes",
+     "source": "s3"
+    },
+    {
+     "text": "About 15 questions in 25 minutes",
+     "source": "s4"
+    }
+   ],
+   "evaluates": [
+    "Harder maths",
+    "Data interpretation",
+    "Complex reasoning"
+   ],
+   "study": [
+    "Permutations and combinations",
+    "Probability",
+    "Data interpretation (tables, pie charts)",
+    "Data sufficiency",
+    "Syllogism",
+    "Cube and paper folding"
+   ],
+   "tips": [
+    "Skip and guess fast on long DI sets; time is shared",
+    "Learn shortcut formulas for P&C and probability"
+   ],
+   "before_next": "Practise 2 to 3 advanced aptitude sets with a 25 minute timer.",
+   "label": "Third-party"
+  },
+  {
+   "order": 3,
+   "name": "NQT Part B: Advanced coding",
+   "kind": "coding",
+   "what": "Write full programs for problem statements in a language of your choice. Input is read from standard input.",
+   "format": [
+    {
+     "text": "2 coding questions in 90 minutes",
+     "source": "s3"
+    },
+    {
+     "text": "2 questions in 90 minutes covering programming constructs, data structures and algorithms",
+     "source": "s4"
+    }
+   ],
+   "evaluates": [
+    "Problem solving",
+    "Clean input/output handling",
+    "Basic DSA"
+   ],
+   "study": [
+    "Arrays and strings",
+    "Number problems (digits, bits)",
+    "Sorting and searching",
+    "Hashing",
+    "Greedy and simple DP"
+   ],
+   "tips": [
+    "Read input exactly as the format says",
+    "Test edge cases like N=1 before submitting",
+    "Write the simple brute force first, then improve"
+   ],
+   "before_next": "Solve the PrepInsta TCS NQT slot-wise coding questions in your main language.",
+   "label": "Third-party"
+  },
+  {
+   "order": 4,
+   "name": "Technical interview",
+   "kind": "technical_interview",
+   "what": "Face-to-face or virtual round on programming basics, OOP, DBMS and your final-year project. Harder for Digital and Prime.",
+   "format": [
+    {
+     "text": "Deep dive into data structures, OOP, DBMS and final-year project",
+     "source": "s4"
+    },
+    {
+     "text": "About 25 to 30 minutes, in person; questions on Python vs Java, DBMS JOIN with UPDATE (Digital, Jan 2026)",
+     "source": "s6"
+    }
+   ],
+   "evaluates": [
+    "Core CS concepts",
+    "Project ownership",
+    "Clear explanation"
+   ],
+   "study": [
+    "OOP pillars",
+    "SQL joins and UPDATE with JOIN",
+    "Python vs Java execution",
+    "TCP vs UDP, subnet mask",
+    "Your projects end to end"
+   ],
+   "tips": [
+    "Say honestly when you do not know, then explain what you do know",
+    "Be ready to explain every tool written in your resume"
+   ],
+   "before_next": "Prepare a 2-minute explanation of each project and revise SQL joins.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 5,
+   "name": "Managerial interview",
+   "kind": "hr_interview",
+   "what": "Questions on problem solving, situations, teamwork and project decisions.",
+   "format": [
+    {
+     "text": "Focus on problem-solving, situational judgment and project management",
+     "source": "s4"
+    },
+    {
+     "text": "About 20 minutes; project, team lead role, metadata, false positive rate (Digital, Jan 2026)",
+     "source": "s6"
+    }
+   ],
+   "evaluates": [
+    "Decision making",
+    "Leadership",
+    "Communication"
+   ],
+   "study": [
+    "Your role in team projects",
+    "STAR method answers",
+    "Basic ML metrics if you have ML projects"
+   ],
+   "tips": [
+    "Use real examples from projects",
+    "Keep answers short and structured"
+   ],
+   "before_next": "Write down 3 STAR stories from your college work.",
+   "label": "Candidate-reported"
+  },
+  {
+   "order": 6,
+   "name": "HR interview",
+   "kind": "hr_interview",
+   "what": "Behaviour, communication, document check and questions on relocation and shifts.",
+   "format": [
+    {
+     "text": "Behavioural assessment, communication check, documents and relocation flexibility",
+     "source": "s4"
+    },
+    {
+     "text": "Willing to relocate and work night shifts were asked (older Ninja report)",
+     "source": "s7"
+    }
+   ],
+   "evaluates": [
+    "Attitude",
+    "Flexibility",
+    "Communication"
+   ],
+   "study": [
+    "Tell me about yourself",
+    "Why TCS",
+    "Relocation and shift answers"
+   ],
+   "tips": [
+    "Keep original documents and photocopies ready",
+    "Answer relocation questions honestly"
+   ],
+   "before_next": "Keep marksheets, ID and NQT details ready for verification.",
+   "label": "Candidate-reported"
+  }
+ ],
+ "questions": [
+  {
+   "stage_order": 3,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "easy",
+   "question": "Given an array of N integers, count the elements that are greater than all elements before them. The first element always counts. Example: 7 4 8 2 9 gives 3.",
+   "options": null,
+   "answer": "Keep a running maximum; each time a value is greater than it, add 1 and update the maximum. [7,4,8,2,9] gives 3 and [3,4,5,8,9] gives 5 (checked in Python).",
+   "label": "Candidate-reported",
+   "source": "s8"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "easy",
+   "question": "A product code N is printed on each item. The price is the product of all digits of N. Example: 5244 gives 160.",
+   "options": null,
+   "answer": "Multiply the digits one by one: 5*2*4*4 = 160 (checked in Python).",
+   "label": "Candidate-reported",
+   "source": "s8"
+  },
+  {
+   "stage_order": 3,
+   "subject": "Coding",
+   "type": "coding",
+   "difficulty": "medium",
+   "question": "Given a positive integer N (1 to 100), toggle all bits of its binary form from the most significant bit down and print the new value. Example: 10 (1010) gives 5 (0101).",
+   "options": null,
+   "answer": "Build a mask of all 1s with the same bit length, mask = (1 << bit_length) - 1, and print N XOR mask. 10 XOR 15 = 5 (checked in Python).",
+   "label": "Candidate-reported",
+   "source": "s8"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Other",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "What is the difference between a Python list and an array?",
+   "options": null,
+   "answer": "A list can hold mixed types and grows freely; an array (array module or NumPy) holds one type, uses less memory and is faster for numeric work.",
+   "label": "Candidate-reported",
+   "source": "s6"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Other",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "Is Python a compiled or an interpreted language? Can Python code run on another system without an interpreter?",
+   "options": null,
+   "answer": "Python source is compiled to bytecode and then run by the Python interpreter (virtual machine), so it is usually called interpreted. It needs an interpreter on the other system unless it is packaged with one (for example PyInstaller).",
+   "label": "Candidate-reported",
+   "source": "s6"
+  },
+  {
+   "stage_order": 4,
+   "subject": "SQL",
+   "type": "short",
+   "difficulty": "medium",
+   "question": "Write an UPDATE query that uses a JOIN, for example raise salary by 10% for employees in the 'Sales' department.",
+   "options": null,
+   "answer": "MySQL: UPDATE employee e JOIN department d ON e.dept_id = d.id SET e.salary = e.salary * 1.10 WHERE d.name = 'Sales'; (syntax differs by database).",
+   "label": "Candidate-reported",
+   "source": "s6"
+  },
+  {
+   "stage_order": 5,
+   "subject": "Project",
+   "type": "short",
+   "difficulty": "medium",
+   "question": "What is false positive rate, and how do you think about it in a multi-class classification problem?",
+   "options": null,
+   "answer": "FPR = FP / (FP + TN). For multi-class you compute it per class (one class vs rest) and then average (macro or weighted).",
+   "label": "Candidate-reported",
+   "source": "s6"
+  },
+  {
+   "stage_order": 4,
+   "subject": "Networks",
+   "type": "short",
+   "difficulty": "easy",
+   "question": "What is a subnet mask? What is the difference between TCP and UDP?",
+   "options": null,
+   "answer": "A subnet mask splits an IP address into network and host parts (for example 255.255.255.0). TCP is connection-based and reliable with ordering; UDP is connectionless, faster and has no delivery guarantee.",
+   "label": "Candidate-reported",
+   "source": "s7"
+  },
+  {
+   "stage_order": 6,
+   "subject": "HR",
+   "type": "hr",
+   "difficulty": "easy",
+   "question": "Are you willing to relocate and work in night shifts?",
+   "options": null,
+   "answer": "Answer honestly and positively, for example: yes, I am open to relocating and to shifts while I learn the project.",
+   "label": "Candidate-reported",
+   "source": "s7"
+  },
+  {
+   "stage_order": 1,
+   "subject": "Quant",
+   "type": "mcq",
+   "difficulty": "easy",
+   "question": "A train 240 m long passes a pole in 12 seconds. What is its speed in km/h?",
+   "options": [
+    "60",
+    "66",
+    "72",
+    "80"
+   ],
+   "answer": "72 km/h. Speed = 240/12 = 20 m/s, and 20 x 18/5 = 72.",
+   "label": "AI practice",
+   "source": null
+  },
+  {
+   "stage_order": 1,
+   "subject": "Quant",
+   "type": "mcq",
+   "difficulty": "easy",
+   "question": "Two numbers are in the ratio 3:5 and their sum is 64. What is the larger number?",
+   "options": [
+    "24",
+    "36",
+    "40",
+    "44"
+   ],
+   "answer": "40. Parts = 8, one part = 8, larger = 5 x 8 = 40.",
+   "label": "AI practice",
+   "source": null
+  },
+  {
+   "stage_order": 1,
+   "subject": "Logical",
+   "type": "mcq",
+   "difficulty": "easy",
+   "question": "Find the next number: 2, 6, 12, 20, 30, ?",
+   "options": [
+    "40",
+    "42",
+    "44",
+    "48"
+   ],
+   "answer": "42. Differences are 4, 6, 8, 10, so the next difference is 12.",
+   "label": "AI practice",
+   "source": null
+  },
+  {
+   "stage_order": 2,
+   "subject": "Quant",
+   "type": "mcq",
+   "difficulty": "medium",
+   "question": "Two fair dice are thrown. What is the probability that the sum is 7?",
+   "options": [
+    "1/12",
+    "1/9",
+    "1/6",
+    "5/36"
+   ],
+   "answer": "1/6. Six of the 36 outcomes give 7.",
+   "label": "AI practice",
+   "source": null
+  }
+ ],
+ "sources": [
+  {
+   "id": "s1",
+   "url": "https://en.wikipedia.org/wiki/Tata_Consultancy_Services",
+   "title": "Tata Consultancy Services - Wikipedia",
+   "publisher": "Wikipedia",
+   "date": null,
+   "label": "Third-party"
+  },
+  {
+   "id": "s2",
+   "url": "https://www.tcs.com/careers/india/tcs-all-india-nqt-hiring",
+   "title": "TCS All India NQT Hiring Batch of 2024, 2025 and 2026",
+   "publisher": "TCS (official)",
+   "date": null,
+   "label": "Official"
+  },
+  {
+   "id": "s3",
+   "url": "https://prepinsta.com/tcs-nqt/syllabus/",
+   "title": "(Updated) TCS NQT Syllabus 2026 & Exam Pattern",
+   "publisher": "PrepInsta",
+   "date": "2026-07-09",
+   "label": "Third-party"
+  },
+  {
+   "id": "s4",
+   "url": "https://www.geeksforgeeks.org/competitive-exam-experiences/tcs-nqt-exam-preparation-and-guide/",
+   "title": "TCS NQT 2026: Exam Pattern, Syllabus & Preparation Guide",
+   "publisher": "GeeksforGeeks",
+   "date": "2026-03-03",
+   "label": "Third-party"
+  },
+  {
+   "id": "s5",
+   "url": "https://prepinsta.com/tcs-nqt/placement-papers/salary/",
+   "title": "TCS NQT Salary For 2026 Freshers batch",
+   "publisher": "PrepInsta",
+   "date": "2026-07-10",
+   "label": "Third-party"
+  },
+  {
+   "id": "s6",
+   "url": "https://www.geeksforgeeks.org/interview-experiences/tcs-interview-experience-for-digital-role-2026-graduate-on-campus/",
+   "title": "TCS Interview Experience for Digital Role (2026 graduate on campus)",
+   "publisher": "GeeksforGeeks",
+   "date": "2026-02-23",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s7",
+   "url": "https://www.geeksforgeeks.org/interview-experiences/tcs-ninja-interview-experience-and-interview-questions/",
+   "title": "TCS Ninja Interview Experience and Interview Questions",
+   "publisher": "GeeksforGeeks",
+   "date": "2025-07-11",
+   "label": "Candidate-reported"
+  },
+  {
+   "id": "s8",
+   "url": "https://prepinsta.com/tcs-nqt/placement-papers/coding-questions/",
+   "title": "TCS NQT Coding Questions and Answers 2026",
+   "publisher": "PrepInsta",
+   "date": "2026-08-08",
+   "label": "Candidate-reported"
+  }
+ ]
+}
